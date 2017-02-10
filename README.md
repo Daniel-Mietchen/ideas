@@ -1,8 +1,8 @@
 # About
 
 This repo is for keeping and possibly developing ideas (and I am mainly thinking of research ideas here, though in a broad sense) that I 
-* cannot immediately put into practice
-* think may be worth another look
+* cannot immediately put into practice myself
+* think may be worth another look, including by people who come in here via search engines
 
 # Mechanics
 
