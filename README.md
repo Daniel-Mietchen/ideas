@@ -4,7 +4,7 @@ This repo is for keeping and possibly developing ideas (and I am mainly thinking
 * cannot immediately put into practice myself
 * think may be worth another look, including by people who come in here via search engines
 
-I am also experimenting with using this repo for managing to-do stuff in general, so not just broad ideas but also small things to do when I have [5 min](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+label%3A5min) of time, [an hour](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+label%3A1h) or [a day](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+label%3A1day).
+I am also experimenting with using this repo for managing some of my to-do stuff in general, so not just broad ideas but also small things to do when I have [5 min](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+label%3A5min) of time, [an hour](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+label%3A1h) or [a day](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+label%3A1day). While many of these things are one-off, there are also [recurring activities](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aopen+sort%3Acreated-asc+label%3Arecurring).
 
 # Mechanics
 
