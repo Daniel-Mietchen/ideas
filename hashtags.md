@@ -45,6 +45,9 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#womeninscience](https://twitter.com/hashtag/womeninscience?f=tweets&vertical=default&src=hash)
 * [#mozfest](https://twitter.com/hashtag/mozfest?f=tweets&vertical=default&src=hash)
 * [#brainhack](https://twitter.com/hashtag/brainhack?f=tweets&vertical=default&src=hash)
+* [#JATS4R](https://twitter.com/hashtag/JATS4R?f=tweets&vertical=default&src=hash) &mdash; http://jats4r.org/
+* [#JATS](https://twitter.com/hashtag/JATS?f=tweets&vertical=default&src=hash) &mdash; http://jats.nlm.nih.gov/
+* [#jatscon](https://twitter.com/hashtag/jatscon?f=tweets&vertical=default&src=hash) &mdash; http://jats.nlm.nih.gov/jats-con/
 
 # One-off
 
