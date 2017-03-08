@@ -2,7 +2,7 @@
 
 This file is an attempt to keep track of hashtags that are relevant to me, as per [issue 141](https://github.com/Daniel-Mietchen/ideas/issues/141).
 
-# Permanent
+# Weekly
 
 * [#openscience](https://twitter.com/hashtag/openscience?f=tweets&vertical=default&src=hash)
 * [#opendata](https://twitter.com/hashtag/opendata?f=tweets&vertical=default&src=hash)
@@ -16,12 +16,16 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#ZikaOpen](https://twitter.com/hashtag/ZikaOpen?f=tweets&vertical=default&src=hash)
 * [#OpenZika](https://twitter.com/hashtag/OpenZika?f=tweets&vertical=default&src=hash)
 
-# Cyclic
+# Monthly
 
 * [#opendataday](https://twitter.com/hashtag/opendataday?f=tweets&vertical=default&src=hash)
 * [#openaccessweek](https://twitter.com/hashtag/openaccessweek?f=tweets&vertical=default&src=hash)
 * [#wikimania](https://twitter.com/hashtag/wikimania?f=tweets&vertical=default&src=hash)
 * [#biocuration](https://twitter.com/hashtag/biocuration?f=tweets&vertical=default&src=hash)
+* [#pydata](https://twitter.com/hashtag/pydata?f=tweets&vertical=default&src=hash)
+* [#pycon](https://twitter.com/hashtag/pycon?f=tweets&vertical=default&src=hash)
+* [#OpenCon](https://twitter.com/hashtag/OpenCon?f=tweets&vertical=default&src=hash)
+* [#brainhack](https://twitter.com/hashtag/brainhack?f=tweets&vertical=default&src=hash)
 
 # One-off
 
