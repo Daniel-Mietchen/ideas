@@ -8,8 +8,12 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#opendata](https://twitter.com/hashtag/opendata?f=tweets&vertical=default&src=hash)
 * [#openresearch](https://twitter.com/hashtag/openresearch?f=tweets&vertical=default&src=hash)
 * [#openaccess](https://twitter.com/hashtag/openaccess?f=tweets&vertical=default&src=hash)
+* [#reproducibility](https://twitter.com/hashtag/reproducibility?f=tweets&vertical=default&src=hash)
 * [#ASAPbio](https://twitter.com/hashtag/ASAPbio?f=tweets&vertical=default&src=hash) &mdash; http://asapbio.org/
 * [#SDGs](https://twitter.com/hashtag/SDGs?f=tweets&vertical=default&src=hash) &mdash; https://sustainabledevelopment.un.org/sdgs
+* [#medicine](https://twitter.com/hashtag/medicine?f=tweets&vertical=default&src=hash)
+* [#biodiversity](https://twitter.com/hashtag/biodiversity?f=tweets&vertical=default&src=hash)
+* [#python](https://twitter.com/hashtag/python?f=tweets&vertical=default&src=hash)
 * [#Zika](https://twitter.com/hashtag/Zika?f=tweets&vertical=default&src=hash)
 * [#ZikaVirus](https://twitter.com/hashtag/ZikaVirus?f=tweets&vertical=default&src=hash)
 * [#ZikaResearch](https://twitter.com/hashtag/ZikaResearch?f=tweets&vertical=default&src=hash)
@@ -18,10 +22,13 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 
 # Monthly
 
+* [#fairdata](https://twitter.com/hashtag/fairdata?f=tweets&vertical=default&src=hash)
+* [#futurecommons](https://twitter.com/hashtag/futurecommons?f=tweets&vertical=default&src=hash)
 * [#opensource](https://twitter.com/hashtag/opensource?f=tweets&vertical=default&src=hash)
 * [#openhardware](https://twitter.com/hashtag/openhardware?f=tweets&vertical=default&src=hash)
 * [#citizenscience](https://twitter.com/hashtag/citizenscience?f=tweets&vertical=default&src=hash)
 * [#peerreview](https://twitter.com/hashtag/peerreview?f=tweets&vertical=default&src=hash)
+* [#phdchat](https://twitter.com/hashtag/phdchat?f=tweets&vertical=default&src=hash)
 * [#opendataday](https://twitter.com/hashtag/opendataday?f=tweets&vertical=default&src=hash)
 * [#openaccessweek](https://twitter.com/hashtag/openaccessweek?f=tweets&vertical=default&src=hash)
 * [#wikimania](https://twitter.com/hashtag/wikimania?f=tweets&vertical=default&src=hash)
@@ -29,8 +36,9 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#pydata](https://twitter.com/hashtag/pydata?f=tweets&vertical=default&src=hash)
 * [#pycon](https://twitter.com/hashtag/pycon?f=tweets&vertical=default&src=hash)
 * [#OpenCon](https://twitter.com/hashtag/OpenCon?f=tweets&vertical=default&src=hash)
-* [#brainhack](https://twitter.com/hashtag/brainhack?f=tweets&vertical=default&src=hash)
+* [#womeninscience](https://twitter.com/hashtag/womeninscience?f=tweets&vertical=default&src=hash)
 * [#mozfest](https://twitter.com/hashtag/mozfest?f=tweets&vertical=default&src=hash)
+* [#brainhack](https://twitter.com/hashtag/brainhack?f=tweets&vertical=default&src=hash)
 
 # One-off
 
