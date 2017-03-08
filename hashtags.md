@@ -9,6 +9,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#openresearch](https://twitter.com/hashtag/openresearch?f=tweets&vertical=default&src=hash)
 * [#openaccess](https://twitter.com/hashtag/openaccess?f=tweets&vertical=default&src=hash)
 * [#reproducibility](https://twitter.com/hashtag/reproducibility?f=tweets&vertical=default&src=hash)
+* [#datasharing](https://twitter.com/hashtag/datasharing?f=tweets&vertical=default&src=hash)
 * [#ASAPbio](https://twitter.com/hashtag/ASAPbio?f=tweets&vertical=default&src=hash) &mdash; https://asapbio.org/
 * [#WikiCite](https://twitter.com/hashtag/WikiCite?f=tweets&vertical=default&src=hash) &mdash; https://meta.wikimedia.org/wiki/WikiCite
 * [#Wikidata](https://twitter.com/hashtag/Wikidata?f=tweets&vertical=default&src=hash) &mdash; https://wikidata.org/
@@ -16,6 +17,8 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#SDGs](https://twitter.com/hashtag/SDGs?f=tweets&vertical=default&src=hash) &mdash; https://sustainabledevelopment.un.org/sdgs
 * [#medicine](https://twitter.com/hashtag/medicine?f=tweets&vertical=default&src=hash)
 * [#biodiversity](https://twitter.com/hashtag/biodiversity?f=tweets&vertical=default&src=hash)
+* [#force11](https://twitter.com/hashtag/force11?f=tweets&vertical=default&src=hash)
+* [#beyondthepdf](https://twitter.com/hashtag/beyondthepdf?f=tweets&vertical=default&src=hash)
 * [#python](https://twitter.com/hashtag/python?f=tweets&vertical=default&src=hash)
 * [#Zika](https://twitter.com/hashtag/Zika?f=tweets&vertical=default&src=hash)
 * [#ZikaVirus](https://twitter.com/hashtag/ZikaVirus?f=tweets&vertical=default&src=hash)
