@@ -9,7 +9,10 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#openresearch](https://twitter.com/hashtag/openresearch?f=tweets&vertical=default&src=hash)
 * [#openaccess](https://twitter.com/hashtag/openaccess?f=tweets&vertical=default&src=hash)
 * [#reproducibility](https://twitter.com/hashtag/reproducibility?f=tweets&vertical=default&src=hash)
-* [#ASAPbio](https://twitter.com/hashtag/ASAPbio?f=tweets&vertical=default&src=hash) &mdash; http://asapbio.org/
+* [#ASAPbio](https://twitter.com/hashtag/ASAPbio?f=tweets&vertical=default&src=hash) &mdash; https://asapbio.org/
+* [#WikiCite](https://twitter.com/hashtag/WikiCite?f=tweets&vertical=default&src=hash) &mdash; https://meta.wikimedia.org/wiki/WikiCite
+* [#Wikidata](https://twitter.com/hashtag/Wikidata?f=tweets&vertical=default&src=hash) &mdash; https://wikidata.org/
+* [#Wikimedia](https://twitter.com/hashtag/Wikimedia?f=tweets&vertical=default&src=hash) &mdash; https://wikimedia.org/
 * [#SDGs](https://twitter.com/hashtag/SDGs?f=tweets&vertical=default&src=hash) &mdash; https://sustainabledevelopment.un.org/sdgs
 * [#medicine](https://twitter.com/hashtag/medicine?f=tweets&vertical=default&src=hash)
 * [#biodiversity](https://twitter.com/hashtag/biodiversity?f=tweets&vertical=default&src=hash)
