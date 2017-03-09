@@ -28,10 +28,14 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 
 # Monthly
 
+* [#mark2cure](https://twitter.com/hashtag/mark2cure?f=tweets&vertical=default&src=hash) &mdash; https://mark2cure.org/
 * [#fairdata](https://twitter.com/hashtag/fairdata?f=tweets&vertical=default&src=hash)
 * [#futurecommons](https://twitter.com/hashtag/futurecommons?f=tweets&vertical=default&src=hash)
 * [#opensource](https://twitter.com/hashtag/opensource?f=tweets&vertical=default&src=hash)
 * [#openhardware](https://twitter.com/hashtag/openhardware?f=tweets&vertical=default&src=hash)
+* [#iamascientistbecause](https://twitter.com/hashtag/iamascientistbecause?f=tweets&vertical=default&src=hash)
+* [#imascientist](https://twitter.com/hashtag/imascientist?f=tweets&vertical=default&src=hash) &mdash; https://imascientist.org.uk/
+* [#scientistatwork](https://twitter.com/hashtag/scientistatwork?f=tweets&vertical=default&src=hash)
 * [#citizenscience](https://twitter.com/hashtag/citizenscience?f=tweets&vertical=default&src=hash)
 * [#peerreview](https://twitter.com/hashtag/peerreview?f=tweets&vertical=default&src=hash)
 * [#phdchat](https://twitter.com/hashtag/phdchat?f=tweets&vertical=default&src=hash)
@@ -48,6 +52,8 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#JATS4R](https://twitter.com/hashtag/JATS4R?f=tweets&vertical=default&src=hash) &mdash; http://jats4r.org/
 * [#JATS](https://twitter.com/hashtag/JATS?f=tweets&vertical=default&src=hash) &mdash; http://jats.nlm.nih.gov/
 * [#jatscon](https://twitter.com/hashtag/jatscon?f=tweets&vertical=default&src=hash) &mdash; http://jats.nlm.nih.gov/jats-con/
+* [#fieldworkfail](https://twitter.com/hashtag/fieldworkfail?f=tweets&vertical=default&src=hash)
+* [#danceyourphd](https://twitter.com/hashtag/danceyourphd?f=tweets&vertical=default&src=hash)
 
 # One-off
 
