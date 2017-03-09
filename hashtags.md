@@ -37,6 +37,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#imascientist](https://twitter.com/hashtag/imascientist?f=tweets&vertical=default&src=hash) &mdash; https://imascientist.org.uk/
 * [#scientistatwork](https://twitter.com/hashtag/scientistatwork?f=tweets&vertical=default&src=hash)
 * [#citizenscience](https://twitter.com/hashtag/citizenscience?f=tweets&vertical=default&src=hash)
+* [#citsci](https://twitter.com/hashtag/citsci?f=tweets&vertical=default&src=hash)
 * [#peerreview](https://twitter.com/hashtag/peerreview?f=tweets&vertical=default&src=hash)
 * [#phdchat](https://twitter.com/hashtag/phdchat?f=tweets&vertical=default&src=hash)
 * [#opendataday](https://twitter.com/hashtag/opendataday?f=tweets&vertical=default&src=hash)
@@ -54,6 +55,9 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#jatscon](https://twitter.com/hashtag/jatscon?f=tweets&vertical=default&src=hash) &mdash; http://jats.nlm.nih.gov/jats-con/
 * [#fieldworkfail](https://twitter.com/hashtag/fieldworkfail?f=tweets&vertical=default&src=hash)
 * [#danceyourphd](https://twitter.com/hashtag/danceyourphd?f=tweets&vertical=default&src=hash)
+* [#doesitfart](https://twitter.com/hashtag/doesitfart?f=tweets&vertical=default&src=hash) &mdash; [background](http://gizmodo.com/brilliant-scientists-are-compiling-a-database-of-fartin-1791019159)
+
+doesitfart
 
 # One-off
 
