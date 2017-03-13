@@ -75,3 +75,5 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [combining multiple search terms](https://twitter.com/search?vertical=default&q=openscienceprize%20OR%20%22open%20scienceprize%22%20OR%20(openscience%20AND%20prize))
 * [My TweetedTimes list](https://www.wikidata.org/wiki/User:Daniel_Mietchen/TweetedTimes)
 * [related hashtags](http://hashtagify.me/hashtag/openscience)
+* [Template:Twitter hashtag](http://wiki.openstreetmap.org/wiki/Template:Twitter_hashtag)
+* [a hashtag tracking page on Wikiversity](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Hashtags)
