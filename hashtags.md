@@ -29,7 +29,8 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 # Monthly
 
 * [#mark2cure](https://twitter.com/hashtag/mark2cure?vertical=default&src=hash) &mdash; https://mark2cure.org/
-* [#fairdata](https://twitter.com/hashtag/fairdata?vertical=default&src=hash)
+* [#FAIRdata](https://twitter.com/hashtag/FAIRdata?vertical=default&src=hash)
+* [#activeDMPs](https://twitter.com/hashtag/activeDMPs?vertical=default&src=hash)
 * [#futurecommons](https://twitter.com/hashtag/futurecommons?vertical=default&src=hash)
 * [#opensource](https://twitter.com/hashtag/opensource?vertical=default&src=hash)
 * [#openhardware](https://twitter.com/hashtag/openhardware?vertical=default&src=hash)
