@@ -33,6 +33,8 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#activeDMPs](https://twitter.com/hashtag/activeDMPs?vertical=default&src=hash)
 * [#futurecommons](https://twitter.com/hashtag/futurecommons?vertical=default&src=hash)
 * [#opensource](https://twitter.com/hashtag/opensource?vertical=default&src=hash)
+* [#science](https://twitter.com/hashtag/science?vertical=default&src=hash)
+* [#research](https://twitter.com/hashtag/research?vertical=default&src=hash)
 * [#openhardware](https://twitter.com/hashtag/openhardware?vertical=default&src=hash)
 * [#iamascientistbecause](https://twitter.com/hashtag/iamascientistbecause?vertical=default&src=hash)
 * [#imascientist](https://twitter.com/hashtag/imascientist?vertical=default&src=hash) &mdash; https://imascientist.org.uk/
@@ -49,6 +51,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#pydata](https://twitter.com/hashtag/pydata?vertical=default&src=hash)
 * [#pycon](https://twitter.com/hashtag/pycon?vertical=default&src=hash)
 * [#OpenCon](https://twitter.com/hashtag/OpenCon?vertical=default&src=hash)
+* [#i4oc](https://twitter.com/hashtag/i4oc?vertical=default&src=hash)
 * [#womeninscience](https://twitter.com/hashtag/womeninscience?vertical=default&src=hash)
 * [#mozfest](https://twitter.com/hashtag/mozfest?vertical=default&src=hash)
 * [#brainhack](https://twitter.com/hashtag/brainhack?vertical=default&src=hash)
