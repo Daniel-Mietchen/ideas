@@ -66,6 +66,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 # One-off
 
 * [#openscienceprize](https://twitter.com/hashtag/openscienceprize?vertical=default&src=hash) &mdash; http://openscienceprize.org/
+* [#pidapalooza](https://twitter.com/hashtag/pidapalooza?vertical=default&src=hash) &mdash; http://pidapalooza.org/
 * [#hack4ac](https://twitter.com/hashtag/hack4ac?vertical=default&src=hash) &mdash; http://hack4ac.com/
 * [#odd4r](https://twitter.com/hashtag/odd4r?vertical=default&src=hash) &mdash; https://github.com/sparcopen/Open-Research-doathon
 * [#ssw17](https://twitter.com/hashtag/sssw17?vertical=default&src=hash) &mdash; https://dans.knaw.nl/nl/actueel/software-sustainability-workshop-7-9-march .
