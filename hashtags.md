@@ -25,6 +25,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#ZikaResearch](https://twitter.com/hashtag/ZikaResearch?vertical=default&src=hash)
 * [#ZikaOpen](https://twitter.com/hashtag/ZikaOpen?vertical=default&src=hash)
 * [#OpenZika](https://twitter.com/hashtag/OpenZika?vertical=default&src=hash)
+* [#SundayQuery](https://twitter.com/hashtag/SundayQuery?vertical=default&src=hash)
 
 # Monthly
 
