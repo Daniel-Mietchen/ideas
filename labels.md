@@ -85,6 +85,7 @@ This file hosts a list of the labels I am using in this repo, grouped in a more 
 ## [duplicate](https://github.com/Daniel-Mietchen/ideas/labels/duplicate)
 ## [High-priority](https://github.com/Daniel-Mietchen/ideas/labels/High-priority)
 ## [labels](https://github.com/Daniel-Mietchen/ideas/labels/labels)
+- for issues around using labels in this repo
 ## [handled-externally](https://github.com/Daniel-Mietchen/ideas/labels/handled-externally)
 ## [recurring](https://github.com/Daniel-Mietchen/ideas/labels/recurring)
 ## [sustainability](https://github.com/Daniel-Mietchen/ideas/labels/sustainability)
