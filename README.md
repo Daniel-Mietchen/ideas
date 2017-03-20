@@ -13,3 +13,4 @@ I have yet to figure this out in detail, but probably mainly via issues, perhaps
 # Files in this repo
 
 * [hashtags.md](https://github.com/Daniel-Mietchen/ideas/blob/master/hashtags.md) &mdash; keeps track of hashtags of interest to me
+* [labels.md](https://github.com/Daniel-Mietchen/ideas/blob/master/labels.md) &mdash; keeps track of the labels I am using in this repo
