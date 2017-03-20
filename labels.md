@@ -56,16 +56,16 @@ This file hosts a list of the labels I am using in this repo, grouped in a more 
  
 ## [analysis](https://github.com/Daniel-Mietchen/ideas/labels/analysis)
 ## [craft](https://github.com/Daniel-Mietchen/ideas/labels/craft)
+## [learning](https://github.com/Daniel-Mietchen/ideas/labels/learning)
+## [outreach](https://github.com/Daniel-Mietchen/ideas/labels/outreach)
+## [physical](https://github.com/Daniel-Mietchen/ideas/labels/physical)
  
  
 # Topics
  
 ## [data](https://github.com/Daniel-Mietchen/ideas/labels/data)
 ## [emergency-response](https://github.com/Daniel-Mietchen/ideas/labels/emergency-response)
-## [learning](https://github.com/Daniel-Mietchen/ideas/labels/learning)
 ## [literature](https://github.com/Daniel-Mietchen/ideas/labels/literature)
-## [outreach](https://github.com/Daniel-Mietchen/ideas/labels/outreach)
-## [physical](https://github.com/Daniel-Mietchen/ideas/labels/physical)
 ## [policy](https://github.com/Daniel-Mietchen/ideas/labels/policy)
 ## [How-to](https://github.com/Daniel-Mietchen/ideas/labels/How-to)
 ## [infrastructure](https://github.com/Daniel-Mietchen/ideas/labels/infrastructure)
