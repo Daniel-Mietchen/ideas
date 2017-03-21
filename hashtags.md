@@ -25,6 +25,8 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#ZikaResearch](https://twitter.com/hashtag/ZikaResearch?vertical=default&src=hash)
 * [#ZikaOpen](https://twitter.com/hashtag/ZikaOpen?vertical=default&src=hash)
 * [#OpenZika](https://twitter.com/hashtag/OpenZika?vertical=default&src=hash)
+* [#EUOSPP](https://twitter.com/hashtag/EUOSPP?vertical=default&src=hash) &mdash; http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform
+  - also sometimes spelled [#EOSPP](https://twitter.com/hashtag/EOSPP?vertical=default&src=hash)
 * [#SundayQuery](https://twitter.com/hashtag/SundayQuery?vertical=default&src=hash)
 
 # Monthly
