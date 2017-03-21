@@ -40,6 +40,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#research](https://twitter.com/hashtag/research?vertical=default&src=hash)
 * [#altmetrics](https://twitter.com/hashtag/altmetrics?vertical=default&src=hash)
 * [#openhardware](https://twitter.com/hashtag/openhardware?vertical=default&src=hash)
+* [#IamAnOpenScientistbecause](https://twitter.com/hashtag/IamAnOpenScientistbecause?vertical=default&src=hash)
 * [#iamascientistbecause](https://twitter.com/hashtag/iamascientistbecause?vertical=default&src=hash)
 * [#imascientist](https://twitter.com/hashtag/imascientist?vertical=default&src=hash) &mdash; https://imascientist.org.uk/
 * [#scientistatwork](https://twitter.com/hashtag/scientistatwork?vertical=default&src=hash)
