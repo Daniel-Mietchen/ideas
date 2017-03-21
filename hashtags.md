@@ -72,6 +72,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#hack4ac](https://twitter.com/hashtag/hack4ac?vertical=default&src=hash) &mdash; http://hack4ac.com/
 * [#odd4r](https://twitter.com/hashtag/odd4r?vertical=default&src=hash) &mdash; https://github.com/sparcopen/Open-Research-doathon
 * [#ssw17](https://twitter.com/hashtag/sssw17?vertical=default&src=hash) &mdash; https://dans.knaw.nl/nl/actueel/software-sustainability-workshop-7-9-march .
+* [#osc2017](https://twitter.com/hashtag/osc2017?vertical=default&src=hash) &mdash; https://www.open-science-conference.eu/  .
 
 # See also
 
