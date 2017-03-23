@@ -68,7 +68,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#fieldworkfail](https://twitter.com/hashtag/fieldworkfail?vertical=default&src=hash)
 * [#danceyourphd](https://twitter.com/hashtag/danceyourphd?vertical=default&src=hash)
 * [#doesitfart](https://twitter.com/hashtag/doesitfart?vertical=default&src=hash) &mdash; [background](http://gizmodo.com/brilliant-scientists-are-compiling-a-database-of-fartin-1791019159)
-
+* [#oa202](https://twitter.com/hashtag/oa202?src=hash) 
 
 # One-off
 
@@ -78,6 +78,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#odd4r](https://twitter.com/hashtag/odd4r?vertical=default&src=hash) &mdash; https://github.com/sparcopen/Open-Research-doathon
 * [#ssw17](https://twitter.com/hashtag/sssw17?vertical=default&src=hash) &mdash; https://dans.knaw.nl/nl/actueel/software-sustainability-workshop-7-9-march .
 * [#osc2017](https://twitter.com/hashtag/osc2017?vertical=default&src=hash) &mdash; https://www.open-science-conference.eu/  .
+* [#berlin13](https://twitter.com/hashtag/Berlin13?src=hash) &mdash; https://github.com/Daniel-Mietchen/events/issues/26
 
 # See also
 
