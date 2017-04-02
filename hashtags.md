@@ -61,6 +61,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#pycon](https://twitter.com/hashtag/pycon?vertical=default&src=hash)
 * [#OpenCon](https://twitter.com/hashtag/OpenCon?vertical=default&src=hash)
 * [#i4oc](https://twitter.com/hashtag/i4oc?vertical=default&src=hash)
+* [#libraryfutures](https://twitter.com/hashtag/libraryfutures?vertical=default&src=hash)
 * [#womeninscience](https://twitter.com/hashtag/womeninscience?vertical=default&src=hash)
 * [#mozfest](https://twitter.com/hashtag/mozfest?vertical=default&src=hash)
 * [#mozstudy](https://twitter.com/hashtag/mozstudy?vertical=default&src=hash)
