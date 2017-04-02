@@ -94,3 +94,4 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [related hashtags](http://hashtagify.me/hashtag/openscience)
 * [Template:Twitter hashtag](http://wiki.openstreetmap.org/wiki/Template:Twitter_hashtag)
 * [a hashtag tracking page on Wikiversity](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Hashtags)
+* [Herd Locker](http://theherdlocker.com/)
