@@ -30,6 +30,12 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
   - also sometimes spelled [#EOSPP](https://twitter.com/hashtag/EOSPP?vertical=default&src=hash)
 * [#SundayQuery](https://twitter.com/hashtag/SundayQuery?vertical=default&src=hash)
 
+# Free Bassel
+* [Background](https://meta.wikimedia.org/wiki/Free_Bassel)
+* [#FreeBassel](https://twitter.com/hashtag/FreeBassel?vertical=default&src=hash)
+* [#MissingBassel](https://twitter.com/hashtag/MissingBassel?vertical=default&src=hash)
+* [#WhereIsBassel](https://twitter.com/hashtag/WhereIsBassel?vertical=default&src=hash)
+
 # Monthly
 
 * [#mark2cure](https://twitter.com/hashtag/mark2cure?vertical=default&src=hash) &mdash; https://mark2cure.org/
