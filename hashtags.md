@@ -84,6 +84,9 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 
 # One-off
 
+(reverese chronological order)
+
+* [#NEJMDataSummit](https://twitter.com/hashtag/NEJMDataSummit?vertical=default&src=hash) &mdash; http://events.nejm.org/agenda.php
 * [#openscienceprize](https://twitter.com/hashtag/openscienceprize?vertical=default&src=hash) &mdash; http://openscienceprize.org/
 * [#pidapalooza](https://twitter.com/hashtag/pidapalooza?vertical=default&src=hash) &mdash; http://pidapalooza.org/
 * [#hack4ac](https://twitter.com/hashtag/hack4ac?vertical=default&src=hash) &mdash; http://hack4ac.com/
