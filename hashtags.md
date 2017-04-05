@@ -57,6 +57,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#citizenscience](https://twitter.com/hashtag/citizenscience?vertical=default&src=hash)
 * [#citsci](https://twitter.com/hashtag/citsci?vertical=default&src=hash)
 * [#peerreview](https://twitter.com/hashtag/peerreview?vertical=default&src=hash)
+* [#RDAplenary](https://twitter.com/hashtag/RDAplenary?vertical=default&src=hash)
 * [#phdchat](https://twitter.com/hashtag/phdchat?vertical=default&src=hash)
 * [#opendataday](https://twitter.com/hashtag/opendataday?vertical=default&src=hash)
 * [#openaccessweek](https://twitter.com/hashtag/openaccessweek?vertical=default&src=hash)
