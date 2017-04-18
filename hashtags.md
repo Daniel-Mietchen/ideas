@@ -103,6 +103,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
   - other examples:
     - [((why OR how OR what) AND open AND (data OR access OR research OR education OR science))](https://twitter.com/search?vertical=default&q=((why%20OR%20how%20OR%20what)%20AND%20open%20AND%20(data%20OR%20access%20OR%20research%20OR%20education%20OR%20science)))
     - [(how OR can OR could OR should) AND ((open AND (science OR research OR data OR scientist OR scientists OR researcher OR researchers)) OR (openscience OR openresearch OR opendata))](https://twitter.com/search?vertical=default&q=(how%20OR%20can%20OR%20could%20OR%20should)%20AND%20((open%20AND%20(science%20OR%20research%20OR%20data%20OR%20scientist%20OR%20scientists%20OR%20researcher%20OR%20researchers))%20OR%20(openscience%20OR%20openresearch%20OR%20opendata)))
+    - [(research AND (proposal OR proposals OR grant OR grants OR ((grant OR funding) AND (proposal OR proposals))))](https://twitter.com/search?vertical=default&q=(research%20AND%20(proposal%20OR%20proposals%20OR%20grant%20OR%20grants%20OR%20((grant%20OR%20funding)%20AND%20(proposal%20OR%20proposals)))))
 * [My TweetedTimes list](https://www.wikidata.org/wiki/User:Daniel_Mietchen/TweetedTimes)
 * [related hashtags](http://hashtagify.me/hashtag/openscience)
 * [Template:Twitter hashtag](http://wiki.openstreetmap.org/wiki/Template:Twitter_hashtag)
