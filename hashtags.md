@@ -18,6 +18,8 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#SDGs](https://twitter.com/hashtag/SDGs?vertical=default&src=hash) &mdash; https://sustainabledevelopment.un.org/sdgs
 * [#medicine](https://twitter.com/hashtag/medicine?vertical=default&src=hash)
 * [#biodiversity](https://twitter.com/hashtag/biodiversity?vertical=default&src=hash)
+* [#EveryDayScience](https://twitter.com/hashtag/EveryDayScience?vertical=default&src=hash)
+* [#ScienceEmpowers](https://twitter.com/hashtag/ScienceEmpowers?vertical=default&src=hash)
 * [#force11](https://twitter.com/hashtag/force11?vertical=default&src=hash)
 * [#beyondthepdf](https://twitter.com/hashtag/beyondthepdf?vertical=default&src=hash)
 * [#python](https://twitter.com/hashtag/python?vertical=default&src=hash)
