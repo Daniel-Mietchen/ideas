@@ -1,6 +1,6 @@
 # About
 
-This file is an attempt to keep track of hashtags that are relevant to me, as per [issue 141](https://github.com/Daniel-Mietchen/ideas/issues/141).
+This file is an attempt to keep track of hashtags that are relevant to me.
 
 # Weekly
 
@@ -48,6 +48,7 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#opensource](https://twitter.com/hashtag/opensource?vertical=default&src=hash)
 * [#science](https://twitter.com/hashtag/science?vertical=default&src=hash)
 * [#research](https://twitter.com/hashtag/research?vertical=default&src=hash)
+* [#datascience](https://twitter.com/hashtag/datascience?vertical=default&src=hash)
 * [#altmetrics](https://twitter.com/hashtag/altmetrics?vertical=default&src=hash)
 * [#openhardware](https://twitter.com/hashtag/openhardware?vertical=default&src=hash)
 * [#opensciencecloud](https://twitter.com/hashtag/opensciencecloud?vertical=default&src=hash)
@@ -84,6 +85,8 @@ This file is an attempt to keep track of hashtags that are relevant to me, as pe
 * [#danceyourphd](https://twitter.com/hashtag/danceyourphd?vertical=default&src=hash)
 * [#doesitfart](https://twitter.com/hashtag/doesitfart?vertical=default&src=hash) &mdash; [background](http://gizmodo.com/brilliant-scientists-are-compiling-a-database-of-fartin-1791019159)
 * [#oa2020](https://twitter.com/hashtag/oa2020?src=hash) 
+* [#ScienceMarch](https://twitter.com/hashtag/ScienceMarch?src=hash) 
+* [#SageAssembly](https://twitter.com/hashtag/SageAssembly?src=hash) 
 * [#ecsf17](https://twitter.com/hashtag/ecsf17?src=hash) &mdash; http://togetherscience.eu/events/european-citizen-science-forum
 
 # One-off
