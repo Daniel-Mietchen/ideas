@@ -113,6 +113,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
     - [((city OR cities OR ville OR villes OR stadt OR gemeinde OR gemeinden) AND (data OR smart OR opendata OR science OR research OR citizenscience OR bigdata)) OR smartcity OR smartcities](https://twitter.com/search?vertical=default&q=((city%20OR%20cities%20OR%20ville%20OR%20villes%20OR%20stadt%20OR%20gemeinde%20OR%20gemeinden)%20AND%20(data%20OR%20smart%20OR%20opendata%20OR%20science%20OR%20research%20OR%20citizenscience%20OR%20bigdata))%20OR%20smartcity%20OR%20smartcities)
     - [hackathon OR doathon OR datathon OR editathon OR "hack-a-thon" OR "do-a-thon" OR "edit-a-thon"](https://twitter.com/search?vertical=default&q=hackathon%20OR%20doathon%20OR%20datathon%20OR%20editathon%20OR%20%22hack-a-thon%22%20OR%20%22do-a-thon%22%20OR%20%22edit-a-thon%22)
 * [My TweetedTimes list](https://www.wikidata.org/wiki/User:Daniel_Mietchen/TweetedTimes)
+* [My Paper.li](https://paper.li/EvoMRI/1494028536#/all)
 * [related hashtags](http://hashtagify.me/hashtag/openscience)
 * [Template:Twitter hashtag](http://wiki.openstreetmap.org/wiki/Template:Twitter_hashtag)
 * [a hashtag tracking page on Wikiversity](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Hashtags)
