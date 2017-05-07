@@ -118,6 +118,8 @@ This file is an attempt to keep track of hashtags that are relevant to me.
   - [https://paper.li/EvoMRI/1494037024](https://paper.li/EvoMRI/1494037024)
   - [https://paper.li/EvoMRI/1494037574](https://paper.li/EvoMRI/1494037574)
   - [https://paper.li/EvoMRI/1494200433](https://paper.li/EvoMRI/1494200433)
+  - [https://paper.li/EvoMRI/1494200909](https://paper.li/EvoMRI/1494200909)
+  - [https://paper.li/EvoMRI/1494201112](https://paper.li/EvoMRI/1494201112)
 * [related hashtags](http://hashtagify.me/hashtag/openscience)
 * [Template:Twitter hashtag](http://wiki.openstreetmap.org/wiki/Template:Twitter_hashtag)
 * [a hashtag tracking page on Wikiversity](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Hashtags)
