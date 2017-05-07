@@ -114,9 +114,10 @@ This file is an attempt to keep track of hashtags that are relevant to me.
     - [hackathon OR doathon OR datathon OR editathon OR "hack-a-thon" OR "do-a-thon" OR "edit-a-thon"](https://twitter.com/search?vertical=default&q=hackathon%20OR%20doathon%20OR%20datathon%20OR%20editathon%20OR%20%22hack-a-thon%22%20OR%20%22do-a-thon%22%20OR%20%22edit-a-thon%22)
 * [My TweetedTimes list](https://www.wikidata.org/wiki/User:Daniel_Mietchen/TweetedTimes)
 * Paper.li
-  - [https://paper.li/EvoMRI/1494028536#](https://paper.li/EvoMRI/1494028536#)
-  - [https://paper.li/EvoMRI/1494037024#/](https://paper.li/EvoMRI/1494037024#/)
-  - [https://paper.li/EvoMRI/1494037574#/](https://paper.li/EvoMRI/1494037574#/)
+  - [https://paper.li/EvoMRI/1494028536](https://paper.li/EvoMRI/1494028536)
+  - [https://paper.li/EvoMRI/1494037024](https://paper.li/EvoMRI/1494037024)
+  - [https://paper.li/EvoMRI/1494037574](https://paper.li/EvoMRI/1494037574)
+  - [https://paper.li/EvoMRI/1494200433](https://paper.li/EvoMRI/1494200433)
 * [related hashtags](http://hashtagify.me/hashtag/openscience)
 * [Template:Twitter hashtag](http://wiki.openstreetmap.org/wiki/Template:Twitter_hashtag)
 * [a hashtag tracking page on Wikiversity](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Hashtags)
