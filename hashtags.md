@@ -103,9 +103,9 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#osc2017](https://twitter.com/hashtag/osc2017?vertical=default&src=hash) &mdash; https://www.open-science-conference.eu/  .
 * [#berlin13](https://twitter.com/hashtag/Berlin13?src=hash) &mdash; https://github.com/Daniel-Mietchen/events/issues/26
 
-# See also
+# Combining multiple search terms
 
-* [combining multiple search terms](https://twitter.com/search?vertical=default&q=openscienceprize%20OR%20%22open%20scienceprize%22%20OR%20(openscience%20AND%20prize))
+* [openscienceprize OR "open scienceprize" OR (openscience AND prize) ](https://twitter.com/search?vertical=default&q=openscienceprize%20OR%20%22open%20scienceprize%22%20OR%20(openscience%20AND%20prize))
   - other examples:
     - [((why OR how OR what) AND open AND (data OR access OR research OR education OR science))](https://twitter.com/search?vertical=default&q=((why%20OR%20how%20OR%20what)%20AND%20open%20AND%20(data%20OR%20access%20OR%20research%20OR%20education%20OR%20science)))
     - [(how OR can OR could OR should) AND ((open AND (science OR research OR data OR scientist OR scientists OR researcher OR researchers)) OR (openscience OR openresearch OR opendata))](https://twitter.com/search?vertical=default&q=(how%20OR%20can%20OR%20could%20OR%20should)%20AND%20((open%20AND%20(science%20OR%20research%20OR%20data%20OR%20scientist%20OR%20scientists%20OR%20researcher%20OR%20researchers))%20OR%20(openscience%20OR%20openresearch%20OR%20opendata)))
@@ -113,6 +113,9 @@ This file is an attempt to keep track of hashtags that are relevant to me.
     - [(UVADSI OR (@UVA OR virginia.edu OR (university AND virginia) OR Charlottesville)) AND (research OR science OR researchers OR scientists OR researcher OR data OR opendata OR open OR openscience OR opensource)](https://twitter.com/search?vertical=default&q=(UVADSI%20OR%20(@UVA%20OR%20virginia.edu%20OR%20(university%20AND%20virginia)%20OR%20Charlottesville))%20AND%20(research%20OR%20science%20OR%20researchers%20OR%20scientists%20OR%20researcher%20OR%20data%20OR%20opendata%20OR%20open%20OR%20openscience%20OR%20opensource))
     - [((city OR cities OR ville OR villes OR stadt OR gemeinde OR gemeinden) AND (data OR smart OR opendata OR science OR research OR citizenscience OR bigdata)) OR smartcity OR smartcities](https://twitter.com/search?vertical=default&q=((city%20OR%20cities%20OR%20ville%20OR%20villes%20OR%20stadt%20OR%20gemeinde%20OR%20gemeinden)%20AND%20(data%20OR%20smart%20OR%20opendata%20OR%20science%20OR%20research%20OR%20citizenscience%20OR%20bigdata))%20OR%20smartcity%20OR%20smartcities)
     - [hackathon OR doathon OR datathon OR editathon OR "hack-a-thon" OR "do-a-thon" OR "edit-a-thon"](https://twitter.com/search?vertical=default&q=hackathon%20OR%20doathon%20OR%20datathon%20OR%20editathon%20OR%20%22hack-a-thon%22%20OR%20%22do-a-thon%22%20OR%20%22edit-a-thon%22)
+    
+# Tweet aggregators
+
 * [My TweetedTimes list](https://www.wikidata.org/wiki/User:Daniel_Mietchen/TweetedTimes)
 * Paper.li
   - [newsstand](http://paper.li/newsstand)
@@ -122,6 +125,9 @@ This file is an attempt to keep track of hashtags that are relevant to me.
   - [https://paper.li/EvoMRI/1494200433](https://paper.li/EvoMRI/1494200433)
   - [https://paper.li/EvoMRI/1494200909](https://paper.li/EvoMRI/1494200909)
   - [https://paper.li/EvoMRI/1494201112](https://paper.li/EvoMRI/1494201112)
+
+# See also
+
 * [related hashtags](http://hashtagify.me/hashtag/openscience)
 * [Template:Twitter hashtag](http://wiki.openstreetmap.org/wiki/Template:Twitter_hashtag)
 * [a hashtag tracking page on Wikiversity](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Hashtags)
