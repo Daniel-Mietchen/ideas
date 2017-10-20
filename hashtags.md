@@ -89,6 +89,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#ScienceMarch](https://twitter.com/hashtag/ScienceMarch?src=hash) 
 * [#SageAssembly](https://twitter.com/hashtag/SageAssembly?src=hash) 
 * [#ecsf17](https://twitter.com/hashtag/ecsf17?src=hash) &mdash; http://togetherscience.eu/events/european-citizen-science-forum
+* [#YourDailyWeevil](https://twitter.com/hashtag/YourDailyWeevil?src=hash)
 
 # One-off
 
