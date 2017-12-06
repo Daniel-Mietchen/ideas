@@ -1,6 +1,6 @@
 # About
 
-This file hosts a list of the labels I am using in this repo, grouped in a more meaningful way than in the [standard label list](https://github.com/Daniel-Mietchen/ideas/labels). I hope that the names of the labels are self-explanatory, but may add notes on their usage as I am moving forward.
+This file hosts a list of the labels I am using in this repo, grouped in a more meaningful way than in the [standard label list](https://github.com/Daniel-Mietchen/ideas/labels) (which I am continuing to expand). I hope that the names of the labels are self-explanatory, but may add notes on their usage as I am moving forward.
 
 
 # Time
