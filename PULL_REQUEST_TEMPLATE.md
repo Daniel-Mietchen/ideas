@@ -1,6 +1,9 @@
-[ ] Wrote test for feature
-[ ] Added changes in the Changelog section in README.md
-[ ] Bumped version number (delete if unneeded)
+- [ ] Added code
+- [ ] Added documentation
+- [ ] Added data
+- [ ] Added tests
+- [ ] Fixed bug
+- [ ] Fixed typo
 
 **Changes proposed:**
 <description of the PR>
