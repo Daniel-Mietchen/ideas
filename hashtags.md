@@ -12,6 +12,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#datasharing](https://twitter.com/hashtag/datasharing?vertical=default&src=hash)
 * [#ASAPbio](https://twitter.com/hashtag/ASAPbio?vertical=default&src=hash) &mdash; https://asapbio.org/
 * [#WikiCite](https://twitter.com/hashtag/WikiCite?vertical=default&src=hash) &mdash; https://meta.wikimedia.org/wiki/WikiCite
+  - [#Scholia](https://twitter.com/hashtag/WikiCite?vertical=default&src=hash) &mdash; https://tools.wmflabs.org/scholia/
 * [wow et al.](https://twitter.com/search?vertical=default&q=(wow%20OR%20wonderful)%20AND%20(science%20OR%20research%20OR%20data%20OR%20scientist%20OR%20scientists%20OR%20researcher%20OR%20researchers%20OR%20mietchen%20OR%20evomri%20OR%20opendata%20OR%20openaccess%20OR%20openscience%20OR%20openresearch%20OR%20opensource%20OR%20wikidata%20OR%20reproducible%20OR%20reproducibility%20OR%20biodiversity%20OR%20plos%20OR%20Wikicite%20OR%20contentmine%20OR%20Wikisource%20OR%20wikimedia%20OR%20citizenscience%20OR%20sdgs))
 * [#Wikidata](https://twitter.com/hashtag/Wikidata?vertical=default&src=hash) &mdash; https://wikidata.org/
 * [#Wikimedia](https://twitter.com/hashtag/Wikimedia?vertical=default&src=hash) &mdash; https://wikimedia.org/
