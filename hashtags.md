@@ -34,6 +34,9 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#EUOSPP](https://twitter.com/hashtag/EUOSPP?vertical=default&src=hash) &mdash; http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform
   - also sometimes spelled [#EOSPP](https://twitter.com/hashtag/EOSPP?vertical=default&src=hash)
 * [#SundayQuery](https://twitter.com/hashtag/SundayQuery?vertical=default&src=hash)
+* [#100DaysOfCode](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfCode)
+* [#100DaysOfData](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfData)
+* [#100DaysOfPython](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfPython)
 
 # Free Bassel
 * [Background](https://meta.wikimedia.org/wiki/Free_Bassel)
