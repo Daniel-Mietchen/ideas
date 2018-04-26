@@ -12,7 +12,7 @@ I have yet to figure this out in detail, but probably mainly via issues, perhaps
 
 # Quotes about ideas
 
-I find it inspiring to browse through collections of quotes around ideas and related concepts. A good starting point here is [https://en.wikiquote.org/wiki/Ideas Wikiquote].
+I find it inspiring to browse through collections of quotes around ideas and related concepts. A good starting point here is [Wikiquote](https://en.wikiquote.org/wiki/Ideas).
 
 # Files in this repo
 
