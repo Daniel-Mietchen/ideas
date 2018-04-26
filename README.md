@@ -10,6 +10,10 @@ I am also experimenting with using this repo for managing some of my to-do stuff
 
 I have yet to figure this out in detail, but probably mainly via issues, perhaps with the "[documentation](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation)" label for things that are about the repo rather than about research ideas. Some of the research ideas may end up in the [Journal of Brief Ideas](http://beta.briefideas.org/), others in [Research Ideas and Outcomes](http://riojournal.com/browse_journal_articles.php?form_name=filter_articles&selfurl=&backurl=&sortby=0&journal_id=17&search_hidden=&search_in_=0&search_in_hidden=&alerts_subject_cats=&alerts_sdg_cats=&from_date=&to_date=&section_type%5B%5D=179&funding_agency=), while yet others may go elsewhere or simply stay here.
 
+# Quotes about ideas
+
+I find it inspiring to browse through collections of quotes around ideas and related concepts. A good starting point here is [https://en.wikiquote.org/wiki/Ideas Wikiquote].
+
 # Files in this repo
 
 * [hashtags.md](https://github.com/Daniel-Mietchen/ideas/blob/master/hashtags.md) &mdash; keeps track of hashtags of interest to me
