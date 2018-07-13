@@ -99,7 +99,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 
 # One-off
 
-(reverese chronological order)
+(reverse chronological order)
 
 * [#NEJMDataSummit](https://twitter.com/hashtag/NEJMDataSummit?vertical=default&src=hash) &mdash; http://events.nejm.org/agenda.php
 * [#openscienceprize](https://twitter.com/hashtag/openscienceprize?vertical=default&src=hash) &mdash; http://openscienceprize.org/
@@ -109,6 +109,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#ssw17](https://twitter.com/hashtag/sssw17?vertical=default&src=hash) &mdash; https://dans.knaw.nl/nl/actueel/software-sustainability-workshop-7-9-march .
 * [#osc2017](https://twitter.com/hashtag/osc2017?vertical=default&src=hash) &mdash; https://www.open-science-conference.eu/  .
 * [#berlin13](https://twitter.com/hashtag/Berlin13?src=hash) &mdash; https://github.com/Daniel-Mietchen/events/issues/26
+* [#ThaiCaveRescue](https://twitter.com/search?f=tweets&vertical=default&q=%28%28%28thai%20OR%20%22tham%20luang%22%29%20AND%20%28cave%20OR%20boys%20OR%20rescue%20%29%29%20OR%20thaicaverescue%20OR%20thamlunag%20%29%20AND%20data)
 
 # Combining multiple search terms
 
