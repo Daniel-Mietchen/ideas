@@ -39,6 +39,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#100DaysOfPython](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfPython)
 * [#100DaysOfJupyter](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfJupyter) (empty as of 20180414)
 * [#100DaysOfWikidata](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfWikidata) (empty as of 20180414)
+* [#DSlearnings](https://twitter.com/search?f=tweets&vertical=default&q=DSlearnings)
 
 # Free Bassel
 * [Background](https://meta.wikimedia.org/wiki/Free_Bassel)
