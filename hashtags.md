@@ -40,6 +40,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#100DaysOfJupyter](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfJupyter) (empty as of 20180414)
 * [#100DaysOfWikidata](https://twitter.com/search?f=tweets&vertical=default&q=100DaysOfWikidata) (empty as of 20180414)
 * [#DSlearnings](https://twitter.com/search?f=tweets&vertical=default&q=DSlearnings)
+  - [#TIL for data](https://twitter.com/search?f=tweets&vertical=default&q=%23til%20AND%20%28data%20OR%20opendata%20OR%20openscience%20OR%20datasciecnce%20OR%20%40UVA%20OR%20uvadsi%20OR%20csv%20OR%20json%29)
 
 # Free Bassel
 * [Background](https://meta.wikimedia.org/wiki/Free_Bassel)
