@@ -4,6 +4,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 
 # Weekly
 
+* [an open science mix](https://twitter.com/search?vertical=default&q=(what%20OR%20where%20OR%20why%20OR%20who%20OR%20how%20OR%20would%20OR%20could)%20AND%20(%22open%20science%22%20OR%20openscience%20OR%20%22open%20research%22%20OR%20openresearch%20OR%20((opendata%20OR%20opensource%20OR%20oer%20OR%20openhardware%20OR%20open)%20AND%20(science%20OR%20scientific%20OR%20humanities%20OR%20research))))
 * [#openscience](https://twitter.com/hashtag/openscience?vertical=default&src=hash)
 * [#opendata](https://twitter.com/hashtag/opendata?vertical=default&src=hash)
 * [#openresearch](https://twitter.com/hashtag/openresearch?vertical=default&src=hash)
