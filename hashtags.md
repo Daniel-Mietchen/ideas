@@ -18,6 +18,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
 * [#Wikidata](https://twitter.com/hashtag/Wikidata?vertical=default&src=hash) &mdash; https://wikidata.org/
 * [#Wikimedia](https://twitter.com/hashtag/Wikimedia?vertical=default&src=hash) &mdash; https://wikimedia.org/
 * [#SDGs](https://twitter.com/hashtag/SDGs?vertical=default&src=hash) &mdash; https://sustainabledevelopment.un.org/sdgs
+* [#ScientistsWarningToHumanity](https://twitter.com/hashtag/scientistswarningtohumanity)
 * [#medicine](https://twitter.com/hashtag/medicine?vertical=default&src=hash)
 * [#biodiversity](https://twitter.com/hashtag/biodiversity?vertical=default&src=hash)
 * [#EveryDayScience](https://twitter.com/hashtag/EveryDayScience?vertical=default&src=hash)
