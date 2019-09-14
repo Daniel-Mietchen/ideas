@@ -12,7 +12,8 @@ I have yet to figure this out in detail, but probably mainly via issues, perhaps
 
 # Quotes about ideas
 
-I find it inspiring to browse through collections of quotes around ideas and related concepts. A good starting point here is [Wikiquote](https://en.wikiquote.org/wiki/Ideas).
+I find it inspiring to browse through collections of quotes around ideas and related concepts. A good starting point here is [Wikiquote](https://en.wikiquote.org/wiki/Ideas), which gives us, for instance, this one from [Mary Quant](https://en.wikipedia.org/wiki/Mary_Quant):
+> "One thing I learnt was never to hoard ideas because either they are not so relevant or they've gone stale. Whatever it is, pour them out."
 
 # Files in this repo
 
