@@ -1,6 +1,6 @@
 # About
 
-This file collects resources related to activism.
+This file collects resources related to activism, particular around climate action, climate justice and sustainability in general.
 
 # Resources
 
@@ -9,6 +9,12 @@ This file collects resources related to activism.
 - [Why CivilResistance Works](https://www.belfercenter.org/sites/default/files/legacy/files/IS3301_pp007-044_Stephan_Chenoweth.pdf)
 - [Learning from other (non-white) struggles](https://medium.com/@JKSteinberger/learning-from-other-non-white-struggles-74cb5651099b#7e9c)
 - [Reframe issues from abstract to concrete](https://twitter.com/symbish_Sam/status/1213575333879910407)
+
+# Youth-led climate activism
+
+- [Fridays for Future](https://www.fridaysforfuture.org/)
+- [Zero Hour](http://thisiszerohour.org/)
+- [Plan B](https://planb.earth/)
 
 # See also
 
