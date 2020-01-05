@@ -4,7 +4,7 @@ This file collects resources related to activism.
 
 # Resources
 
-- [COMMON SENSE FOR THE 21st CENTURY](https://www.rogerhallam.com/wp-content/uploads/2019/08/Common-Sense-for-the-21st-Century_by-Roger-Hallam-Download-version.pdf)
+- [Common Sense for the 21st Century](https://www.rogerhallam.com/wp-content/uploads/2019/08/Common-Sense-for-the-21st-Century_by-Roger-Hallam-Download-version.pdf)
 - [The flawed social science behind Extinction Rebellion’s change strategy](https://medium.com/insurge-intelligence/the-flawed-science-behind-extinction-rebellions-change-strategy-af077b9abb4d)
 - [Reframe issues from abstract to concrete](https://twitter.com/symbish_Sam/status/1213575333879910407)
 
