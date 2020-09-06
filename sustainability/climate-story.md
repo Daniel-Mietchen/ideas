@@ -8,4 +8,4 @@ From then on, I paid close attention to environmental matters, both as a natural
 
 # About
 
-This text is a contribution to the Climate Reality Leadership Training in August 2020 that I attended, as per [this tickets](https://github.com/Daniel-Mietchen/events/issues/697) and my [meeting notes](https://github.com/Daniel-Mietchen/events/blob/master/Summer-2020-Climate-Reality-Leadership-Corps-Global-Training.md).
+This text is a contribution to the Climate Reality Leadership Training in August 2020 that I attended, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/697) and my [meeting notes](https://github.com/Daniel-Mietchen/events/blob/master/Summer-2020-Climate-Reality-Leadership-Corps-Global-Training.md).
