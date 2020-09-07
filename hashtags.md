@@ -127,6 +127,7 @@ This file is an attempt to keep track of hashtags that are relevant to me.
     - [hackathon OR doathon OR datathon OR editathon OR "hack-a-thon" OR "do-a-thon" OR "edit-a-thon"](https://twitter.com/search?vertical=default&q=hackathon%20OR%20doathon%20OR%20datathon%20OR%20editathon%20OR%20%22hack-a-thon%22%20OR%20%22do-a-thon%22%20OR%20%22edit-a-thon%22)
     - [("footprint of data" OR "emissions of data") OR ((green OR sustainable OR sustainability) AND "of data")](https://twitter.com/search?vertical=default&q=(%22footprint%20of%20data%22%20OR%20%22emissions%20of%20data%22)%20OR%20((green%20OR%20sustainable%20OR%20sustainability)%20AND%20%22of%20data%22))
     - [wikidata OR wikicite OR (wmflabs AND (scholia OR sourcemd)) OR wikibase](https://twitter.com/search?f=tweets&vertical=default&q=wikidata%20OR%20wikicite%20OR%20%28wmflabs%20AND%20%28scholia%20OR%20sourcemd%29%29%20OR%20wikibase)
+    - [(hiring OR jobs OR job OR vacancy OR vacancies OR "open position" OR stellenangebot OR stellenangebote) AND (sdgs OR "open data" OR opendata OR openscience OR "open science" OR wiki OR wikimedia OR wikidata OR wikibase)](https://twitter.com/search?q=(hiring%20OR%20jobs%20OR%20job%20OR%20vacancy%20OR%20vacancies%20OR%20%22open%20position%22%20OR%20stellenangebot%20OR%20stellenangebote)%20AND%20(sdgs%20OR%20%22open%20data%22%20OR%20opendata%20OR%20openscience%20OR%20%22open%20science%22%20OR%20wiki%20OR%20wikimedia%20OR%20wikidata%20OR%20wikibase)&src=typed_query&f=live)
     
 # Tweet aggregators
 
