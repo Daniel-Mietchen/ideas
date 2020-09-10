@@ -1,4 +1,4 @@
-The Wikipedia ecosystem as a component of climate education
+# The Wikipedia ecosystem as a component of climate education
 
 One of the key activities in Climate Reality contexts is to educate people about climate, climate change, climate mitigation, climate action and related matters. To do this successfully, a number of factors have to be considered, including reach to a wide audience, which is why I would like to suggest that Climate Reality consider engaging more with Wikipedia and the ecosystem of websites around it.
 
@@ -10,3 +10,7 @@ summarize what is known on a particular topic, WikiProject pages like  https://e
 Portal:Klimawandel present the information to human users, and Automated Programming Interfaces like https://en.wikipedia.org/w/api.php are amongst the options to make it accessible to machines.
 
 From what I have learned about Climate Reality so far, I think it would benefit from closer interaction with the open knowledge ecosystem around Wikipedia, which is probably the most popular platform globally for providing information regarding climate-related issues and solutions. I shall be most happy to help with that.
+
+# About
+
+This text is a contribution to the Climate Reality Leadership Training in August 2020 that I attended, as per [this ticket](https://github.com/Daniel-Mietchen/events/issues/698) and my [meeting notes](https://github.com/Daniel-Mietchen/events/blob/master/Summer-2020-Climate-Reality-Leadership-Corps-Global-Training.md).
