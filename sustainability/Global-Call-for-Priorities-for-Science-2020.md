@@ -19,7 +19,7 @@ To this end, it poses a number of questions, to which I will compile my response
 # 1. What do you regard as being the most critical priority to be addressed in the coming decade in order for science to support and enable societies to achieve the SDGs?
 
 - **Apply the scientific method onto the research ecosystem itself** 
-  - Within and across all fields of research, we need to think systemically and to apply the scientific method transparently and reproducibly to how we perform and fund research and to how we integrate it with research-related policies, practices and infrastructures.
+  - Within and across all fields of research, we need to apply the scientific method transparently, reproducibly and systematically to the question of how we perform, share and support research and to how we integrate it with the sociotechnical ecosystem around it.
 
 # 2. What critical gaps in knowledge, data and/or science systems development would this priority action address?
 
