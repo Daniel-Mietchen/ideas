@@ -18,8 +18,8 @@ To this end, it poses a number of questions, to which I will compile my response
 
 # 1. What do you regard as being the most critical priority to be addressed in the coming decade in order for science to support and enable societies to achieve the SDGs?
 
-- We need systemic thinking and to apply the scientific method to the way we perform research - in any field of systematic inquiry - and integrate it with research-related policies, practices and infrastructure.
-
+- **Apply the scientific method onto the research ecosystem** 
+  - Within and across all fields of research, we need to think systemically and to apply the scientific method transparently and reproducibly to how we perform and fund research and to how we integrate it with research-related policies, practices and infrastructures.
 
 # 2. What critical gaps in knowledge, data and/or science systems development would this priority action address?
 
@@ -52,6 +52,13 @@ Gap 2: it would help to reduce inefficiencies of the current research system
 
 # 8. Any other comments?
 
+- These responses are in the public domain and also available via [https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md](https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md).
+
+# Notes
+
 *Consider putting this onto Zenodo.*
 
-- These responses are in the public domain and also available via [https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md](https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md).
+- "Intellectual property"
+- "Excellence"
+- "Public participation"
+- circular economy-like spiral of reusability of research outcomes
