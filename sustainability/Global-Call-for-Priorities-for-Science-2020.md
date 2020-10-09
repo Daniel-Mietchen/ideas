@@ -18,7 +18,7 @@ To this end, it poses a number of questions, to which I will compile my response
 
 # 1. What do you regard as being the most critical priority to be addressed in the coming decade in order for science to support and enable societies to achieve the SDGs?
 
-- **Apply the scientific method onto the research ecosystem** 
+- **Apply the scientific method onto the research ecosystem itself** 
   - Within and across all fields of research, we need to think systemically and to apply the scientific method transparently and reproducibly to how we perform and fund research and to how we integrate it with research-related policies, practices and infrastructures.
 
 # 2. What critical gaps in knowledge, data and/or science systems development would this priority action address?
@@ -31,13 +31,6 @@ Gap 2: it would help to reduce inefficiencies of the current research system
 
 # 3. What concrete result(s) (outcomes/impacts) would it seek to achieve, and how could success be measured? 
 
-- shift the emphasis from static publications of narratives about research to dynamic availability, reproducibility and reusability of most or all components of the respective research cycles
-- require an open-by-default approach to documenting research, allowing for justified exceptions
-- shift the emphasis from project funding to funding people
-- shift the emphasis of prizes from individuals to teams
-- shift the emphasis from evaluating proposed work (especially grant proposals) and the potential impacts to evaluating past and ongoing work and actual impacts
-- when evaluating research and researchers, consider societal impact alongside impact on the research or specific research fields
-
 
 # 4. What level of societal engagement and what key partnerships would be required to ensure success?
 
@@ -46,6 +39,12 @@ Gap 2: it would help to reduce inefficiencies of the current research system
 
 # 6. How, in your opinion, should science funding systems change in order to more effectively enable science to make progress on addressing the challenges of global sustainability?
 
+- shift the emphasis from static publications of narratives about research to dynamic availability, reproducibility and reusability of most or all components of the respective research cycles
+- require an open-by-default approach to documenting research, allowing for justified exceptions
+- shift the emphasis from project funding to funding people
+- shift the emphasis of prizes from individuals to teams
+- shift the emphasis from evaluating proposed work (especially grant proposals) and the potential impacts to evaluating past and ongoing work and actual impacts
+- when evaluating research and researchers, consider societal impact alongside impact on the research or specific research fields
 
 # 7. What do you regard as the biggest challenge that the COVID-19 pandemic poses to science? And the biggest opportunity?
 
@@ -59,6 +58,11 @@ Gap 2: it would help to reduce inefficiencies of the current research system
 *Consider putting this onto Zenodo.*
 
 - "Intellectual property"
-- "Excellence"
+- redefine - or dump - "Excellence"
 - "Public participation"
 - circular economy-like spiral of reusability of research outcomes
+- mention related references in 8
+- under 6, add sustainability of funding
+- under 6, add research ideas/ cycles being public and funders combing through to identify promising patterns and/ or monitor systemic progress towards targets
+- include environmental footprint considerations in research budgeting
+- emphasize actual reuse (e.g. in replications, teaching, services)
