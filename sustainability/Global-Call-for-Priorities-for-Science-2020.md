@@ -19,15 +19,13 @@ To this end, it poses a number of questions, to which I will compile my response
 # 1. What do you regard as being the most critical priority to be addressed in the coming decade in order for science to support and enable societies to achieve the SDGs?
 
 - **Apply the scientific method onto the research ecosystem itself** 
-  - Within and across all fields of research, we need to apply the scientific method transparently, reproducibly and systematically to the question of how we perform, share and support research and to how we integrate it with the sociotechnical ecosystem around it.
+  - Within and across all fields of research, we need to apply the scientific method transparently, reproducibly and systematically to the questions of why and how we support, perform and share research.
 
 # 2. What critical gaps in knowledge, data and/or science systems development would this priority action address?
 
-Gap 1: it would help 
-- address the misconception that the role of science in society is to support economic growth (that phase is over). 
-- clarify that that role in the long term is to inform sustainable development.
-
-Gap 2: it would help to reduce inefficiencies of the current research system
+It would help address
+- Gap 1: the misconception that the role of science in society is to support economic growth (that phase is over). 
+- Gap 2: it would help to reduce inefficiencies of the current research system
 
 # 3. What concrete result(s) (outcomes/impacts) would it seek to achieve, and how could success be measured? 
 
@@ -66,3 +64,6 @@ Gap 2: it would help to reduce inefficiencies of the current research system
 - under 6, add research ideas/ cycles being public and funders combing through to identify promising patterns and/ or monitor systemic progress towards targets
 - include environmental footprint considerations in research budgeting
 - emphasize actual reuse (e.g. in replications, teaching, services)
+- clarify that that role in the long term is to inform sustainable development.
+- machines as colleaborators
+- applicable policy
