@@ -18,17 +18,40 @@ To this end, it poses a number of questions, to which I will compile my response
 
 # 1. What do you regard as being the most critical priority to be addressed in the coming decade in order for science to support and enable societies to achieve the SDGs?
 
+- We need systemic thinking and to apply the scientific method to the way we perform research - in any field of systematic inquiry - and integrate it with research-related policies, practices and infrastructure.
+
+
 # 2. What critical gaps in knowledge, data and/or science systems development would this priority action address?
+
+Gap 1: it would help 
+- address the misconception that the role of science in society is to support economic growth (that phase is over). 
+- clarify that that role in the long term is to inform sustainable development.
+
+Gap 2: it would help to reduce inefficiencies of the current research system
 
 # 3. What concrete result(s) (outcomes/impacts) would it seek to achieve, and how could success be measured? 
 
+- shift the emphasis from static publications of narratives about research to dynamic availability, reproducibility and reusability of most or all components of the respective research cycles
+- require an open-by-default approach to documenting research, allowing for justified exceptions
+- shift the emphasis from project funding to funding people
+- shift the emphasis of prizes from individuals to teams
+- shift the emphasis from evaluating proposed work (especially grant proposals) and the potential impacts to evaluating past and ongoing work and actual impacts
+- when evaluating research and researchers, consider societal impact alongside impact on the research or specific research fields
+
+
 # 4. What level of societal engagement and what key partnerships would be required to ensure success?
+
 
 # 5. If possible, could you provide an estimation of the type/level of investment that would ideally be required to support this action?
 
 # 6. How, in your opinion, should science funding systems change in order to more effectively enable science to make progress on addressing the challenges of global sustainability?
 
+
 # 7. What do you regard as the biggest challenge that the COVID-19 pandemic poses to science? And the biggest opportunity?
+
 
 # 8. Any other comments?
 
+*Consider putting this onto Zenodo.*
+
+- These responses are in the public domain and also available via [https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md](https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md).
