@@ -49,9 +49,11 @@ It would help address
 - Challenges:
   - the pandemic has interrupted lots of science-related workflows and depleted potential funding sources
 - Opportunities:
+  - test-driving transformational responses to the climate emergency
   - increased speed of sharing, e.g. via preprints
   - higher appreciation for remote work
     - opens the door for having international faculty, working from around the globe
+  - higher appreciation of planetary boundaries both inside the research ecosystem and in society at large
 
 # 8. Any other comments?
 
@@ -73,3 +75,4 @@ It would help address
 - clarify that that role in the long term is to inform sustainable development.
 - machines as colleaborators
 - applicable policy
+- planetary pledges
