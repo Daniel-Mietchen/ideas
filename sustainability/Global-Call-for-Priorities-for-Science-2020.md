@@ -46,6 +46,12 @@ It would help address
 
 # 7. What do you regard as the biggest challenge that the COVID-19 pandemic poses to science? And the biggest opportunity?
 
+- Challenges:
+  - the pandemic has interrupted lots of science-related workflows and depleted potential funding sources
+- Opportunities:
+  - increased speed of sharing, e.g. via preprints
+  - higher appreciation for remote work
+    - opens the door for having international faculty, working from around the globe
 
 # 8. Any other comments?
 
