@@ -19,16 +19,23 @@ To this end, it poses a number of questions, to which I will compile my response
 # 1. What do you regard as being the most critical priority to be addressed in the coming decade in order for science to support and enable societies to achieve the SDGs?
 
 - **Apply the scientific method onto the research ecosystem itself** 
-  - Within and across all fields of research, we need to apply the scientific method transparently, reproducibly and systematically to the questions of why and how we support, perform and share research.
+  - Within and across all fields of research, we need to *apply the scientific method transparently, reproducibly and systematically* to the questions of why and how we support, perform, share, communicate, evaluate and improve research.
 
 # 2. What critical gaps in knowledge, data and/or science systems development would this priority action address?
 
 It would help address
-- Gap 1: the misconception that the role of science in society is to support economic growth (that phase is over). 
-- Gap 2: it would help to reduce inefficiencies of the current research system
+1. inefficiencies of the current research ecosystem, including perverse incentives, hypercompetition, lack of reproducibility and diversity, or the inconsisten signaling of opportunities to engage
+1. misconceptions about the role of science in society, including with regards to supporting economic growth, advising on policy, contributing to education or the well-being of humans and their natural and social environments
 
 # 3. What concrete result(s) (outcomes/impacts) would it seek to achieve, and how could success be measured? 
 
+The first outcome would hopefully be a fruitful discussion about design features and other aspects of the current research ecosystem(s) that stand in the way of adequately meeting the expectations that underlie our societies' motivations for supporting research.
+
+On that basis, I would expect systematic reviews, randomized controlled studies and other evidence-gathering exercises that identify such problematic aspects transparently, reproducibly and systematically and explore potential options to address them, thereby providing a factual basis for the above discussions.
+
+A further layer of outcomes would be a set of research-related policies (and practices) &mdash; all around the research cycle &mdash; for which the rationale behind individual policy elements or practical steps is made explicit (think evidence-based funding) and can thus be scrutinized by other stakeholders. On the basis of 
+
+that meet certain minimum requirements in terms of how well their parameterization 
 
 # 4. What level of societal engagement and what key partnerships would be required to ensure success?
 
@@ -76,3 +83,5 @@ It would help address
 - machines as colleaborators
 - applicable policy
 - planetary pledges
+- [Scholia on perverse incentives](https://scholia.toolforge.org/topic/Q100434356)
+- [Twitter search on perverse incentives in research contexts](https://twitter.com/search?q=(%22perverse%20incentive%22%20OR%20%22perverse%20incentives%22)%20AND%20(research%20OR%20science%20OR%20researchers%20OR%20scientists%20OR%20scientific%20OR%20academia%20OR%20academic)&src=typed_query&f=live)
