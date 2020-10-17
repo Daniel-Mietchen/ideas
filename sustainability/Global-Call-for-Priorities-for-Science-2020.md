@@ -105,6 +105,8 @@ Science funding systems should
 
 # Notes
 
+- [The Transformative Nature of Transparency in Research Funding](https://doi.org/10.1371/journal.pbio.1002027)
+- [Science funders gamble on grant lotteries](https://doi.org/10.1038/d41586-019-03572-7)
 - [Scholia on perverse incentives](https://scholia.toolforge.org/topic/Q100434356)
 - [Twitter search on perverse incentives in research contexts](https://twitter.com/search?q=(%22perverse%20incentive%22%20OR%20%22perverse%20incentives%22)%20AND%20(research%20OR%20science%20OR%20researchers%20OR%20scientists%20OR%20scientific%20OR%20academia%20OR%20academic)&src=typed_query&f=live)
 - [A “Sedative” for Science Policy](https://issues.org/endless-frontier-sedative-for-science-policy-pielke/)
