@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to the [Global Call for Priorities for Science](https://council.science/science-funding/global-call/), which is described on its homepage as follows:
+This file hosts a contribution to the [Global Call for Priorities for Science](http://web.archive.org/web/20201017005721/https://council.science/science-funding/global-call/), which is described on its homepage as follows:
 
 > With just ten years to go to achieve the 17 Sustainable Development Goals (SDGs) of the UN’s 2030 Agenda, science funders from around the world have asked the International Science Council (ISC) to convene the insights and ideas of the broader global scientific community on the critical priorities for science that will support and enable societies to accomplish the goals by 2030. We want to hear from scientists in all fields and all disciplines, including the natural, social and human sciences.
 > 
