@@ -110,3 +110,4 @@ Science funding systems should
 - [Scholia on perverse incentives](https://scholia.toolforge.org/topic/Q100434356)
 - [Twitter search on perverse incentives in research contexts](https://twitter.com/search?q=(%22perverse%20incentive%22%20OR%20%22perverse%20incentives%22)%20AND%20(research%20OR%20science%20OR%20researchers%20OR%20scientists%20OR%20scientific%20OR%20academia%20OR%20academic)&src=typed_query&f=live)
 - [A “Sedative” for Science Policy](https://issues.org/endless-frontier-sedative-for-science-policy-pielke/)
+- [The Wikipedia ecosystem as a component of climate education](https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Wikipedia-ecosystem-for-climate-education.md)
