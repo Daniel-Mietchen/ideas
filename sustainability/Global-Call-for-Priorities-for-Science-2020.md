@@ -101,7 +101,7 @@ Science funding systems should
 # 8. Any other comments?
 
 - These responses are in the public domain and also available via [https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md](https://github.com/Daniel-Mietchen/ideas/blob/master/sustainability/Global-Call-for-Priorities-for-Science-2020.md), where I plan to post updates as time permits.
-- I saw that the official deadline was October 2, 2020, but also that it had been [silently extended until October 16, 2020](http://lists.codata.org/pipermail/codata-international_lists.codata.org/2020-October/001895.html), i.e. today.
+- I saw that the official deadline was October 2, 2020, but also that it had been [silently extended until October 16, 2020](http://lists.codata.org/pipermail/codata-international_lists.codata.org/2020-October/001895.html), which is when I [submitted](https://twitter.com/EvoMRI/status/1317276947077058560).
 
 # Notes
 
