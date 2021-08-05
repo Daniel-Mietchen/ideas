@@ -5,7 +5,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 # Rules
 
 - 100 days
-  - start date: August 4, 2021
+  - start date: August 4, 2021 ([initial tweet](https://twitter.com/EvoMRI/status/1422902988423712771))
+  - hashtag: [#100daysofideas](https://twitter.com/hashtag/100daysofideas?src=hashtag_click&f=live)
   - earliest end date: November 11, 2021
 - for each ```day``` of the challenge
   - do something useful with one of the [issues in this repository](https://github.com/Daniel-Mietchen/ideas/issues/)
