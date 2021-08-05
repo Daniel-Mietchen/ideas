@@ -1,4 +1,9 @@
-The rules:
+# About
+
+This file assists in running a 100-day-challenge, as described in [issue 1441](https://github.com/Daniel-Mietchen/ideas/issues/1441).
+
+# Rules
+
 - 100 days
   - start date: August 4, 2021
   - earliest end date: November 11, 2021
@@ -9,3 +14,10 @@ The rules:
   - include a link to the tweet into this overview file
 - definition of ```day```: the activity should occur within 24h of the time when the associated date is valid at least somewhere on Earth
 
+
+# Progress
+
+| Date       | Day   | Issue | 
+| ---------- | ----- | ----- | 
+| 2021-08-05 |  002  |       | 
+| 2021-08-04 |  001  | [ecocide](https://twitter.com/EvoMRI/status/1423111543961669633)  | 
