@@ -12,6 +12,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
   - document that activity via [issue 1441](https://github.com/Daniel-Mietchen/ideas/issues/1441)
   - tweet about the activity
   - include a link to the tweet into this overview file
+  - leave a comment on the issue of the day pointing back to the challenge, e.g. 
+    - > The above comments on this issue were part of Day X of [#100daysofideas](https://twitter.com/hashtag/100daysofideas?src=hashtag_click&f=live), as per [this tweet](https://twitter.com/EvoMRI/status/1423111543961669633) and #1441 .
 - definition of ```day```: the activity should occur within 24h of the time when the associated date is valid at least somewhere on Earth
 
 
