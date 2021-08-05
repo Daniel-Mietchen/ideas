@@ -7,7 +7,7 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 - 100 days
   - start date: August 4, 2021
   - earliest end date: November 11, 2021
-- for each day of the challenge
+- for each ```day``` of the challenge
   - do something useful with one of the [issues in this repository](https://github.com/Daniel-Mietchen/ideas/issues/)
   - document that activity via [issue 1441](https://github.com/Daniel-Mietchen/ideas/issues/1441)
   - tweet about the activity
