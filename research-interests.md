@@ -1,4 +1,4 @@
-Here are some of my research interests (in no particular order), arranged such that interactions between them can be highlighted (column influences row)
+Here are some of my research interests (in no particular order), arranged such that interactions between them (or resources about such interactions) can be highlighted (column influences row)
 
 
 |  | knowledge graphs | ethics | stem cells | biodiversity | invasive species | infectious disease | coastal ecosystems | planetary health | vocal learning |
