@@ -5,7 +5,7 @@ Here are some of my research interests (in no particular order), arranged such t
 | --| --| --| --| --| --| --| --| --| --|
 | knowledge graphs | knowledge integration, federated queries |  |  |  |  |  |  | [Framing planetary health: arguing for resource-centred science](https://doi.org/10.1016/S2542-5196(18)30023-8) |
 | ethics |  | ethical standards; FAIR ethics |  |  |  |  |  | [Planetary Health Ethics: Beyond First Principles](https://doi.org/10.3390/challe10010014) |
-| stem cells |  |  |  |  | [Modeling invasion of metastasizing cancer cells to bone marrow utilizing ecological principles](https://doi.org/10.1186/1742-4682-8-36) |  |  |  |
+| stem cells |  |  |  |  | [Modeling invasion of metastasizing cancer cells to bone marrow utilizing ecological principles](https://doi.org/10.1186/1742-4682-8-36) / [Convergent Evolution, Evolving Evolvability, and the Origins of Lethal Cancer](https://doi.org/10.1158/1541-7786.MCR-19-1158) |  |  |  |
 | biodiversity |  |  |  |  |  |  |  |  |
 | invasive species |  |  |  |  |  |  |  |  |
 | infectious disease |  |  |  |  |  |  |  |  |
