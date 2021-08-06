@@ -17,5 +17,6 @@ I find it inspiring to browse through collections of quotes around ideas and rel
 
 # Files in this repo
 
+* [research-interests.md](https://github.com/Daniel-Mietchen/ideas/blob/master/research-interests.md) &mdash; an attempt to explore interactions between different lines of research
 * [hashtags.md](https://github.com/Daniel-Mietchen/ideas/blob/master/hashtags.md) &mdash; keeps track of hashtags of interest to me
 * [labels.md](https://github.com/Daniel-Mietchen/ideas/blob/master/labels.md) &mdash; keeps track of the labels I am using in this repo
