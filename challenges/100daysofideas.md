@@ -9,11 +9,11 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
   - hashtag: [#100daysofideas](https://twitter.com/hashtag/100daysofideas?src=hashtag_click&f=live)
   - earliest end date: November 11, 2021
 - for each ```day``` of the challenge
-  - do something useful with one of the [issues in this repository](https://github.com/Daniel-Mietchen/ideas/issues/)
+  - do something useful with at least one of the [issues in this repository](https://github.com/Daniel-Mietchen/ideas/issues/) ([sorted by "least recently updated"](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-asc))
   - document that activity
   - tweet about the activity
   - include a link to the tweet into this overview file
-  - leave a comment on the issue of the day pointing back to [issue 1441](https://github.com/Daniel-Mietchen/ideas/issues/1441), e.g. 
+  - link one or more of the issues of the day to or from [issue 1441](https://github.com/Daniel-Mietchen/ideas/issues/1441), e.g. 
     - > The above comments on this issue were part of Day X of [#100daysofideas](https://twitter.com/hashtag/100daysofideas?src=hashtag_click&f=live), as per [this tweet](https://twitter.com/EvoMRI/status/1423111543961669633) and #1441 .
 - definition of ```day```: the activity should occur within 24h of the time when the associated date is valid at least somewhere on Earth
 
@@ -22,8 +22,9 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-07 |  004  |       | 
-| 2021-08-06 |  003  | [paperwork approval documentation](https://twitter.com/EvoMRI/status/1423828537434427397)| 
-| 2021-08-05 |  002  | [pull request templates](https://twitter.com/EvoMRI/status/1423386844377620486)      | 
-| 2021-08-04 |  001  | [ecocide](https://twitter.com/EvoMRI/status/1423111543961669633)  | 
+| 2021-08-08 |  005  |       | 
+| 2021-08-07 |  004  | [music and suicide prevention](https://twitter.com/EvoMRI/status/1424030783535190018) | 
+| 2021-08-06 |  003  | [paperwork approval documentation](https://twitter.com/EvoMRI/status/1423828537434427397) | 
+| 2021-08-05 |  002  | [pull request templates](https://twitter.com/EvoMRI/status/1423386844377620486) | 
+| 2021-08-04 |  001  | [ecocide](https://twitter.com/EvoMRI/status/1423111543961669633) | 
 
