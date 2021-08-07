@@ -24,7 +24,7 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 | ---------- | ----- | ----- | 
 | 2021-08-0X |  00Y  |       | 
 | 2021-08-07 |  004  |       | 
-| 2021-08-06 |  003  | [Paperwork approval documentation](https://twitter.com/EvoMRI/status/1423828537434427397)| 
+| 2021-08-06 |  003  | [paperwork approval documentation](https://twitter.com/EvoMRI/status/1423828537434427397)| 
 | 2021-08-05 |  002  | [pull request templates](https://twitter.com/EvoMRI/status/1423386844377620486)      | 
 | 2021-08-04 |  001  | [ecocide](https://twitter.com/EvoMRI/status/1423111543961669633)  | 
 
