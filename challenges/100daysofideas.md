@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-09 |  006  |       | 
+| 2021-08-10 |  007  |       | 
+| 2021-08-09 |  006  | [closed three outdated issues](https://twitter.com/EvoMRI/status/1424900207515475974) | 
 | 2021-08-08 |  005  | [planning for when I am gone](https://twitter.com/EvoMRI/status/1424131639995736065) | 
 | 2021-08-07 |  004  | [music and suicide prevention](https://twitter.com/EvoMRI/status/1424030783535190018) | 
 | 2021-08-06 |  003  | [paperwork approval documentation](https://twitter.com/EvoMRI/status/1423828537434427397) | 
