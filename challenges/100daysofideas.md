@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-12 |  009  |       | 
+| 2021-08-13 |  010  |       | 
+| 2021-08-12 |  009  | [closed three issues, opened two](https://twitter.com/EvoMRI/status/1425965240542449666) | 
 | 2021-08-11 |  008  | [closed seven old issues](https://twitter.com/EvoMRI/status/1425606638317285377) | 
 | 2021-08-10 |  007  | [Wikimania preparations: COVID and SDGs](https://twitter.com/EvoMRI/status/1425268789843828737) | 
 | 2021-08-09 |  006  | [closed three outdated issues](https://twitter.com/EvoMRI/status/1424900207515475974) | 
