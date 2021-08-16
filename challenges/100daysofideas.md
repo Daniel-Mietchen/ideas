@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-15 |  012  |       | 
+| 2021-08-16 |  013  |       | 
+| 2021-08-15 |  012  | [Wikimania and Birthdaytrees](https://twitter.com/EvoMRI/status/1427069378911162375) | 
 | 2021-08-14 |  011  | [Wikimania planning and in memoriam](https://twitter.com/EvoMRI/status/1426689962334998533) | 
 | 2021-08-13 |  010  | [closed browser tabs, gathered interesting books](https://twitter.com/EvoMRI/status/1426337998447206405) | 
 | 2021-08-12 |  009  | [closed three issues, opened two](https://twitter.com/EvoMRI/status/1425965240542449666) | 
