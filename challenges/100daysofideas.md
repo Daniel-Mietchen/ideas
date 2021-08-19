@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-19 |  016  |       | 
+| 2021-08-20 |  017  |  | 
+| 2021-08-19 |  016  | [tabs management](https://twitter.com/EvoMRI/status/1428335687267454976) | 
 | 2021-08-18 |  015  | [Wikidata lexemes](https://twitter.com/EvoMRI/status/1428163676587151361) | 
 | 2021-08-17 |  014  | [Wiki Loves Renewables](https://twitter.com/EvoMRI/status/1427779111385288709)| 
 | 2021-08-16 |  013  | [GitHub profiles](https://twitter.com/EvoMRI/status/1427461904331587591) | 
