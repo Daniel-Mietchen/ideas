@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-24 |  021  |  | 
+| 2021-08-25 |  022  |  | 
+| 2021-08-24 |  021  | [finished a review](https://twitter.com/EvoMRI/status/1430505362025820168) | 
 | 2021-08-23 |  020  | [Journal of Brief Ideas](https://twitter.com/EvoMRI/status/1430352776777932805) | 
 | 2021-08-22 |  019  | [trace fossils in cultural heritage](https://twitter.com/EvoMRI/status/1429974464167661568)| 
 | 2021-08-21 |  018  | [read a paper on data management plans in Europe](https://twitter.com/EvoMRI/status/1429569744236126214) | 
