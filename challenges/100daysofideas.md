@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-25 |  022  |  | 
+| 2021-08-26 |  023  |  | 
+| 2021-08-25 |  022  | [tested Tab Stash for closing browser tabs systematically](https://twitter.com/EvoMRI/status/1430862616239525888) | 
 | 2021-08-24 |  021  | [finished a review](https://twitter.com/EvoMRI/status/1430505362025820168) | 
 | 2021-08-23 |  020  | [Journal of Brief Ideas](https://twitter.com/EvoMRI/status/1430352776777932805) | 
 | 2021-08-22 |  019  | [trace fossils in cultural heritage](https://twitter.com/EvoMRI/status/1429974464167661568)| 
