@@ -9,7 +9,7 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
   - hashtag: [#100daysofideas](https://twitter.com/hashtag/100daysofideas?src=hashtag_click&f=live)
   - earliest end date: November 11, 2021
 - for each ```day``` of the challenge
-  - do something useful with at least one of the [issues in this repository](https://github.com/Daniel-Mietchen/ideas/issues/) ([sorted by "least recently updated"](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-asc))
+  - do something useful with at least one of the [issues in this repository](https://github.com/Daniel-Mietchen/ideas/issues/) ([sorted by "least recently updated"](https://github.com/Daniel-Mietchen/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-asc)) or any other publicly available idea
   - document that activity
   - tweet about the activity
   - include a link to the tweet into this overview file
