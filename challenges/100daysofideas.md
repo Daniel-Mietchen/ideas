@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-08-29 |  026  |  | 
+| 2021-08-30 |  027  |  | 
+| 2021-08-29 |  026  | [added two more books to Inventaire](https://twitter.com/EvoMRI/status/1431617623993819138) | 
 | 2021-08-28 |  025  | [broadened the scope to include any public idea](https://twitter.com/EvoMRI/status/1431460408997597186) | 
 | 2021-08-27 |  024  | [documentation for pledges](https://twitter.com/EvoMRI/status/1430979109279223813) | 
 | 2021-08-26 |  023  | [GitHub profile, once more](https://twitter.com/EvoMRI/status/1430958787440123905) | 
