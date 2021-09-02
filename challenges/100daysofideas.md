@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-01 |  029  |  | 
+| 2021-09-02 |  030  |  | 
+| 2021-09-01 |  029  | [Wikidata lexeme tooling](https://twitter.com/EvoMRI/status/1433550066548043813)| 
 | 2021-08-31 |  028  | [grant peer review policy](https://twitter.com/EvoMRI/status/1432898874075762692) | 
 | 2021-08-30 |  027  | [software sustainability and data visualization](https://twitter.com/EvoMRI/status/1432475943671578626) | 
 | 2021-08-29 |  026  | [added two more books to Inventaire](https://twitter.com/EvoMRI/status/1431617623993819138) | 
