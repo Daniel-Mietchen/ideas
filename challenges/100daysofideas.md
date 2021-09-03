@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-03 |  031  |  | 
+| 2021-09-04 |  032  |  | 
+| 2021-09-03 |  031  | [Ronin and IGDORE](https://twitter.com/EvoMRI/status/1433939073295585280) | 
 | 2021-09-02 |  030  | [D64 and voting assistants/ simulators](https://twitter.com/EvoMRI/status/1433642747559301122) | 
 | 2021-09-01 |  029  | [Wikidata lexeme tooling](https://twitter.com/EvoMRI/status/1433550066548043813)| 
 | 2021-08-31 |  028  | [grant peer review policy](https://twitter.com/EvoMRI/status/1432898874075762692) | 
