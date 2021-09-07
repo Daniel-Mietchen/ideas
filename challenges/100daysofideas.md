@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-06 |  034  |  | 
+| 2021-09-07 |  035  |  | 
+| 2021-09-06 |  034  | [If Brains are Computers, Who Designs the Software? - with Daniel Dennett](https://twitter.com/EvoMRI/status/1435130596137873409) | 
 | 2021-09-05 |  033  | [Scholia profile for ecocide](https://twitter.com/EvoMRI/status/1434670950230933506) | 
 | 2021-09-04 |  032  | [Tag des Geotops](https://twitter.com/EvoMRI/status/1434301597585190914) | 
 | 2021-09-03 |  031  | [Ronin and IGDORE](https://twitter.com/EvoMRI/status/1433939073295585280) | 
