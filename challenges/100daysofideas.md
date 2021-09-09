@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-09 |  037  |  | 
+| 2021-09-10 |  038  |  | 
+| 2021-09-09 |  037  | [entity schemas](https://twitter.com/EvoMRI/status/1436071981129080835) | 
 | 2021-09-08 |  036  | [Wikidata's Data Quality Days](https://twitter.com/EvoMRI/status/1436069312264015876) | 
 | 2021-09-07 |  035  | [Reshaping the Academic Self: Connecting Education & Open Science](https://twitter.com/EvoMRI/status/1435385932669235203)| 
 | 2021-09-06 |  034  | [If Brains are Computers, Who Designs the Software? - with Daniel Dennett](https://twitter.com/EvoMRI/status/1435130596137873409) | 
