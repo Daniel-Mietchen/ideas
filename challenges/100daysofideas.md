@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-13 |  041  |  | 
+| 2021-09-14 |  042  |  | 
+| 2021-09-13 |  041  | [idea gardening](https://twitter.com/EvoMRI/status/1437592269402554368) | 
 | 2021-09-12 |  040  | [error in vaccination certificate](https://twitter.com/EvoMRI/status/1437299579582656513) | 
 | 2021-09-11 |  039  | [Sichere Videokonferenz](https://twitter.com/EvoMRI/status/1436821904569081858)| 
 | 2021-09-10 |  038  | [tab management again](https://twitter.com/EvoMRI/status/1436478875270266880) | 
