@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-17 |  045  |  | 
+| 2021-09-18 |  046  |  | 
+| 2021-09-17 |  045  | [Shared mourning](https://twitter.com/EvoMRI/status/1438911077056659461) | 
 | 2021-09-16 |  044  | [Wikimania follow-up: mapping between Wikimedia activities and Sustainable Development Goals](https://twitter.com/EvoMRI/status/1438664682244644872) | 
 | 2021-09-15 |  043  | [Scholarship Values Summit again](https://twitter.com/EvoMRI/status/1438397938967924745) (also [here](https://twitter.com/EvoMRI/status/1438397263668256768))| 
 | 2021-09-14 |  042  | [Scholarship Values Summit](https://twitter.com/EvoMRI/status/1438033457209384966) | 
