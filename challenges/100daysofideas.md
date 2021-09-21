@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-21 |  049  |  | 
+| 2021-09-22 |  050  |  | 
+| 2021-09-21 |  049  | [joined the Ronin Institute, watched talk on morphogenic electrics](https://twitter.com/EvoMRI/status/1440191560918786059) | 
 | 2021-09-20 |  048  | [submitted my application to the Ronin Institute](https://twitter.com/EvoMRI/status/1439438761897701376) | 
 | 2021-09-19 |  047  | [offsetting personal carbon footprints, and Sustainable Museums](https://twitter.com/EvoMRI/status/1439334262017306628) | 
 | 2021-09-18 |  046  | [Letters of reference](https://twitter.com/EvoMRI/status/1439018184275808263) | 
