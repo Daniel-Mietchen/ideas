@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-24 |  052  |  | 
+| 2021-09-25 |  053  |  | 
+| 2021-09-24 |  052  | [Mapping Wikimedia activities to SDGs](https://twitter.com/EvoMRI/status/1441860892975529996) | 
 | 2021-09-23 |  051  | [feeding biodiversity terms into Wikidata as lexemes](https://twitter.com/EvoMRI/status/1441274697878884358) | 
 | 2021-09-22 |  050  | [Gave talk on FAIR ethics](https://twitter.com/EvoMRI/status/1440625827129933834) | 
 | 2021-09-21 |  049  | [joined the Ronin Institute, watched talk on morphogenic electrics](https://twitter.com/EvoMRI/status/1440191560918786059) | 
