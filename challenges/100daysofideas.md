@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-27 |  055  |  |
+| 2021-09-28 |  056  |  |
+| 2021-09-27 |  055  | [Standard for Public Code](https://twitter.com/EvoMRI/status/1442969276986667008) |
 | 2021-09-26 |  054  | [Planned upcoming events](https://twitter.com/EvoMRI/status/1442251261491957761) |
 | 2021-09-25 |  053  | [EuroBioBlitz](https://twitter.com/EvoMRI/status/1441888026620215297) |
 | 2021-09-24 |  052  | [Mapping Wikimedia activities to SDGs](https://twitter.com/EvoMRI/status/1441860892975529996) | 
