@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-09-30 |  058  |  |
+| 2021-10-01 |  059  |  |
+| 2021-09-30 |  058  | [Fun with Lexeme Forms](https://twitter.com/EvoMRI/status/1443797823275683848) |
 | 2021-09-29 |  057  | [Trouble with submission forms](https://twitter.com/EvoMRI/status/1443744061861605380) |
 | 2021-09-28 |  056  | [Science GLAM and Open Science](https://twitter.com/EvoMRI/status/1443289915278692368) |
 | 2021-09-27 |  055  | [Standard for Public Code](https://twitter.com/EvoMRI/status/1442969276986667008) |
