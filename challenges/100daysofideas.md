@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-02 |  060  |  |
+| 2021-10-03 |  061  |  |
+| 2021-10-02 |  060  | [JupyterCon 2020](https://twitter.com/EvoMRI/status/1444741963924787210) |
 | 2021-10-01 |  059  | [Cell Ontology](https://twitter.com/EvoMRI/status/1444354408586915840) |
 | 2021-09-30 |  058  | [Fun with Lexeme Forms](https://twitter.com/EvoMRI/status/1443797823275683848) |
 | 2021-09-29 |  057  | [Trouble with submission forms](https://twitter.com/EvoMRI/status/1443744061861605380) |
