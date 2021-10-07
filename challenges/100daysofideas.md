@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-07 |  065  |  |
+| 2021-10-08 |  066  |  |
+| 2021-10-07 |  065  | [data citation via Preston](https://twitter.com/EvoMRI/status/1446194932952281090) |
 | 2021-10-06 |  064  | [modeling hypotheses](https://twitter.com/EvoMRI/status/1445991289451909122) |
 | 2021-10-05 |  063  | [organocatalysis, coordination chemistry, vaccine adjucant](https://twitter.com/EvoMRI/status/1445970160960090114) |
 | 2021-10-04 |  062  | [nociception, spin glasses and bioorthogonal chemistry](https://twitter.com/EvoMRI/status/1445509121562726410) |
