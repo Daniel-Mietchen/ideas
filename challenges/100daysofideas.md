@@ -22,7 +22,7 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-12 |  069  |  |
+| 2021-10-12 |  070  |  |
 | 2021-10-11 |  069  | [ethical and legal aspects of software and data](https://twitter.com/EvoMRI/status/1447993251169021957) |
 | 2021-10-10 |  068  | [Crossref REST API](https://twitter.com/EvoMRI/status/1447419748812197894) |
 | 2021-10-09 |  067  | [Climate Reality Virtual Global Training and WikiCon NA](https://twitter.com/EvoMRI/status/1447067214255951878) |
