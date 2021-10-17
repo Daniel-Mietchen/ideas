@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-15 |  073  |  |
+| 2021-10-16 |  074  |  |
+| 2021-10-15 |  073  | [Operationalizing scholarly values](https://twitter.com/EvoMRI/status/1449514374234886146) |
 | 2021-10-14 |  072  | [NASA Workshop: Open-Source Science for Data Processing and Archives](https://twitter.com/EvoMRI/status/1449011002318770184) |
 | 2021-10-13 |  071  | [Open Science, Science GLAM and Climate Reality](https://twitter.com/EvoMRI/status/1448389331895336964) |
 | 2021-10-12 |  070  | [Nobel laureates in economics](https://twitter.com/EvoMRI/status/1448052174907400195) |
