@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-18 |  076  |  |
+| 2021-10-19 |  077  |  |
+| 2021-10-18 |  076  | [Cell Ontology again](https://twitter.com/EvoMRI/status/1450389126054916096) |
 | 2021-10-17 |  075  | [Options for Climate Action](https://twitter.com/EvoMRI/status/1450179689423716355) |
 | 2021-10-16 |  074  | [A text message to everyone](https://twitter.com/EvoMRI/status/1449969055004340230) |
 | 2021-10-15 |  073  | [Operationalizing scholarly values](https://twitter.com/EvoMRI/status/1449514374234886146) |
