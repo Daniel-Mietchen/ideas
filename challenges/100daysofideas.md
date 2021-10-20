@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-20 |  078  |  |
+| 2021-10-21 |  079  |  |
+| 2021-10-20 |  078  | [WikidataCon submissions](https://twitter.com/EvoMRI/status/1450972335297736706) |
 | 2021-10-19 |  077  | [HOT Summit preparations: Humanitarian Wikimedia](https://twitter.com/EvoMRI/status/1450561506022658051) |
 | 2021-10-18 |  076  | [Cell Ontology again](https://twitter.com/EvoMRI/status/1450389126054916096) |
 | 2021-10-17 |  075  | [Options for Climate Action](https://twitter.com/EvoMRI/status/1450179689423716355) |
