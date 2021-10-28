@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-27 |  085  |  |
+| 2021-10-28 |  086  |  |
+| 2021-10-27 |  085  | [Tooling for writing Data Management Plans](https://twitter.com/EvoMRI/status/1453746324785045509) |
 | 2021-10-26 |  084  | [Rebooting academia](https://twitter.com/EvoMRI/status/1453177334492803073) |
 | 2021-10-25 |  083  | [Railroad Diagram Generator](https://twitter.com/EvoMRI/status/1452783400889298946)|
 | 2021-10-24 |  082  | [Climate Reality Global Virtual Training](https://twitter.com/EvoMRI/status/1452431224866234369) |
