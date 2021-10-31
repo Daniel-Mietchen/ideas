@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-10-30 |  088  |  |
+| 2021-10-31 |  089  |  |
+| 2021-10-30 |  088  | [WikidataCon and EU Knowledge Graph](https://twitter.com/EvoMRI/status/1454820313628348423) |
 | 2021-10-29 |  087  | [WikidataCon: Scaling Wikidata Query Service and exploring the Knowledge Graph ToolKit to work with dumps](https://twitter.com/EvoMRI/status/1454414083705516040) |
 | 2021-10-28 |  086  | [An old proposal and a really great presentation](https://twitter.com/EvoMRI/status/1454014384708149254) |
 | 2021-10-27 |  085  | [Tooling for writing Data Management Plans](https://twitter.com/EvoMRI/status/1453746324785045509) |
