@@ -23,7 +23,7 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
 | 2021-11-02 |  091  |  |
-| 2021-11-01 |  090  |  |
+| 2021-11-01 |  090  | [Reviewing Scholia pull requests](https://twitter.com/EvoMRI/status/1455284063674277893) |
 | 2021-10-31 |  089  | [WikidataCon wrap-up](https://twitter.com/EvoMRI/status/1455281489705377792) |
 | 2021-10-30 |  088  | [WikidataCon and EU Knowledge Graph](https://twitter.com/EvoMRI/status/1454820313628348423) |
 | 2021-10-29 |  087  | [WikidataCon: Scaling Wikidata Query Service and exploring the Knowledge Graph ToolKit to work with dumps](https://twitter.com/EvoMRI/status/1454414083705516040) |
