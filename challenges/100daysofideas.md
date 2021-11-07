@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-11-05 |  095  |  |
+| 2021-11-07 |  096  |  |
+| 2021-11-06 |  095  | [Communicating values via radar charts](https://twitter.com/EvoMRI/status/1457178734822404097) |
 | 2021-11-05 |  094  | [Wertemuseum](https://twitter.com/EvoMRI/status/1457165247240982536) |
 | 2021-11-04 |  093  | [Publishing the research process, including machine actionable DMPs](https://twitter.com/EvoMRI/status/1456590150650191876) |
 | 2021-11-03 |  092  | [Richard Dawkins Teaching Evolution to Religious Students](https://www.youtube.com/watch?v=jNhtbmXzIaM) |
