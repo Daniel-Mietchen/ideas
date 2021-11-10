@@ -22,7 +22,8 @@ This file assists in running a 100-day-challenge, as described in [issue 1441](h
 
 | Date       | Day   | Issue | 
 | ---------- | ----- | ----- | 
-| 2021-11-10 |  099  |  |
+| 2021-11-11 |  100  |  |
+| 2021-11-10 |  099  | [Turned additional scientific terms into Wikidata lexemes](https://twitter.com/EvoMRI/status/1458580756209541125) |
 | 2021-11-09 |  098  | [Opening up the research process and What to do with machine actionable data management plans](https://twitter.com/EvoMRI/status/1458205246111555588) |
 | 2021-11-08 |  097  | [OAI-PMH endpoint for Wikidata](https://twitter.com/EvoMRI/status/1458187216451248130) |
 | 2021-11-07 |  096  | [The first three books I read on my own](https://twitter.com/EvoMRI/status/1457321612894773252) |
