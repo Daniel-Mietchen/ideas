@@ -5,6 +5,8 @@ Here is a first draft on the three required core bits:
 # Description of the idea
 *Maximum 250 words.*
 
+Cross-species interactions in biological invasions: the case of pollination networks
+
 I would like to encourage the BiCIKL project partners to zoom in on the rapid response workflow for biological invasions that was sketched out as Exemplar Use Case 1 in the BiCIKL proposal and shown to provide a useful framework for integration efforts across the consortium. Within this context, I would like cross-species interactions - particularly zoophilous pollination networks - to receive special attention as an additional avenue for streamlining the integration of research workflows across different data infrastructures, since pollinators and their pollination partners are not typically kept in close proximity in natural history collections or biodiversity databases. 
 
 Biotic invasions have multiple facets, and research about them spans across taxonomic, geographic and other boundaries, requiring rich data about the invading organisms as well as the invaded spaces and their respective ecological contexts. Yet such data are rarely available in a way that would render them readily usable in invasion sciences, so there is a need for closer integration between data infrastructures covering taxonomic, genetic, biochemical, behavioral, biomorphological, geomorphological, land use, climate and other data, including about cross-species interactions.
