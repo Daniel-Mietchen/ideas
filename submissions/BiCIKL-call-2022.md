@@ -1,6 +1,6 @@
 This file collects information pertaining to a submission to the [BiCIKL Call for Expression of Interest for biodiversity data-related scientific proposals](https://bicikl-project.eu/open-call-projects), as per https://github.com/Daniel-Mietchen/ideas/issues/1728 .
 
-Here is a first draft on the three required core bits:
+Here is what I [submitted](https://github.com/Daniel-Mietchen/ideas/issues/1728#issuecomment-1200512265):
 
 # Description of the idea
 *Maximum 250 words.*
