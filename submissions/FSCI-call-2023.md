@@ -48,7 +48,7 @@ My past FSCI courses — accessible via https://www.wikidata.org/wiki/User:Danie
 
 ## Student prerequisites
 
-Course participants should sign up on the course page at https://w.wiki/6GNZ at least one week in advance of the course start using their Wikidata account. If they already have an account on Wikipedia or any other Wikimedia site, that should work too. New Wikidata accounts can be created via https://www.wikidata.org/wiki/Special:UserLogin . The course page has suggestions for preparatory materials and will have additional instructions similar to those at https://w.wiki/6GC8 . It will also provide options to signal particular interests to which I will try to cater. 
+Course participants should sign up on the course page at https://w.wiki/6GNZ at least one week in advance of the course start using their Wikidata account. If they already have an account on Wikipedia or any other Wikimedia site, that should work too. New Wikidata accounts can be created via https://www.wikidata.org/wiki/Special:CreateAccount . The course page has suggestions for preparatory materials and will have additional instructions similar to those at https://w.wiki/6GC8 . It will also provide options to signal particular interests to which I will try to cater. 
 
 ## Target audience
 
