@@ -26,7 +26,7 @@ After a basic introduction to Scholia and some related Wikidata features, the co
 
 Each of the three class days will start with an introductory presentation that builds on the preparatory homework, followed by practical hands-on activities in pairs or small groups and concluding with a full-group activity in which documentation, experiences and thoughts pertaining to the session are being shared. Questions will be possible throughout the sessions. My preferred session length per course day would be 180 minutes, with 5 min each hour dedicated to documentation and additional 5 to breaks.
 
-The days will be themed: Day 1 ("Exploration") will focus on what is already there in Wikidata and Scholia, how it works and when it can be useful, while Day 2 ("Curation") will zoom in on assessing and improving data quality and coverage, and Day 3 ("Adaptation") will explore ways in which the existing Scholia system could be modified to better suit use cases of interest to course participants.
+The days will be themed: Day 1 ("Exploration") will focus on what is already there in Wikidata and Scholia, how it works and when it can be useful for what purposes, while Day 2 ("Curation") will zoom in on assessing and improving data quality and coverage, and Day 3 ("Adaptation") will explore ways in which the existing Scholia system could be modified to better suit use cases of interest to course participants.
 
 ## CV / Biography
 
