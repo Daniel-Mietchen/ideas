@@ -34,7 +34,7 @@ The days will be themed: Day 1 ("Exploration") will focus on what is already the
 
 ## Teaching experience
 
-Lots of workshops, talks and hackathons around open scientific knowledge, along with occasional courses, including FSCI ones, both on-site (2017) and remote (2018). Few of these have been recorded, but some examples sit at https://www.youtube.com/watch?v=weYWFgr1ZNc and https://doi.org/10.5281/zenodo.7226858 .
+Lots of workshops, talks and hackathons around open scientific knowledge, along with occasional courses, including FSCI ones, both on-site (2017) and remote (2018). Few of these have been recorded, but some examples relevant to the course sit at https://www.youtube.com/watch?v=weYWFgr1ZNc and https://doi.org/10.5281/zenodo.7226858 .
 
 ## Virtual engagement
 
