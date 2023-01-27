@@ -44,7 +44,7 @@ The main idea here is that participants will (i) provide some use cases or pick 
 
 ## Previous iterations
 
-My past FSCI courses &mdash; accessible via https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2017 and https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2018 &mdash; were trying to give a good overview of Wikidata and mentioned Scholia only briefly. This course would be focused on Scholia and only cover those Wikidata aspects directly related to it, with special attention to integration with research and teaching workflows as well as metadata curation.
+My past FSCI courses — accessible via https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2017 and https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2018 — were trying to give a good overview of Wikidata and mentioned Scholia only briefly. This course would be focused on Scholia and only cover those Wikidata aspects directly related to it, with special attention to integration with research and teaching workflows as well as metadata curation. For a testimony from the 2018 course, see https://twitter.com/stevenmaccall/status/1199301446631600129 .
 
 ## Student prerequisites
 
