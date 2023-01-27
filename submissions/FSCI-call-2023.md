@@ -4,7 +4,7 @@ This file hosts materials related to my submission (as per [issue 1740](https://
 
 # Application form
 
-A copy of the application form is [here](https://github.com/Daniel-Mietchen/ideas/issues/1740#issuecomment-1404378112), and I will draft the non-trivial or non-personal bits below.
+A copy of the application form is [here](https://github.com/Daniel-Mietchen/ideas/issues/1740#issuecomment-1404378112), and I have drafted the non-trivial or non-personal bits below. The form was [submitted](https://github.com/Daniel-Mietchen/ideas/issues/1740#issuecomment-1406260604) on January 27, 2023.
 
 ## Course title
 
