@@ -6,13 +6,18 @@ This file assists in working out some sensible rules regarding when and how I am
 
 # Rules
 
+## Definitions
+
+1. A "meeting" in this context is a planned event with two-way talk between me and one or more others for work purposes, with teaching excluded for now.
+1. A "day" here means 24 consecutive hours in any timezone.
+1. A "week" here means 168 (=7\*24) consecutive hours in any timezone.
+
 ## General rules
 1. As long as the word "draft" remains in this first rule, these rules are to be considered a draft.
-2. A "meeting" in this context is a planned event with two-way talk between me and one or more others for work purposes, with teaching excluded for now.
-3. If other demands on my time come in for one of my planned meeting-free slots, I will strive to find a balance between the two, and use such concrete occasions to fine-tune these rules here.
-4. I will set up a page explaining my meeting-free times, and point others to it as needed. This should include information on the general purposes of such arrangements (e.g. writing, coding, testing, planning, reading etc.) and over time also some concrete examples.
-5. These meeting-free times are meant for days when I work, yet the idea of keeping them meeting-free covers the entire period, not just the official working part of it.
-6. Once the rules are stable, consider integrating them with my [pledges](https://github.com/Daniel-Mietchen/pledges).
+1. If other demands on my time come in for one of my planned meeting-free slots, I will strive to find a balance between the two, and use such concrete occasions to fine-tune these rules here.
+1. I will set up a page explaining my meeting-free times, and point others to it as needed. This should include information on the general purposes of such arrangements (e.g. writing, coding, testing, planning, reading etc.) and over time also some concrete examples.
+1. These meeting-free times are meant for days when I work, yet the idea of keeping them meeting-free covers the entire period, not just the official working part of it.
+1. Once the rules are stable, consider integrating them with my [pledges](https://github.com/Daniel-Mietchen/pledges).
 
 ## Rules specific to meeting-free weeks
 
