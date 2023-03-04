@@ -1,6 +1,6 @@
 # About
 
-This file assists in the preparation of a [talk]([url](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Reflections_on_participatory_research)) at the [Wissenschaftskolleg Berlin](https://www.wiko-berlin.de/) on 6 March 2023.
+This file assists in the preparation of a [discussion]([url](https://en.wikiversity.org/wiki/User:Daniel_Mietchen/Reflections_on_participatory_research)) led by [Rose O'Dea](https://scholia.toolforge.org/author/Q91737098) at the [Wissenschaftskolleg Berlin](https://www.wiko-berlin.de/) on 6 March 2023.
 
 # Title
 
