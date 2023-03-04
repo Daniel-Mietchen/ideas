@@ -4,6 +4,10 @@ This file assists in the preparation of a [discussion]([url](https://en.wikivers
 
 # Title
 
+Reflections on participatory research
+
+## Subtitle
+
 Enhanced participation as a key ingredient of an impactful research ecosystem equipped to tackle the complex problems of our times
 
 # Abstract
