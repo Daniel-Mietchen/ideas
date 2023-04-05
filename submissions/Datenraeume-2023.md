@@ -16,6 +16,7 @@ The rapid growth of data and information in many research areas has made it chal
 
 # Logistics
 
-*After submission, I received the following acknowledgement of receipt on 13 December 2023.*
+*After submission, I received the following acknowledgement of receipt on 13 December 2022.*
 > Wir haben Ihre Bewerbung erhalten und werden Sie 4 bis 6 Wochen nach Ende der Einreichungsfrist über die Entscheidung informieren. Eventuelle Rückfragen können Sie an events@volkswagenstiftung.de senden. 
 
+* On 24 March 2023, I was notified of the acceptance of the poster.
