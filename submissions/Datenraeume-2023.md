@@ -1,6 +1,6 @@
 # About
 
-This file hosts a potential contribution to the conference [Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft](https://www.volkswagenstiftung.de/en/events/herrenhauser-konferenz-datenraume-deutschl-und-europa-gestalten) held in Hanoer on 24-25 April 2023. 
+This file hosts a potential contribution to the conference [Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft](https://www.volkswagenstiftung.de/de/veranstaltungen/datenraeume-deutschland-und-europa-gestalten-impulse-der) held in Hanoer on 24-25 April 2023. 
 
 The key passage of the call for contributions was as follows:
 > Teilnehmer:innen der Herrenhäuser Konferenz "Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft" können in den Pausen ein Poster zu ihrem Forschungsprojekt präsentieren oder an einem Infotisch Material (Flyer/Roll-ups,...) zu ihrer Institution/ihrem Forschungsverbund auslegen. Falls bis zum Stichtag am 15.3.2023 mehr Anmeldungen für Poster oder Infotische eingehen als Platz zur Verfügung ist, entscheidet das Los. 
