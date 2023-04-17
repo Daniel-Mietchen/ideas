@@ -2,6 +2,10 @@
 
 This file hosts a contribution to the conference [Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft](https://www.volkswagenstiftung.de/de/veranstaltungen/datenraeume-deutschland-und-europa-gestalten-impulse-der) held in Hanoer on 24-25 April 2023. 
 
+# DOI
+
+[10.5281/zenodo.7834982](https://doi.org/10.5281/zenodo.7834982)
+
 # Title
 
 Balancing Centralized and Distributed Approaches to Research Infrastructure: Insights from Building an Atlas of Invasion Biology
@@ -9,10 +13,6 @@ Balancing Centralized and Distributed Approaches to Research Infrastructure: Ins
 # Abstract
 
 The rapid growth of data and information in many research areas has made it challenging to acquire and maintain an overview of a given field. As a result, existing evidence is often not found, knowledge is not transferred to practice, and research is sometimes conducted in pursuit of dead ends. In this contribution, we will highlight how these challenges can be addressed through a combination of centralized and distributed approaches to building, maintaining and sustaining research infrastructure, using the domain of invasion science as an example. With support from the VolkswagenStiftung, we are developing an interactive atlas of knowledge and research about biological invasions that is integrating information from various sources into an open, FAIR and multilingual online environment. On the one hand, this environment will provide an evolving overview of the field, and on the other, it allows users to zoom in on the major research questions and hypotheses of invasion science and provides access to relevant studies published in the field, as well as the underlying data and code if available. While still work in progress, the system already provides visualizations, facilitates knowledge synthesis and is open for anyone to use and contribute to - including researchers, citizen scientists, practitioners, policy makers and the public. In coordination with collaborators from around the globe - including at Wikimedia projects and NFDI infrastructures - we are designing the system such that it can be extended to other fields in the future. Test cases involving branches of ecology and mathematics are already being developed.
-
-# DOI
-
-* [10.5281/zenodo.7834982](https://doi.org/10.5281/zenodo.7834982)
 
 # Logistics
 
