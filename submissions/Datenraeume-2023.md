@@ -3,7 +3,7 @@
 This file hosts a contribution to the conference [Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft](https://www.volkswagenstiftung.de/de/veranstaltungen/datenraeume-deutschland-und-europa-gestalten-impulse-der) held in Hanover on 24-25 April 2023. 
 
 # DOI
-
+In case you were wondering, this DOI is for the poster, not for this GitHub ticket.
 [10.5281/zenodo.7834982](https://doi.org/10.5281/zenodo.7834982)
 
 # Title
