@@ -1,6 +1,6 @@
 # About
 
-This file hosts a contribution to the conference [Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft](https://www.volkswagenstiftung.de/de/veranstaltungen/datenraeume-deutschland-und-europa-gestalten-impulse-der) held in Hanoer on 24-25 April 2023. 
+This file hosts a contribution to the conference [Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft](https://www.volkswagenstiftung.de/de/veranstaltungen/datenraeume-deutschland-und-europa-gestalten-impulse-der) held in Hanover on 24-25 April 2023. 
 
 # DOI
 
