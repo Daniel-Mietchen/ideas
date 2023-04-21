@@ -2,13 +2,13 @@
 
 This file hosts a contribution to the conference [Datenräume in Deutschland und Europa gestalten - Impulse der Wissenschaft](https://www.volkswagenstiftung.de/de/veranstaltungen/datenraeume-deutschland-und-europa-gestalten-impulse-der) held in Hanover on 24-25 April 2023. 
 
-# DOI
-In case you were wondering, this DOI is for the poster, not for this GitHub ticket.
-[10.5281/zenodo.7834982](https://doi.org/10.5281/zenodo.7834982)
+# Citation
+Mietchen, Daniel, Heger, Tina, Bernard-Verdier, Maud, Musseau, Camille, & Jeschke, Jonathan M. (2023). Centralized and Distributed Data Spaces: Insights from Dashboarding Invasion Biology. Zenodo. [https://doi.org/10.5281/zenodo.7834982](https://doi.org/10.5281/zenodo.7834982)
 
 # Title
+Centralized and Distributed Data Spaces: Insights from Dashboarding Invasion Biology
 
-Balancing Centralized and Distributed Approaches to Research Infrastructure: Insights from Building an Atlas of Invasion Biology
+*An earlier version had the title 'Balancing Centralized and Distributed Approaches to Research Infrastructure: Insights from Building an Atlas of Invasion Biology'.*
 
 # Abstract
 
