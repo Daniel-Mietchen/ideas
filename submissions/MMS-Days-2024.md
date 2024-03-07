@@ -16,3 +16,4 @@ As mathematical models and simulations arising from research are being shared mo
 * Some example papers from different fields that were using mathematical models and/ or simulations
   * [Physical properties of asteroid Dimorphos as derived from the DART impact.](https://doi.org/10.1038/s41550-024-02200-3)
   * [Evolutionary novelties underlie sound production in baleen whales](https://doi.org/10.1038/s41586-024-07080-1)
+  * [Exploring the effects of competition and predation on the success of biological invasion through mathematical modeling](https://doi.org/10.1038/s41598-024-53344-1)
