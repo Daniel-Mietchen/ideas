@@ -14,6 +14,8 @@ As mathematical models and simulations arising from research are being shared mo
 
 * [BioModels “Model of the year” competition 2024](https://www.ebi.ac.uk/biomodels/competition/model-of-the-year-2024)
 * Some example papers from different fields that were using mathematical models and/ or simulations
+  * [World3](http://bit-player.org/extras/limits/)
+  * [Universal Paperclip](https://en.wikipedia.org/wiki/Universal_Paperclips)
   * [Physical properties of asteroid Dimorphos as derived from the DART impact.](https://doi.org/10.1038/s41550-024-02200-3)
   * [Evolutionary novelties underlie sound production in baleen whales](https://doi.org/10.1038/s41586-024-07080-1)
   * [Exploring the effects of competition and predation on the success of biological invasion through mathematical modeling](https://doi.org/10.1038/s41598-024-53344-1)
