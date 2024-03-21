@@ -20,3 +20,4 @@ As mathematical models and simulations arising from research are being shared mo
   * [Evolutionary novelties underlie sound production in baleen whales](https://doi.org/10.1038/s41586-024-07080-1)
   * [Exploring the effects of competition and predation on the success of biological invasion through mathematical modeling](https://doi.org/10.1038/s41598-024-53344-1)
   * [Modeling of fuel in aircraft crashworthiness study with auxiliary fuel tank](https://doi.org/10.1016/j.ijimpeng.2022.104449) (mind the corrigendum)
+* [Open Modeling Foundation](https://openmodelingfoundation.org/)
