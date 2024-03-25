@@ -21,3 +21,4 @@ As mathematical models and simulations arising from research are being shared mo
   * [Exploring the effects of competition and predation on the success of biological invasion through mathematical modeling](https://doi.org/10.1038/s41598-024-53344-1)
   * [Modeling of fuel in aircraft crashworthiness study with auxiliary fuel tank](https://doi.org/10.1016/j.ijimpeng.2022.104449) (mind the corrigendum)
 * [Open Modeling Foundation](https://openmodelingfoundation.org/)
+* [Model Description Language (MDL): A Standard for Modeling and Simulation](https://doi.org/10.1002/psp4.12222)
