@@ -23,3 +23,4 @@ As mathematical models and simulations arising from research are being shared mo
 * [Open Modeling Foundation](https://openmodelingfoundation.org/)
 * [Model Description Language (MDL): A Standard for Modeling and Simulation](https://doi.org/10.1002/psp4.12222)
 * [models in Zenodo](https://zenodo.org/search?f=resource_type%3Amodel)
+* [Determining Best Practices for Preservation and Replicability](https://modeldatarcn.github.io/)
