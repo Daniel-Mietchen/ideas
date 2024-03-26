@@ -30,3 +30,4 @@ As mathematical models and simulations arising from research are being shared mo
 * [How AI is improving climate forecasts](https://doi.org/10.1038/d41586-024-00780-8)
 * [Climate Modeling Alliance](https://clima.caltech.edu/)
 * [Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review](https://doi.org/10.1080/17477778.2023.2260772)
+  - comes with a [Jupyter Book](https://tommonks.github.io/des_sharing_lit_review)
