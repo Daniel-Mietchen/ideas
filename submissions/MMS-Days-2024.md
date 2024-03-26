@@ -26,3 +26,4 @@ As mathematical models and simulations arising from research are being shared mo
 * [Determining Best Practices for Preservation and Replicability](https://modeldatarcn.github.io/)
   - [interactive version](https://zoidy.shinyapps.io/ModelDataRubric/)
 * [How AI is improving climate forecasts](https://doi.org/10.1038/d41586-024-00780-8)
+* [Climate Modeling Alliance](https://clima.caltech.edu/)
