@@ -31,3 +31,5 @@ As mathematical models and simulations arising from research are being shared mo
 * [Climate Modeling Alliance](https://clima.caltech.edu/)
 * [Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review](https://doi.org/10.1080/17477778.2023.2260772)
   - comes with a [Jupyter Book](https://tommonks.github.io/des_sharing_lit_review)
+* [A probabilistic assessment of surface water-groundwater exchange flux at a PCE contaminated site using groundwater modelling](https://doi.org/10.3389/feart.2023.1168609)
+  * comes with [Jupyter notebooks](https://github.com/nikobenho/hagfors_gwm/tree/main/notebooks) based on a [worked example](https://doi.org/10.5066/P9AUZMI7) for sharing models
