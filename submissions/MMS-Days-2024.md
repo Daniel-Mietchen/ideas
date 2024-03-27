@@ -37,3 +37,4 @@ As mathematical models and simulations arising from research are being shared mo
   * comes with [Jupyter notebooks](https://github.com/nikobenho/hagfors_gwm/tree/main/notebooks) based on a [worked example](https://doi.org/10.5066/P9AUZMI7) for sharing models
 * [Climate Models explainer](https://climate.mit.edu/explainers/climate-models)
 * [GeSoN: A Geo-Social Network model applying bounded rationality to farmers in socio-ecological simulations](https://doi.org/10.3897/fmj.4.100714)
+* [The Formal Model article format: justifying modelling intent and a critical review of data foundations through publication](https://doi.org/10.3897/fmj.3.91024)
