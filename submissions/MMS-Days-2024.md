@@ -13,6 +13,8 @@ As mathematical models and simulations arising from research are being shared mo
 # See also
 
 * [BioModels “Model of the year” competition 2024](https://www.ebi.ac.uk/biomodels/competition/model-of-the-year-2024)
+* [Physiome Project](https://physiomeproject.org/)
+* [Cell Collective](https://cellcollective.org/)
 * Some example papers from different fields that were using mathematical models and/ or simulations
   * [World3](http://bit-player.org/extras/limits/)
   * [Universal Paperclip](https://en.wikipedia.org/wiki/Universal_Paperclips)
