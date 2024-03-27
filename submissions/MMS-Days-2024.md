@@ -36,3 +36,4 @@ As mathematical models and simulations arising from research are being shared mo
 * [A probabilistic assessment of surface water-groundwater exchange flux at a PCE contaminated site using groundwater modelling](https://doi.org/10.3389/feart.2023.1168609)
   * comes with [Jupyter notebooks](https://github.com/nikobenho/hagfors_gwm/tree/main/notebooks) based on a [worked example](https://doi.org/10.5066/P9AUZMI7) for sharing models
 * [Climate Models explainer](https://climate.mit.edu/explainers/climate-models)
+* [GeSoN: A Geo-Social Network model applying bounded rationality to farmers in socio-ecological simulations](https://doi.org/10.3897/fmj.4.100714)
