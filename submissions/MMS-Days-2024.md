@@ -38,3 +38,4 @@ As mathematical models and simulations arising from research are being shared mo
 * [Climate Models explainer](https://climate.mit.edu/explainers/climate-models)
 * [GeSoN: A Geo-Social Network model applying bounded rationality to farmers in socio-ecological simulations](https://doi.org/10.3897/fmj.4.100714)
 * [The Formal Model article format: justifying modelling intent and a critical review of data foundations through publication](https://doi.org/10.3897/fmj.3.91024)
+* Categorisation of classic Knowledge Graph Embedding Models: Table 1 in [Knowledge Graph Embeddings: Open Challenges and Opportunities](https://doi.org/10.4230/TGDK.1.1.4)
