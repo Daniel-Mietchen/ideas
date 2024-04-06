@@ -24,6 +24,7 @@ As mathematical models and simulations arising from research are being shared mo
   * [Modeling of fuel in aircraft crashworthiness study with auxiliary fuel tank](https://doi.org/10.1016/j.ijimpeng.2022.104449) (mind the corrigendum)
   * [Traces of Genetic but Not Epigenetic Adaptation in the Invasive Goldenrod Solidago canadensis Despite the Absence of Population Structure](https://doi.org/10.3389/fevo.2022.856453) (data and code available)
   * [Wetlands Insight Tool: Characterising the Surface Water and Vegetation Cover Dynamics of Individual Wetlands Using Multidecadal Landsat Satellite Data](https://doi.org/10.1007/s13157-023-01682-7) (web app and data available)
+  * [Forecasting the spread of an invasive forest-defoliating insect](https://doi.org/10.1111/ddi.13799)
 * [Open Modeling Foundation](https://openmodelingfoundation.org/)
 * [Model Description Language (MDL): A Standard for Modeling and Simulation](https://doi.org/10.1002/psp4.12222)
 * [models in Zenodo](https://zenodo.org/search?f=resource_type%3Amodel)
