@@ -26,6 +26,7 @@ As mathematical models and simulations arising from research are being shared mo
   * [Wetlands Insight Tool: Characterising the Surface Water and Vegetation Cover Dynamics of Individual Wetlands Using Multidecadal Landsat Satellite Data](https://doi.org/10.1007/s13157-023-01682-7) (web app and data available)
   * [Forecasting the spread of an invasive forest-defoliating insect](https://doi.org/10.1111/ddi.13799)
   * [The impact of invasive species on some ecological services in a harvested predator–prey system](https://doi.org/10.1016/j.matcom.2023.04.024) (paywall)
+  * [Mathematical modelling – a key to citizenship education]https://doi.org/10.1007/978-3-658-36766-4_2)
 * [Open Modeling Foundation](https://openmodelingfoundation.org/)
 * [Model Description Language (MDL): A Standard for Modeling and Simulation](https://doi.org/10.1002/psp4.12222)
 * [models in Zenodo](https://zenodo.org/search?f=resource_type%3Amodel)
