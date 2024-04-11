@@ -10,6 +10,10 @@ Navigating a landscape of shared models and simulations: opportunities and chall
 
 As mathematical models and simulations arising from research are being shared more widely, they can be used more readily outside their original context. This opens up new opportunities and challenges. The opportunities include improved feasibility of reproducibility assessments, a broader range of potential applications, combinations and modifications as well as an improved basis for research collaborations and education involving models and simulations. The challenges include how to share models and associated materials such that potential reusers can find them, how to convey context alongside, how to handle dependencies, how to communicate insights gained from reuse, or how the increased sharing affects the field's considerable environmental footprint. This talk will explore such opportunities and challenges &mdash; along with some potential solutions &mdash; based on profiling a set of practical examples.
 
+# Slides
+
+- Mietchen, D. (2024, April 8). Navigating a landscape of shared models and simulations: opportunities and challenges. Zenodo. [https://doi.org/10.5281/zenodo.10946543](https://doi.org/10.5281/zenodo.10946543)
+
 # See also
 
 * [BioModels “Model of the year” competition 2024](https://www.ebi.ac.uk/biomodels/competition/model-of-the-year-2024)
