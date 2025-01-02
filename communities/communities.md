@@ -30,6 +30,7 @@ Some relevant icons:
 * https://deutsch-ukrainische-gesellschaft.de/
 * https://jena-digital.de/
 * https://kiva.org/
+* https://mastodon.social/
 * https://mathematik.de/
 * https://nabu.de/
 * https://nfdi.de/
