@@ -29,6 +29,7 @@ Some relevant icons:
 * https://de-rse.org/
 * https://deutsch-ukrainische-gesellschaft.de/
 * https://jena-digital.de/
+* https://kiva.org/
 * https://mathematik.de/
 * https://nabu.de/
 * https://nfdi.de/
