@@ -41,5 +41,5 @@ Some relevant icons:
 | [https://parentsforfuture.de/](https://parentsforfuture.de/) | Parents for Future Germany | A movement of parents who are concerned about the climate crisis | 🌱⚖️ |  |  |
 | [https://plazi.org/](https://plazi.org/) | Plazi | Swiss organization mining taxon treatments from the taxonomic literature | 💻🌱 |  |  |
 | [https://riojournal.com/](https://riojournal.com/) | RIO Journal | An open-science journal covering the entire research cycle | 🔬 |  |  |
-| [https://scientists4future.org/](https://scientists4future.org/) | Scientists for Future |  | 🔬🌱 |  |  |
+| [https://scientists4future.org/](https://scientists4future.org/) | Scientists for Future | A community of scientists sharing scientific insights regarding climate policy | 🔬🌱 |  |  |
 | [https://wikimedia.org/](https://wikimedia.org/) | Wikimedia | A global movement whose mission is to bring free educational content to the world | ✏️💻 |  |  |
