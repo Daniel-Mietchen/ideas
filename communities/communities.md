@@ -6,18 +6,19 @@ This file hosts information regarding communities, organizations or other initia
 
 Some relevant icons:
 * for the rough topics that the community engages in
-  * 🌱 sustainability
+  * 🌱 environment
   * ✏️ education
   * 🌉 infrastructure
   * 🔬 research
   * 🎶 culture
+  * ⚖️ justice
 * for my ways of engaging with the community
   * 👍 generic support
   * ❓ criticism
   * ⌛ donating time
   * 💶 donating money
-  * 🦉 donating expertise
-  * 🧱 donating resources 
+  * 🧠 donating expertise
+  * 🛠️ donating resources 
 
 # Communities
 
