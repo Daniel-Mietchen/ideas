@@ -1,6 +1,25 @@
 # About
 
-This file hosts information regarding communities, organizations or other initiatives with which I have actively engaged in 2025. This listing -- alphabetical by URL -- is very incomplete and will likely remain so, but I am planning to interconnect it with my [yearly priorities](../new-year-resolutions). 
+This file hosts information regarding communities, organizations or other initiatives with which I have actively engaged in 2025. This listing &mdash; alphabetical by URL &mdash; is very incomplete and will likely remain so, but I am planning to interconnect it with my [yearly priorities](../new-year-resolutions). 
+
+# Legend
+
+Some relevant icons:
+* for the rough topics that the community engages in
+  * 🌱 sustainability
+  * ✏️ education
+  * 🌉 infrastructure
+  * 🔬 research
+  * 🎶 culture
+* for my ways of engaging with the community
+  * 👍 generic support
+  * ❓ criticism
+  * ⌛ donating time
+  * 💶 donating money
+  * 🦉 donating expertise
+  * 🧱 donating resources 
+
+# Communities
 
 * https://ackersyndikat.org/
 * https://buergerenergie-jena.de/
