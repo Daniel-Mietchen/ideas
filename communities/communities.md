@@ -15,10 +15,10 @@ Some relevant icons:
 * for my ways of engaging with the community
   * 👍 generic support
   * ❓ criticism
-  * ⌛ donating time
-  * 💶 donating money
-  * 🧠 donating expertise
-  * 🛠️ donating resources 
+  * ⌛ providing time
+  * 💶 providing money
+  * 🧠 providing expertise
+  * 🛠️ providing resources 
 
 # Communities
 
