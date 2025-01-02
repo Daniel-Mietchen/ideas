@@ -29,7 +29,7 @@ Some relevant icons:
 | [https://buergerenergie-jena.de/](https://buergerenergie-jena.de/) | Bürgerenergie Jena | A German energy cooperative | 📡🌱 |  |  |
 | [https://codeberg.org/](https://codeberg.org/) | Codeberg | An open-source code-hosting platform  | 💻📡 |  |  | 
 | [https://d-64.org/](https://d-64.org/) | D64 Center for Digital Progress | A non-profit organization that promotes the positive impact of digital transformation on society | 💻⚖️ |  |  |
-| [https://de-rse.org/](https://de-rse.org/) | Research Software Engineers (RSEs) | A community of Research Software Engineers (RSEs) | 🔬 |  |  |
+| [https://de-rse.org/](https://de-rse.org/) | Research Software Engineers (RSEs) in Germany | A community of German Research Software Engineers | 🔬 |  |  |
 | [https://deutsch-ukrainische-gesellschaft.de/](https://deutsch-ukrainische-gesellschaft.de/) | Deutsch-Ukrainische Gesellschaft | An organization that aims to strengthen German-Ukrainian relations | 🎶🔬⚖️ |  |  |
 | [https://jena-digital.de/](https://jena-digital.de/) | Jena Digital | An organization that promotes the digital economy in Jena, Germany | 💻📡 |  |  |
 | [https://kiva.org/](https://kiva.org/) | Kiva | A micro-lending platform | ⚖️ |  |  |
