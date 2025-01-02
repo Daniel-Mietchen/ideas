@@ -9,7 +9,7 @@ Some relevant icons:
   * 🎶 culture
   * ✏️ education
   * 🌱 environment
-  * 🌉 infrastructure
+  * 📡 infrastructure
   * ⚖️ justice
   * 🔬 research
 * for my ways of engaging with the community
