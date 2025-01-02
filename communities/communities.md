@@ -6,12 +6,12 @@ This file hosts information regarding communities, organizations or other initia
 
 Some relevant icons:
 * for the rough topics that the community engages in
-  * 🌱 environment
-  * ✏️ education
-  * 🌉 infrastructure
-  * 🔬 research
   * 🎶 culture
+  * ✏️ education
+  * 🌱 environment
+  * 🌉 infrastructure
   * ⚖️ justice
+  * 🔬 research
 * for my ways of engaging with the community
   * 👍 generic support
   * ❓ criticism
