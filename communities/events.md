@@ -11,7 +11,7 @@ This file hosts information regarding events that I plan to engage with in some 
 # Events
 
 With dates defined:
-  - Jan 🙋[Metadata](https://www.nfdi.de/workshop-metadata-2025/) / 🙋[EcoHack](https://www.uni-bielefeld.de/einrichtungen/zif/events/#/event/8023) / 🙋[From Ecological Knowledge to Restoration Action: Developing the Conceptual and Technological Basis for a Toolbox](https://www.uni-bielefeld.de/einrichtungen/zif/events/#/event/7878)
+  - Jan 🙋[Metadata](https://www.nfdi.de/workshop-metadata-2025/) / 💻[For Future Jahres-Auftakt 2025](https://www.for-future-buendnis.de/programm-2025/) / 🙋[EcoHack](https://www.uni-bielefeld.de/einrichtungen/zif/events/#/event/8023) / 🙋[From Ecological Knowledge to Restoration Action: Developing the Conceptual and Technological Basis for a Toolbox](https://www.uni-bielefeld.de/einrichtungen/zif/events/#/event/7878)
   - Feb 💻[Wikidata: Data Reuse Days](https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025) / 💻[WikiCafé Science](https://fr.wikipedia.org/wiki/Projet:Wikifier_la_science/WikiCaf%C3%A9s) / 🙋[deRse25](https://events.hifis.net/event/1741/) / 🙋[SE25](https://se2025.sdq.kastel.kit.edu/)
   - Mar 💻[Polyglot Gathering Online](https://www.polyglotgathering.com/2025/de/online/) / 🙋[Vom Beweis zum Bibliotheksregal - Workshop rund um Forschungsdatenmanagement für die Mathematik](https://www.mis.mpg.de/events/series/vom-beweis-zum-bibliotheksregal-workshop-rund-um-forschungsdatenmanagement-fuer-die-mathematik)
   - Apr 
