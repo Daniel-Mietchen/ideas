@@ -41,7 +41,7 @@ Some relevant icons:
 | [https://nabu.de/](https://nabu.de/) | NABU | A German nature conservation organization | 🌱 | 👍 |  |
 | [https://nfdi.de/](https://nfdi.de/) | National Research Data Infrastructure | A network of research data infrastructures in Germany | 🔬📡 | 🧠🔄 |  |
 | [https://okfn.de/](https://okfn.de/) | Open Knowledge Foundation Deutschland e.V. | A non-profit organization that works in open knowledge and democratic participation | 💻⚖️ | 👍 |  |
-| [https://www.openbikesensor.org/](https://www.openbikesensor.org/) | OpenBikeSensor | A citizen science and open-source hardware project measuring cyclist-vehicle distances to improve road safety and cycling infrastructure | 📡💻⚖️🌱 | 👍 |  |
+| [https://openbikesensor.org/](https://openbikesensor.org/) | OpenBikeSensor | A citizen science and open-source hardware project measuring cyclist-vehicle distances to improve road safety and cycling infrastructure | 📡💻⚖️🌱 | 👍 |  |
 | [https://parentsforfuture.de/](https://parentsforfuture.de/) | Parents for Future Germany | A movement of parents who are concerned about the climate crisis | 🌱⚖️ | 👍🔄 |  |
 | [https://plazi.org/](https://plazi.org/) | Plazi | Swiss organization mining taxon treatments from the taxonomic literature | 💻🌱 | 🧠🔄 |  |
 | [https://riojournal.com/](https://riojournal.com/) | RIO Journal | An open-science journal covering the entire research cycle | 🔬 | 🔄🧠⌛ |  |
