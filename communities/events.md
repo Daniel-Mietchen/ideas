@@ -18,7 +18,7 @@ With dates defined:
   - May 💻[Wikimedia Hackathon](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2025) / 🙋[OER im Blick](https://www.oer-strategie.de/konferenz/) / ☁️[Workshop on Open Citations](https://workshop-oc.github.io/)
   - Jun 🙋[Wikidata and Research](https://meta.wikimedia.org/wiki/Wikidata_and_research) / ☁️[Global Climate Summit](https://www.climate.ox.ac.uk/globalclimatesummit) / ☁️[Barcamp Open Science](https://www.barcamp-open-science.eu/) / ☁️[Text+ Plenary und DARIAH-EU Annual Event](https://text-plus.org/en/aktuelles/aktuelle-infos/posts/2024-11-plenary-2025/) / 💻[Digitaltag](https://digitaltag.eu/digitaltag) / ☁️[Metascience Conference](https://metascience.info/)
   - Jul 
-  - Aug 💻[Wikimania](https://wikimania.wikimedia.org/wiki/2025:Wikimania) / 🙋[CORDI](https://www.nfdi.de/cordi-2025/)
+  - Aug 💻[Wikimania](https://wikimania.wikimedia.org/wiki/2025:Wikimania) / 🙋[CORDI](https://www.nfdi.de/cordi-2025/) + Base4NFDI User Conference
   - Sep 🙋[Annual 2025 ÖMG-DMV Meeting](https://www.jku.at/en/faculty-of-engineering-natural-sciences/organization/subject-areas/mathematics/oemg-dmv-2025/) / ☁️[Open Science Festival](https://osfestival2025.univie.ac.at/) / 🙋[Open Scholarly Information Systems: Status Quo, Challenges, Opportunities](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25381) / ☁️[Joint Plenary 2025 of NFDI4Biodiversity and NFDI4Earth](https://www.nfdi4biodiversity.org/de/events/joint-plenary-2025/) / ☁️[Highlights der Physik](https://www.highlights-physik.de/)
   - Oct 🙋[Open Science Conference](https://www.open-science-conference.eu/) / 💻[Living Data 2025](https://livingdata2025.com/)
   - Nov 
