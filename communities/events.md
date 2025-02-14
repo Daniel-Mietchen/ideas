@@ -21,7 +21,7 @@ With dates defined:
   - Aug 💻[Wikimania](https://wikimania.wikimedia.org/wiki/2025:Wikimania) / 🙋[CORDI](https://www.nfdi.de/cordi-2025/) + Base4NFDI User Conference
   - Sep 🙋[Annual 2025 ÖMG-DMV Meeting](https://www.jku.at/en/faculty-of-engineering-natural-sciences/organization/subject-areas/mathematics/oemg-dmv-2025/) / ☁️[Open Science Festival](https://osfestival2025.univie.ac.at/) / 🙋[Open Scholarly Information Systems: Status Quo, Challenges, Opportunities](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25381) / ☁️[Joint Plenary 2025 of NFDI4Biodiversity and NFDI4Earth](https://www.nfdi4biodiversity.org/de/events/joint-plenary-2025/) / ☁️[Highlights der Physik](https://www.highlights-physik.de/)
   - Oct 🙋[Open Science Conference](https://www.open-science-conference.eu/) / 💻[Living Data 2025](https://livingdata2025.com/)
-  - Nov 
+  - Nov ☁️[Open Source Hardware Konferenz 2025](https://www.oshop-network.de/konferenz-2025/)
   - Dec
 
 Dates not yet defined:
