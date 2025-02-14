@@ -48,3 +48,11 @@ Some relevant icons:
 | [https://scientists4future.org/](https://scientists4future.org/) | Scientists for Future | A community of scientists sharing scientific insights regarding climate policy | 🔬🌱 | 👍 |  |
 | [https://werkstatt-der-mutigen.org/](https://werkstatt-der-mutigen.org/) | Werkstatt der Mutigen | A community trying to connect social innovators and problem-solvers with decision makers | 📡⚖️ | 👀 |  |
 | [https://wikimedia.org/](https://wikimedia.org/) | Wikimedia | A global movement whose mission is to bring free educational content to the world | ✏️💻 | 🧠⌛🔄 |  |
+
+# On the radar
+
+These are communities I have come across before but not engaged with yet. This list is vastly incomplete but I will try to use it as a mechanism to help feed the table above.
+
+* https://darksky.org/
+* https://klimabildung.org/
+* https://startsocial.de/
