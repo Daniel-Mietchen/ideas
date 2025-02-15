@@ -61,3 +61,4 @@ These are communities I have come across before but not really engaged with yet.
 * https://startsocial.de/
 * https://www.diezukunftsgesellschaft.de/
 * https://www.wahlrecht.de/
+* https://www.weg.li/
