@@ -10,6 +10,7 @@ Some relevant icons:
   * 💻 digital matters
   * ✏️ education
   * 🌱 environment
+  * 🚴‍♀️ health
   * 📡 infrastructure
   * ⚖️ justice
   * 🔬 research
@@ -28,6 +29,7 @@ Some relevant icons:
 | URL | Title | Summary | Activity area | My main mode of engagement | Comments |
 |---|---|---|---|---|---|
 | [https://ackersyndikat.org/](https://ackersyndikat.org/) | Ackersyndikat | A decentralized solidarity network of self-organized farms | 🌱 | 👀 |  | 
+| [https://www.adfc.de/](https://www.adfc.de/) | Allgemeiner Deutsche Fahrrad-Club (ADFC) | An organization promoting bicycle-based mobility | 🌱🚴‍♀️ | 👍 |  | 
 | [https://buergerenergie-jena.de/](https://buergerenergie-jena.de/) | Bürgerenergie Jena | A German energy cooperative | 📡🌱 | 👍 |  |
 | [https://codeberg.org/](https://codeberg.org/) | Codeberg | An open-source code-hosting platform  | 💻📡 | 👍 |  | 
 | [https://d-64.org/](https://d-64.org/) | D64 Center for Digital Progress | A non-profit organization that promotes the positive impact of digital transformation on society | 💻⚖️ | 👍 |  |
