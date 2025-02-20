@@ -64,6 +64,7 @@ These are communities I have come across before but not really engaged with yet.
 * https://museumspaedagogik.org/
 * https://s-nos.org 
 * https://startsocial.de/
+* https://watertoorn-borkum.de/
 * https://www.diezukunftsgesellschaft.de/
 * https://www.wahlrecht.de/
 * https://www.weg.li/
