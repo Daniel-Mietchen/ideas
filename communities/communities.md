@@ -56,6 +56,7 @@ Some relevant icons:
 These are communities I have come across before but not really engaged with yet. This list is vastly incomplete but I will try to use it as a mechanism to help feed the table above.
 
 * https://darksky.org/
+* https://dghk.de/
 * https://generationengerechtigkeit.info/
 * https://grapheneos.org/
 * https://klimabildung.org/
