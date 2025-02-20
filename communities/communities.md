@@ -59,6 +59,8 @@ These are communities I have come across before but not really engaged with yet.
 * https://generationengerechtigkeit.info/
 * https://grapheneos.org/
 * https://klimabildung.org/
+* https://museumsbund.de
+* https://museumspaedagogik.org/
 * https://s-nos.org 
 * https://startsocial.de/
 * https://www.diezukunftsgesellschaft.de/
