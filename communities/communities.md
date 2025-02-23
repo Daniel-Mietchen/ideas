@@ -64,6 +64,7 @@ These are communities I have come across before but not really engaged with yet.
 * https://klimabildung.org/
 * https://museumsbund.de
 * https://museumspaedagogik.org/
+* https://openfoodfacts.org/
 * https://s-nos.org 
 * https://startsocial.de/
 * https://watertoorn-borkum.de/
