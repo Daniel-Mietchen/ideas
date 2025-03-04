@@ -54,7 +54,7 @@ Some relevant icons:
 
 # On the radar
 
-These are communities I have come across before but not really engaged with yet. This list is vastly incomplete but I will try to use it as a mechanism to help feed the table above.
+These are communities I have come across before but with many of them, I have not really engaged yet. This list is vastly incomplete but I will try to use it as a mechanism to help feed the table above.
 
 * https://darksky.org/
 * https://dghk.de/
@@ -66,10 +66,12 @@ These are communities I have come across before but not really engaged with yet.
 * https://museumsbund.de
 * https://museumspaedagogik.org/
 * https://openfoodfacts.org/
+* https://polyglotgathering.com/
 * https://rda-deutschland.de/
 * https://s-nos.org 
 * https://startsocial.de/
 * https://stellarium.org/
+* https://uea.org/
 * https://watertoorn-borkum.de/
 * https://www.diezukunftsgesellschaft.de/
 * https://www.wahlrecht.de/
