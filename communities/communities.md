@@ -69,6 +69,7 @@ These are communities I have come across before but not really engaged with yet.
 * https://rda-deutschland.de/
 * https://s-nos.org 
 * https://startsocial.de/
+* https://stellarium.org/
 * https://watertoorn-borkum.de/
 * https://www.diezukunftsgesellschaft.de/
 * https://www.wahlrecht.de/
