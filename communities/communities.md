@@ -56,6 +56,9 @@ Some relevant icons:
 
 These are communities I have come across before but with many of them, I have not really engaged yet. This list is vastly incomplete but I will try to use it as a mechanism to help feed the table above.
 
+* https://100vop.org/
+* https://archive.org/
+* https://creativecommons.org/
 * https://darksky.org/
 * https://dghk.de/
 * https://earthspecies.org/
@@ -70,7 +73,8 @@ These are communities I have come across before but with many of them, I have no
 * https://openfoodfacts.org/
 * https://polyglotgathering.com/
 * https://rda-deutschland.de/
-* https://s-nos.org
+* https://s-nos.org/
+* https://seekcommons.org/
 * http://solbach-freise-stiftung.de/
 * https://startsocial.de/
 * https://stellarium.org/
