@@ -70,7 +70,8 @@ These are communities I have come across before but with many of them, I have no
 * https://openfoodfacts.org/
 * https://polyglotgathering.com/
 * https://rda-deutschland.de/
-* https://s-nos.org 
+* https://s-nos.org
+* http://solbach-freise-stiftung.de/
 * https://startsocial.de/
 * https://stellarium.org/
 * https://uea.org/
