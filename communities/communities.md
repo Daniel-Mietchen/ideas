@@ -64,6 +64,7 @@ These are communities I have come across before but with many of them, I have no
 * https://grapheneos.org/
 * https://imaginata.de/
 * https://klimabildung.org/
+* https://konfessionsfrei.de/
 * https://museumsbund.de
 * https://museumspaedagogik.org/
 * https://openfoodfacts.org/
