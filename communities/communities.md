@@ -58,6 +58,7 @@ These are communities I have come across before but with many of them, I have no
 
 * https://100vop.org/
 * https://archive.org/
+* https://commonsensemedia.org/
 * https://creativecommons.org/
 * https://darksky.org/
 * https://dghk.de/
@@ -83,3 +84,7 @@ These are communities I have come across before but with many of them, I have no
 * https://www.diezukunftsgesellschaft.de/
 * https://www.wahlrecht.de/
 * https://www.weg.li/
+
+# Criteria for further engagement
+
+* Fit with [my pledges](https://github.com/Daniel-Mietchen/pledges).
