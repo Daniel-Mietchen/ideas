@@ -75,6 +75,7 @@ These are communities I have come across before but with many of them, I have no
 * https://polyglotgathering.com/
 * https://rda-deutschland.de/
 * https://s-nos.org/
+* https://schulewirtschaft.de/
 * https://seekcommons.org/
 * http://solbach-freise-stiftung.de/
 * https://startsocial.de/
