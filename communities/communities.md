@@ -69,6 +69,7 @@ These are communities I have come across before but with many of them, I have no
 * https://imaginata.de/
 * https://klimabildung.org/
 * https://konfessionsfrei.de/
+* https://liberapay.com/
 * https://museumsbund.de
 * https://museumspaedagogik.org/
 * https://openfoodfacts.org/
