@@ -64,10 +64,12 @@ These are communities I have come across before but with many of them, I have no
 * https://dghk.de/
 * https://earthspecies.org/
 * https://generationengerechtigkeit.info/
+* https://germanzero.de/
 * https://giordano-bruno-stiftung.de/
 * https://grapheneos.org/
 * https://imaginata.de/
 * https://klimabildung.org/
+* https://klimavoracht.de/
 * https://konfessionsfrei.de/
 * https://krautreporter.de/
 * https://liberapay.com/
