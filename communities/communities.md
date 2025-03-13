@@ -69,6 +69,7 @@ These are communities I have come across before but with many of them, I have no
 * https://imaginata.de/
 * https://klimabildung.org/
 * https://konfessionsfrei.de/
+* https://krautreporter.de/
 * https://liberapay.com/
 * https://museumsbund.de
 * https://museumspaedagogik.org/
@@ -81,6 +82,7 @@ These are communities I have come across before but with many of them, I have no
 * http://solbach-freise-stiftung.de/
 * https://startsocial.de/
 * https://stellarium.org/
+* https://theguardian.com/
 * https://uea.org/
 * https://watertoorn-borkum.de/
 * https://www.diezukunftsgesellschaft.de/
