@@ -63,6 +63,7 @@ These are communities I have come across before but with many of them, I have no
 * https://creativecommons.org/
 * https://darksky.org/
 * https://dghk.de/
+* https://duh.de/
 * https://earthspecies.org/
 * https://generationengerechtigkeit.info/
 * https://germanzero.de/
