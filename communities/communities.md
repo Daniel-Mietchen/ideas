@@ -69,6 +69,7 @@ These are communities I have come across before but with many of them, I have no
 * https://generationengerechtigkeit.info/
 * https://germanzero.de/
 * https://giordano-bruno-stiftung.de/
+* https://glottolog.org
 * https://grapheneos.org/
 * https://gruenerstromlabel.de/
 * https://imaginata.de/
