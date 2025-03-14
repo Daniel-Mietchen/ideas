@@ -70,6 +70,7 @@ These are communities I have come across before but with many of them, I have no
 * https://germanzero.de/
 * https://giordano-bruno-stiftung.de/
 * https://grapheneos.org/
+* https://gruenerstromlabel.de/
 * https://imaginata.de/
 * https://klimabildung.org/
 * https://klimavoracht.de/
