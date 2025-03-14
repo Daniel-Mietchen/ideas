@@ -75,6 +75,7 @@ These are communities I have come across before but with many of them, I have no
 * https://klimabildung.org/
 * https://klimavoracht.de/
 * https://konfessionsfrei.de/
+* https://kraut.space/
 * https://krautreporter.de/
 * https://liberapay.com/
 * https://museumsbund.de
@@ -100,3 +101,7 @@ These are communities I have come across before but with many of them, I have no
 # Criteria for further engagement
 
 * Fit with [my pledges](https://github.com/Daniel-Mietchen/pledges).
+  * Any official statements regarding values?
+  * Use of X vs. Mastodon etc.
+* How active are they?
+* Is their website up to date?
