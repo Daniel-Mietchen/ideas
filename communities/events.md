@@ -1,6 +1,6 @@
 # About
 
-This file hosts information regarding events that I plan to engage with in some way throughout 2025 and possibly beyond.
+This file hosts information regarding events that I plan to engage with in some way throughout 2025 and beyond.
 
 # Mode of participation
 
@@ -9,6 +9,8 @@ This file hosts information regarding events that I plan to engage with in some 
 - ☁️ uncertain
 
 # Events
+
+## 2025
 
 With dates defined:
   - Jan 🙋[NFDI Metadata Workshop](https://www.nfdi.de/workshop-metadata-2025/) / 💻[For Future Jahres-Auftakt 2025](https://www.for-future-buendnis.de/programm-2025/) / 🙋[EcoHack](https://www.uni-bielefeld.de/einrichtungen/zif/events/#/event/8023) / 🙋[From Ecological Knowledge to Restoration Action: Developing the Conceptual and Technological Basis for a Toolbox](https://www.uni-bielefeld.de/einrichtungen/zif/events/#/event/7878)
@@ -29,3 +31,18 @@ Dates not yet defined:
 - Wiki workshop on mesocosms
 - Wikidata conference
  
+## 2026
+
+With dates defined:
+  - Jan
+  - Feb
+  - Mar ☁️[Didacta 2026](https://www.didacta-koeln.de/)
+  - Apr
+  - May
+  - Jun
+  - Jul
+  - Aug
+  - Sep
+  - Oct
+  - Nov
+  - Dec
