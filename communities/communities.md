@@ -62,6 +62,7 @@ These are communities I have come across before but with many of them, I have no
 * https://b4ukraine.org/
 * https://banktrack.org/
 * https://buergerstiftung-jena.de/
+* https://bund-naturschutz.de/
 * https://commonsensemedia.org/
 * https://creativecommons.org/
 * https://darksky.org/
@@ -73,6 +74,7 @@ These are communities I have come across before but with many of them, I have no
 * https://giordano-bruno-stiftung.de/
 * https://glottolog.org
 * https://grapheneos.org/
+* https://greenpeace.org/
 * https://gruenerstromlabel.de/
 * https://iasc-commons.org/
 * https://imaginata.de/
@@ -97,6 +99,7 @@ These are communities I have come across before but with many of them, I have no
 * https://startsocial.de/
 * https://stellarium.org/
 * https://theguardian.com/
+* https://ubuntufoundations.org/
 * https://uea.org/
 * https://watertoorn-borkum.de/
 * https://www.diezukunftsgesellschaft.de/
@@ -107,6 +110,7 @@ These are communities I have come across before but with many of them, I have no
 
 * Fit with [my pledges](https://github.com/Daniel-Mietchen/pledges).
   * Any official statements regarding values?
+  * Alignment with SDGs
   * Use of X vs. Mastodon etc.
 * How active are they?
 * Is their website up to date?
