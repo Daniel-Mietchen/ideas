@@ -69,6 +69,7 @@ These are communities I have come across before but with many of them, I have no
 * https://dghk.de/
 * https://duh.de/
 * https://earthspecies.org/
+* https://ecosia.org/
 * https://generationengerechtigkeit.info/
 * https://germanzero.de/
 * https://giordano-bruno-stiftung.de/
