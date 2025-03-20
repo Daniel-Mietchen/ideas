@@ -36,7 +36,7 @@ Dates not yet defined:
 With dates defined:
   - Jan
   - Feb
-  - Mar ☁️[Didacta 2026](https://www.didacta-koeln.de/)
+  - Mar ☁️[Didacta 2026](https://www.didacta-koeln.de/) / Vom Bibliotheksregal zum Beweis (16.-18. March, Leipzig)
   - Apr
   - May
   - Jun
