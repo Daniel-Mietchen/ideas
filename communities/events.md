@@ -30,7 +30,6 @@ With dates defined:
 Dates not yet defined:
 - WikiCite conference
 - Wiki workshop on mesocosms
-- Wikidata conference
  
 ## 2026
 
