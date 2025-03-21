@@ -36,7 +36,7 @@ Dates not yet defined:
 With dates defined:
   - Jan
   - Feb
-  - Mar ☁️[Didacta 2026](https://www.didacta-koeln.de/) / Vom Bibliotheksregal zum Beweis (16.-18. March, Leipzig)
+  - Mar  ☁️ [FAIRagro](https://fairagro.net/) Community Summit (5-6 March 2026, Frankfurt/Main) / ☁️[Didacta 2026](https://www.didacta-koeln.de/) / ☁️ Vom Bibliotheksregal zum Beweis (16-18 March 2026, Leipzig; follow-up to [2025 edition](https://www.mis.mpg.de/events/series/vom-beweis-zum-bibliotheksregal-workshop-rund-um-forschungsdatenmanagement-fuer-die-mathematik))
   - Apr
   - May
   - Jun
