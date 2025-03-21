@@ -7,6 +7,7 @@ This file hosts information regarding events that I plan to engage with in some 
 - 🙋 in person
 - 💻 online
 - ☁️ uncertain
+- 🚫 event did not take place, or not with me
 
 # Events
 
