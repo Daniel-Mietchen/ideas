@@ -1,6 +1,6 @@
 # About
 
-This file hosts information regarding events that I plan to engage with in some way throughout 2025 and beyond.
+This file hosts information regarding events that I plan to engage with in some way in the foreseeable future.
 
 # Mode of participation
 
