@@ -101,6 +101,7 @@ These are communities I have come across before but with many of them, I have no
 * https://startsocial.de/
 * https://stellarium.org/
 * https://theguardian.com/
+* https://tosdr.org/
 * https://ubuntufoundations.org/
 * https://uea.org/
 * https://watertoorn-borkum.de/
