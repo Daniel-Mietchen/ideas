@@ -91,6 +91,7 @@ These are communities I have come across before but with many of them, I have no
 * https://museumsbund.de
 * https://museumspaedagogik.org/
 * https://nr-sv.de/
+* https://oecher-froennde.de/
 * https://openfoodfacts.org/
 * https://opentraits.org/
 * https://polyglotgathering.com/
