@@ -75,6 +75,7 @@ These are communities I have come across before but with many of them, I have no
 * https://generationengerechtigkeit.info/
 * https://germanzero.de/
 * https://giordano-bruno-stiftung.de/
+* https://gls-treuhand.de/
 * https://glottolog.org
 * https://grapheneos.org/
 * https://greenpeace.org/
