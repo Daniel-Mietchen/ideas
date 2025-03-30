@@ -46,3 +46,6 @@ With dates defined:
   - Oct
   - Nov ☁️[Lange Nacht der Wissenschaften Weimar/ Weimarer Land 2026 (13 Nov)](https://www.weimar.de/kultur/veranstaltungen/hoehepunkte/lange-nacht-der-wissenschaften/)
   - Dec
+
+Dates not yet defined:
+- Lange Nacht der Wissenschaften Jena 2026
