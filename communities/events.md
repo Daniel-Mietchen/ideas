@@ -36,7 +36,7 @@ Dates not yet defined:
 With dates defined:
   - Jan
   - Feb
-  - Mar  ☁️ [FAIRagro](https://fairagro.net/) Community Summit (5-6 March 2026, Frankfurt/Main) / ☁️[Didacta 2026](https://www.didacta-koeln.de/) / ☁️ Vom Bibliotheksregal zum Beweis (16-18 March 2026, Leipzig; follow-up to [2025 edition](https://www.mis.mpg.de/events/series/vom-beweis-zum-bibliotheksregal-workshop-rund-um-forschungsdatenmanagement-fuer-die-mathematik))
+  - Mar  ☁️[FAIRagro](https://fairagro.net/) Community Summit (5-6 March 2026, Frankfurt/Main) / ☁️[Didacta 2026](https://www.didacta-koeln.de/) / ☁️ Vom Bibliotheksregal zum Beweis (16-18 March 2026, Leipzig; follow-up to [2025 edition](https://www.mis.mpg.de/events/series/vom-beweis-zum-bibliotheksregal-workshop-rund-um-forschungsdatenmanagement-fuer-die-mathematik))
   - Apr
   - May
   - Jun
@@ -44,5 +44,5 @@ With dates defined:
   - Aug
   - Sep
   - Oct
-  - Nov
+  - Nov ☁️[Lange Nacht der Wissenschaften Weimar/ Weimarer Land 2026 (13 Nov)](https://www.weimar.de/kultur/veranstaltungen/hoehepunkte/lange-nacht-der-wissenschaften/)
   - Dec
