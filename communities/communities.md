@@ -35,7 +35,7 @@ Some relevant icons:
 | [https://d-64.org/](https://d-64.org/) | D64 Center for Digital Progress | A non-profit organization that promotes the positive impact of digital transformation on society | 💻⚖️ | 👍 |  |
 | [https://de-rse.org/](https://de-rse.org/) | Research Software Engineers (RSEs) in Germany | A community of German Research Software Engineers | 🔬 | 👍 |  |
 | [https://deutsch-ukrainische-gesellschaft.de/](https://deutsch-ukrainische-gesellschaft.de/) | Deutsch-Ukrainische Gesellschaft | An organization that aims to strengthen German-Ukrainian relations | 🎶🔬⚖️ | 👍 |  |
-| [https://deutsche-stiftung-engagement-und-ehrenamt.de/](https://deutsche-stiftung-engagement-und-ehrenamt.de/) | Deutsche Stiftung für Engagement und Ehrenamt | An organization that supports volunteering in Germany | ⚖️ | 👀 |  |
+| [https://deutsche-stiftung-engagement-und-ehrenamt.de/](https://deutsche-stiftung-engagement-und-ehrenamt.de/) | Deutsche Stiftung für Engagement und Ehrenamt | An organization that supports volunteering in Germany | ⚖️ | 👀👍🧠 | [talk](https://doi.org/10.5281/zenodo.15104365) |
 | [https://www.ecsa.ngo/](https://www.ecsa.ngo/) | European Citizen Science Association | An organization working to  to increase the democratisation of science, encourage the growth of citizen science in Europe, and support the participation of the general public in research processes | 🔬⚖️ | 🧠 |  |
 | [https://jena-digital.de/](https://jena-digital.de/) | Jena Digital | An organization that promotes the digital economy in Jena, Germany | 💻📡 | 👍 |  |
 | [https://kiva.org/](https://kiva.org/) | Kiva | A micro-lending platform | ⚖️ | 💶 |  |
