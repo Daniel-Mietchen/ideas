@@ -1,6 +1,6 @@
 # About
 
-This file hosts information regarding communities, organizations or other initiatives with which I have actively engaged in 2025. This listing &mdash; alphabetical by URL &mdash; is very incomplete and will likely remain so, but I am planning to interconnect it with my [yearly priorities](../new-year-resolutions). 
+This file hosts information regarding communities, organizations or other initiatives with which I have actively engaged in 2025. This listing &mdash; alphabetical by URL &mdash; is very incomplete and will likely remain so, but I am planning to interconnect it with my [yearly priorities](../new-year-resolutions). One way of engagement is through events, which I am [documenting separately](https://github.com/Daniel-Mietchen/ideas/blob/master/communities/events.md).
 
 # Legend
 
