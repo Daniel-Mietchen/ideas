@@ -103,6 +103,7 @@ These are communities I have come across before but with many of them, I have no
 * http://solbach-freise-stiftung.de/
 * https://startsocial.de/
 * https://stellarium.org/
+* https://sucho.org/
 * https://theguardian.com/
 * https://tosdr.org/
 * https://ubuntufoundations.org/
