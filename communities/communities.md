@@ -106,6 +106,7 @@ These are communities I have come across before but with many of them, I have no
 * https://sucho.org/
 * https://theguardian.com/
 * https://tosdr.org/
+* https://transparente-zivilgesellschaft.de/
 * https://ubuntufoundations.org/
 * https://uea.org/
 * https://watertoorn-borkum.de/
