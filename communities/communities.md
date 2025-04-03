@@ -41,7 +41,7 @@ Some relevant icons:
 | [https://kiva.org/](https://kiva.org/) | Kiva | A micro-lending platform | ⚖️ | 💶 |  |
 | [https://mastodon.social/](https://mastodon.social/) | Mastodon | A federated social network focused on short messages | 📡 | 🎨🔄 |  |
 | [https://mathematik.de/](https://mathematik.de/) | Deutsche Mathematiker-Vereinigung | A German mathematical society that promotes research, teaching, and applications of mathematics | ✏️ | 👀 |  |
-| [https://nabu.de/](https://nabu.de/) | NABU | A German nature conservation organization | 🌱 | 👍 |  |
+| [https://nabu.de/](https://nabu.de/) | NABU | A German nature conservation organization | 🌱 | 👍 | [Zustiftung zur NABU-Stiftung](https://naturerbe.nabu.de/spenden-und-helfen/stiften/zustiften.html) |
 | [https://nfdi.de/](https://nfdi.de/) | National Research Data Infrastructure | A network of research data infrastructures in Germany | 🔬📡 | 🧠🔄 |  |
 | [https://okfn.de/](https://okfn.de/) | Open Knowledge Foundation Deutschland e.V. | A non-profit organization that works in open knowledge and democratic participation | 💻⚖️ | 👍🧠 |  |
 | [https://openbikesensor.org/](https://openbikesensor.org/) | OpenBikeSensor | A citizen science and open-source hardware project measuring cyclist-vehicle distances to improve road safety and cycling infrastructure | 📡💻⚖️🌱 | 👍 |  |
