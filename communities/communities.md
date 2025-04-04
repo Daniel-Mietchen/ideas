@@ -68,6 +68,7 @@ These are communities I have come across before but with many of them, I have no
 * https://creativecommons.org/
 * https://darksky.org/
 * https://dghk.de/
+* https://digicult-verbund.de/
 * https://duh.de/
 * https://dssg-berlin.org/
 * https://earthspecies.org/
