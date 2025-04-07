@@ -29,6 +29,7 @@ With dates defined:
 
 Dates not yet defined:
 - Wiki workshop on mesocosms
+- Provenienzforschung Technisches Kulturgut 2025
  
 ## 2026
 
