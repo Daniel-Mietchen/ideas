@@ -1,6 +1,6 @@
 # About
 
-This file hosts information regarding events that I plan to engage with in some way in the foreseeable future.
+This file hosts information regarding events that I plan to engage with in some way in the foreseeable future. Note that I am based in Europe, and [I don't fly for short-term events](https://noflyclimatesci.org/biographies/daniel-mietchen).
 
 # Mode of participation
 
