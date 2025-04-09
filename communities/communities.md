@@ -92,6 +92,7 @@ These are communities I have come across before but with many of them, I have no
 * https://konfessionsfrei.de/
 * https://kraut.space/
 * https://krautreporter.de/
+* https://kulturgutverluste.de/
 * https://liberapay.com/
 * https://museumsbund.de
 * https://museumspaedagogik.org/
