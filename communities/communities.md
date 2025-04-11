@@ -81,6 +81,7 @@ These are communities I have come across before but with many of them, I have no
 * https://giordano-bruno-stiftung.de/
 * https://gls-treuhand.de/
 * https://glottolog.org
+* https://gmw-online.de/
 * https://grapheneos.org/
 * https://greenpeace.org/
 * https://gruenerstromlabel.de/
