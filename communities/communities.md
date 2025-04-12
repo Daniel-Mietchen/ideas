@@ -96,6 +96,7 @@ These are communities I have come across before but with many of them, I have no
 * https://krautreporter.de/
 * https://kulturgutverluste.de/
 * https://liberapay.com/
+* https://mein-grundeinkommen.de/
 * https://museumsbund.de
 * https://museumspaedagogik.org/
 * https://museumsverband-thueringen.de/
