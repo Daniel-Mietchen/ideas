@@ -73,6 +73,7 @@ These are communities I have come across before but with many of them, I have no
 * https://darksky.org/
 * https://dghk.de/
 * https://digicult-verbund.de/
+* https://dnr.de
 * https://duh.de/
 * https://dssg-berlin.org/
 * https://earthspecies.org/
