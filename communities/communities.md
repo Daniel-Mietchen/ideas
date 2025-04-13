@@ -86,6 +86,7 @@ These are communities I have come across before but with many of them, I have no
 * https://greenpeace.org/
 * https://gruenerstromlabel.de/
 * https://iasc-commons.org/
+* https://igdore.org/
 * https://imaginata.de/
 * https://isi-ev.de/
 * https://jugendring-jena.de/
