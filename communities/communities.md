@@ -62,6 +62,7 @@ These are communities I have come across before but with many of them, I have no
 * https://arbeitskreis-provenienzforschung.org/
 * https://archive.org/
 * https://arxive.org/
+* https://azubi-projekte.de/
 * https://b4ukraine.org/
 * https://banktrack.org/
 * https://buergerstiftung-jena.de/
