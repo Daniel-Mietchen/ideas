@@ -51,3 +51,4 @@ With dates defined:
 Dates not yet defined:
 - Lange Nacht der Wissenschaften Jena 2026
 - Tag der Provenienzforschung 2026
+- JATS-Con 2026
