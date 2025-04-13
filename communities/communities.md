@@ -119,6 +119,7 @@ These are communities I have come across before but with many of them, I have no
 * https://taxonfoundation.com/
 * https://taxonworks.org/
 * https://theguardian.com/
+* https://thueringer-ehrenamtsstiftung.de/
 * https://tosdr.org/
 * https://transparente-zivilgesellschaft.de/
 * https://ubuntufoundations.org/
