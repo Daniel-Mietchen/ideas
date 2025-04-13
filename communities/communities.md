@@ -66,6 +66,7 @@ These are communities I have come across before but with many of them, I have no
 * https://b4ukraine.org/
 * https://banktrack.org/
 * https://buergerstiftung-jena.de/
+* https://bund.net/
 * https://bund-naturschutz.de/
 * https://commonsensemedia.org/
 * https://creativecommons.org/
