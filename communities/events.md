@@ -52,3 +52,4 @@ Dates not yet defined:
 - Lange Nacht der Wissenschaften Jena 2026
 - Tag der Provenienzforschung 2026
 - JATS-Con 2026
+- Velo-City 2026
