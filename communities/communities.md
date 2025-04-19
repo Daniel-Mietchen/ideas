@@ -106,6 +106,7 @@ These are communities I have come across before but with many of them, I have no
 * https://museumspaedagogik.org/
 * https://museumsverband-thueringen.de/
 * https://nr-sv.de/
+* https://nrdc.org/
 * https://oecher-froennde.de/
 * https://oekowerk.de
 * https://openfoodfacts.org/
