@@ -53,3 +53,23 @@ Dates not yet defined:
 - Tag der Provenienzforschung 2026
 - JATS-Con 2026
 - Velo-City 2026
+
+## 2027
+
+With dates defined:
+  - Jan
+  - Feb
+  - Mar ☁️[70. Deutscher Kongress für Endokrinologie](https://www.endokrinologie.net/veranstaltung/70-deutscher-kongress-fuer-endokrinologie.php)
+  - Apr 
+  - May 
+  - Jun
+  - Jul
+  - Aug 
+  - Sep
+  - Oct
+  - Nov 
+  - Dec
+
+Dates not yet defined:
+- 
+
