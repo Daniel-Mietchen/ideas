@@ -42,7 +42,7 @@ With dates defined:
   - May ☁️[Jahrestagung des Deutschen Museumsbundes 2026](https://www.museumsbund.de/jahrestagung-des-deutschen-museumsbundes-2026-in-muenster-zu-museen-in-der-pluralen-gesellschaft/) / ☁️[ESEAP Conference in 2026](https://meta.wikimedia.org/wiki/ESEAP_Conference_2026)
   - Jun
   - Jul
-  - Aug
+  - Aug ☁️[Jahrestagung der Deutschen Gesellschaft für Kognitive Linguistik](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/arbeitsgruppen/germanistische-grammatikf/dgkl2026/)
   - Sep
   - Oct
   - Nov ☁️[Lange Nacht der Wissenschaften Weimar/ Weimarer Land 2026 (13 Nov)](https://www.weimar.de/kultur/veranstaltungen/hoehepunkte/lange-nacht-der-wissenschaften/)
