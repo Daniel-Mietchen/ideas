@@ -103,6 +103,7 @@ These are communities I have come across before but with many of them, I have no
 * https://krautreporter.de/
 * https://kulturgutverluste.de/
 * https://liberapay.com/
+* https://lobbycontrol.de/
 * https://mein-grundeinkommen.de/
 * https://mfg.de/
 * https://museumsbund.de
