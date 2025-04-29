@@ -96,6 +96,7 @@ These are communities I have come across before but with many of them, I have no
 * https://isi-ev.de/
 * https://jugendring-jena.de/
 * https://klimabildung.org/
+* https://klimafakten.de/
 * https://klimaschutz-im-bundestag.de/
 * https://klimavoracht.de/
 * https://konfessionsfrei.de/
