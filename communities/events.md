@@ -71,3 +71,7 @@ With dates defined:
   - Dec
 
 
+# See also
+
+Some examples of similar listings with information about intended participation in upcoming events:
+* https://www.publisso.de/publisso-unterwegs
