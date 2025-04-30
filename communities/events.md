@@ -44,7 +44,7 @@ With dates defined:
   - Aug ☁️[Jahrestagung der Deutschen Gesellschaft für Kognitive Linguistik](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/arbeitsgruppen/germanistische-grammatikf/dgkl2026/)
   - Sep
   - Oct
-  - Nov ☁️[Lange Nacht der Wissenschaften Weimar/ Weimarer Land 2026 (13 Nov)](https://www.weimar.de/kultur/veranstaltungen/hoehepunkte/lange-nacht-der-wissenschaften/)
+  - Nov ☁️[Lange Nacht der Wissenschaften Weimar/ Weimarer Land 2026 (13 Nov)](https://www.weimar.de/kultur/veranstaltungen/hoehepunkte/lange-nacht-der-wissenschaften/) / ☁️[7th World Conference on Marine Biodiversity (Nov 17-20)](https://www.wcmb2026.org/)
   - Dec
 
 Dates not yet defined:
