@@ -71,6 +71,7 @@ These are communities I have come across before but with many of them, I have no
 * https://www.ccl-d.org/
 * https://col.org/
 * https://commonsensemedia.org/
+* https://coolearth.org/
 * https://creativecommons.org/
 * https://darksky.org/
 * https://dghk.de/
