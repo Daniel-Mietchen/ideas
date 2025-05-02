@@ -48,6 +48,7 @@ With dates defined:
   - Dec
 
 Dates not yet defined:
+- Planetary Science Wiki Edit-a-thon ([2025 edition](https://meta.wikimedia.org/wiki/Planetary_Science_Wiki_Edit-a-thon))
 - Lange Nacht der Wissenschaften Jena 2026
 - Tag der Provenienzforschung 2026
 - JATS-Con 2026
