@@ -81,6 +81,7 @@ These are communities I have come across before but with many of them, I have no
 * https://dssg-berlin.org/
 * https://earthspecies.org/
 * https://ecosia.org/
+* https://fiscalfuture.de/
 * https://generationengerechtigkeit.info/
 * https://geocase.eu/
 * https://germanzero.de/
