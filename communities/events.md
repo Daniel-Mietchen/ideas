@@ -39,7 +39,7 @@ With dates defined:
   - Mar ☁️[ECSA 2026](https://www.ecsa.ngo/conferences/) / ☁️[FAIRagro](https://fairagro.net/) Community Summit (5-6 March 2026, Frankfurt/Main) / ☁️[Didacta 2026](https://www.didacta-koeln.de/) / ☁️Vom Bibliotheksregal zum Beweis (16-18 March 2026, Leipzig; follow-up to [2025 edition](https://www.mis.mpg.de/events/series/vom-beweis-zum-bibliotheksregal-workshop-rund-um-forschungsdatenmanagement-fuer-die-mathematik)) / ☁️[Leipziger Buchmesse 2026 (19-22 March 2026, Leipzig)](https://www.leipziger-buchmesse.de/de/)
   - Apr ☁️[Evolang 2026](https://evolang2026.org/)
   - May ☁️Stunde der Gartenvögel (May 8-10) / ☁️[Jahrestagung des Deutschen Museumsbundes 2026](https://www.museumsbund.de/jahrestagung-des-deutschen-museumsbundes-2026-in-muenster-zu-museen-in-der-pluralen-gesellschaft/) / ☁️[ESEAP Conference in 2026](https://meta.wikimedia.org/wiki/ESEAP_Conference_2026)
-  - Jun ☁️[World Biodiversity Forum 2026 (Jun 14-19)](https://worldbiodiversityforum.org/)
+  - Jun  ☁️[FORCE 2026](https://force11.org/force2026/) / ☁️[World Biodiversity Forum 2026 (Jun 14-19)](https://worldbiodiversityforum.org/)
   - Jul
   - Aug ☁️[Jahrestagung der Deutschen Gesellschaft für Kognitive Linguistik](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/arbeitsgruppen/germanistische-grammatikf/dgkl2026/)
   - Sep
