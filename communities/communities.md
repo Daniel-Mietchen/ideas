@@ -122,6 +122,7 @@ These are communities I have come across before but with many of them, I have no
 * https://opentraits.org/
 * https://orang-utans-in-not.org/
 * https://polyglotgathering.com/
+* https://rescognito.com/
 * https://rda-deutschland.de/
 * https://s-nos.org/
 * https://schulewirtschaft.de/
