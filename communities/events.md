@@ -1,6 +1,6 @@
 # About
 
-This file hosts information regarding events that I plan to engage with in some way in the foreseeable future. Note that I am based in Europe, and [I don't fly for short-term events](https://noflyclimatesci.org/biographies/daniel-mietchen).
+This file hosts information regarding events that I plan to engage with in some way in the foreseeable future. Note that I am based in Europe, and [I don't fly for short-term events](https://noflyclimatesci.org/biographies/daniel-mietchen). For a community-centric view on my activities, try [here](https://github.com/Daniel-Mietchen/ideas/blob/master/communities/communities.md).
 
 # Mode of participation
 
