@@ -152,6 +152,7 @@ These are communities I have come across before but with many of them, I have no
 * Fit with [my pledges](https://github.com/Daniel-Mietchen/pledges).
   * Any official statements regarding values?
   * Alignment with SDGs
-  * Use of X vs. Mastodon etc.
+  * Suitability of communication channels
+    * Use of X vs. Mastodon etc.
 * How active are they?
 * Is their website up to date?
