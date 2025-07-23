@@ -121,6 +121,7 @@ These are communities I have come across before but with many of them, I have no
 * https://oecher-froennde.de/
 * https://oekowerk.de
 * https://openfoodfacts.org/
+* https://openknowledgemaps.org/
 * https://opensourceecology.org/
 * https://openstreetmap.org/
 * https://opentraits.org/
