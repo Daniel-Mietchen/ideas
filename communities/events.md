@@ -54,6 +54,7 @@ Dates not yet defined:
 - Velo-City 2026
 - Perspectives On Scientific Error 2026
 - Scientists for Future Bundeskongress 2026
+- [2and3D photography](https://2and3dmagazine.rijksmuseum.nl/)
 
 ## 2027
 
