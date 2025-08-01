@@ -81,6 +81,7 @@ These are communities I have come across before but with many of them, I have no
 * https://duh.de/
 * https://dssg-berlin.org/
 * https://earthspecies.org/
+* https://ecologi.com
 * https://ecosia.org/
 * https://fiscalfuture.de/
 * https://freunde-studienstiftung.de/
