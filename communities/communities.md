@@ -136,6 +136,7 @@ These are communities I have come across before but with many of them, I have no
 * https://seekcommons.org/
 * https://senfcall.de/
 * https://solbach-freise-stiftung.de/
+* https://www.societylibrary.org/
 * https://www.sortee.org/
 * https://startsocial.de/
 * https://stellarium.org/
