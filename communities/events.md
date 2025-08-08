@@ -34,7 +34,7 @@ Dates not yet defined:
 
 With dates defined:
   - Jan ☁️Stunde der Wintervögel (Jan 9-11)
-  - Feb
+  - Feb ☁️[Perspectives On Scientific Error 2026](https://perspectivesonscientificerror2026.wordpress.com/)
   - Mar ☁️[ECSA 2026](https://www.ecsa.ngo/conferences/) / ☁️[FAIRagro](https://fairagro.net/) Community Summit (5-6 March 2026, Frankfurt/Main) / ☁️[Didacta 2026](https://www.didacta-koeln.de/) / ☁️[Vom Bibliotheksregal zum Beweis](https://www.mis.mpg.de/de/events/series/vom-beweis-zum-bibliotheksregal-2026) / ☁️[Leipziger Buchmesse 2026 (19-22 March 2026, Leipzig)](https://www.leipziger-buchmesse.de/de/) / ☁️[FAIR Digital Objects Conference](https://fairdo.org/fdo-conference-2026/)
   - Apr ☁️[Evolang 2026](https://evolang2026.org/)
   - May  ☁️[The Future of Open Research 2026](https://opensciencestudies.eu/for-2026-conference/) / ☁️Data Science Day Jena (May 6) / ☁️Stunde der Gartenvögel (May 8-10) / ☁️[Jahrestagung des Deutschen Museumsbundes 2026](https://www.museumsbund.de/jahrestagung-des-deutschen-museumsbundes-2026-in-muenster-zu-museen-in-der-pluralen-gesellschaft/) / ☁️[ESEAP Conference in 2026](https://meta.wikimedia.org/wiki/ESEAP_Conference_2026)
@@ -52,7 +52,6 @@ Dates not yet defined:
 - Tag der Provenienzforschung 2026
 - JATS-Con 2026
 - Velo-City 2026
-- Perspectives On Scientific Error 2026
 - Scientists for Future Bundeskongress 2026
 - [2and3D photography](https://2and3dmagazine.rijksmuseum.nl/)
 
