@@ -124,6 +124,7 @@ These are communities I have come across before but with many of them, I have no
 * https://oekom-verein.de/
 * https://openfoodfacts.org/
 * https://openknowledgemaps.org/
+* https://openpetition.org/
 * https://opensourceecology.org/
 * https://openstreetmap.org/
 * https://opentraits.org/
