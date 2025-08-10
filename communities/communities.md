@@ -109,6 +109,7 @@ These are communities I have come across before but with many of them, I have no
 * https://kraut.space/
 * https://krautreporter.de/
 * https://kulturgutverluste.de/
+* https://letztegeneration.org/
 * https://liberapay.com/
 * https://lobbycontrol.de/
 * https://maritimebatteryforum.com
