@@ -131,6 +131,7 @@ These are communities I have come across before but with many of them, I have no
 * https://opentraits.org/
 * https://orang-utans-in-not.org/
 * https://polyglotgathering.com/
+* https://projecteuler.net/
 * https://prokon.energy/
 * https://rescognito.com/
 * https://rda-deutschland.de/
