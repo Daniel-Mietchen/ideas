@@ -118,6 +118,7 @@ These are communities I have come across before but with many of them, I have no
 * https://museumsbund.de
 * https://museumspaedagogik.org/
 * https://museumsverband-thueringen.de/
+* https://nebenan-stiftung.de/
 * https://nr-sv.de/
 * https://nrdc.org/
 * https://oecher-froennde.de/
