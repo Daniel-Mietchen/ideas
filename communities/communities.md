@@ -61,6 +61,7 @@ These are communities I have come across before but with many of them, I have no
 * https://alpenverein.de/
 * https://arbeitskreis-provenienzforschung.org/
 * https://archive.org/
+* https://artagainstecocide.de/
 * https://arxive.org/
 * https://azubi-projekte.de/
 * https://b4ukraine.org/
