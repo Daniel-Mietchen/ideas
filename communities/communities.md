@@ -78,6 +78,7 @@ These are communities I have come across before but with many of them, I have no
 * https://darksky.org/
 * https://dghk.de/
 * https://digicult-verbund.de/
+* https://dkms.de/
 * https://dnr.de
 * https://duh.de/
 * https://dssg-berlin.org/
@@ -158,6 +159,7 @@ These are communities I have come across before but with many of them, I have no
 * https://uea.org/
 * https://ucs.org/
 * https://watertoorn-borkum.de/
+* https://whales.org/
 * https://www.diezukunftsgesellschaft.de/
 * https://www.wahlrecht.de/
 * https://www.weg.li/
