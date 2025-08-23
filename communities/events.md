@@ -28,7 +28,7 @@ With dates defined:
   - Dec ☁️[Forum Wissenschaftskommunikation](https://wissenschaft-im-dialog.de/forum-wissenschaftskommunikation/) / ☁️[DiTraRe Symposium ](https://www.ditrare.de/) / 🙋[Messel 2025 Conference](https://www.senckenberg.de/en/institutes/senckenberg-research-institute-natural-history-museum-frankfurt/division-messel-research-mammalogy/messel2025-conference/) / ☁️[39. Chaos Communication Congress](https://events.ccc.de/calendar/)
 
 Dates not yet defined:
-- Вікіконференція 2025
+- [Вікіконференція 2025](https://ua.wikimedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%8F_2025)
  
 ## 2026
 
