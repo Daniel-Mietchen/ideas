@@ -117,6 +117,7 @@ These are communities I have come across before but with many of them, I have no
 * https://maritimebatteryforum.com
 * https://mein-grundeinkommen.de/
 * https://mfg.de/
+* https://missionerde.de/
 * https://museumsbund.de
 * https://museumspaedagogik.org/
 * https://museumsverband-thueringen.de/
