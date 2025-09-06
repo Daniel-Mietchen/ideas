@@ -39,7 +39,7 @@ With dates defined:
   - Apr ☁️[Evolang 2026](https://evolang2026.org/) / ☁️[HMC Conference 2026](https://helmholtz-metadaten.de/en/news/hmc-conference-2026_std)
   - May  ☁️[The Future of Open Research 2026](https://opensciencestudies.eu/for-2026-conference/) / ☁️Data Science Day Jena (May 6) / ☁️Stunde der Gartenvögel (May 8-10) / ☁️[Jahrestagung des Deutschen Museumsbundes 2026](https://www.museumsbund.de/jahrestagung-des-deutschen-museumsbundes-2026-in-muenster-zu-museen-in-der-pluralen-gesellschaft/) / ☁️[ESEAP Conference in 2026](https://meta.wikimedia.org/wiki/ESEAP_Conference_2026) / NFDI-BB (19 May)/ ☁️[BiblioCon 2026](https://2026.bibliocon.de/) / ☁️[Conference for Advancing Participatory Sciences](https://participatorysciences.org/conferences/caps-2026/registration-rates-2026/) / ☁️[Dataverse Community Meeting 2026](https://dataverse.org/events) / ☁️[Tag der Nachbarschaft](https://www.tagdernachbarschaft.com/)
   - Jun  ☁️[Ecsite 2026](https://ecsite.wildapricot.org/Conference) / ☁️[FORCE 2026](https://force11.org/force2026/) / ☁️[Barcamp Open Science](https://www.barcamp-open-science.eu/) / ☁️[World Biodiversity Forum 2026 (Jun 14-19)](https://worldbiodiversityforum.org/)
-  - Jul ☁️[Federated Logic Conference](https://www.floc26.org/) 
+  - Jul ☁️[Federated Logic Conference](https://www.floc26.org/) (with ☁️[International Conference on Principles of Knowledge Representation and Reasoning](https://kr.org/KR2026/))
   - Aug ☁️[Jahrestagung der Deutschen Gesellschaft für Kognitive Linguistik](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/arbeitsgruppen/germanistische-grammatikf/dgkl2026/)
   - Sep ☁️[SEMANTiCS 2026](https://2026-eu.semantics.cc/)
   - Oct
