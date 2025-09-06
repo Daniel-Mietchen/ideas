@@ -104,6 +104,7 @@ These are communities I have come across before but with many of them, I have no
 * https://jugendring-jena.de/
 * https://kagi.com/
 * https://klimabildung.org/
+* https://klimabuendnis.org/
 * https://klimafakten.de/
 * https://klimaschutz-im-bundestag.de/
 * https://klimavoracht.de/
