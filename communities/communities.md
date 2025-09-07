@@ -167,6 +167,7 @@ These are communities I have come across before but with many of them, I have no
 * https://www.diezukunftsgesellschaft.de/
 * https://www.wahlrecht.de/
 * https://www.weg.li/
+* https://zukunftstag.org/
 
 # Criteria for further engagement
 
