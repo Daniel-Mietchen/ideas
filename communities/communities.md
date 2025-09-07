@@ -85,6 +85,7 @@ These are communities I have come across before but with many of them, I have no
 * https://earthspecies.org/
 * https://ecologi.com
 * https://ecosia.org/
+* https://finanztip-stiftung.de/
 * https://fiscalfuture.de/
 * https://forrt.org/
 * https://freunde-studienstiftung.de/
