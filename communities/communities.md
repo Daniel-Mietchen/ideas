@@ -67,6 +67,8 @@ These are communities I have come across before but with many of them, I have no
 * https://b4ukraine.org/
 * https://banktrack.org/
 * https://boeb.net/
+* https://buergerenergie-saale-holzland.de/
+* https://buergerenergie-thueringen.de/
 * https://buergerstiftung-jena.de/
 * https://buergerwerke.de/
 * https://bund.net/
@@ -102,6 +104,7 @@ These are communities I have come across before but with many of them, I have no
 * https://gruenerstromlabel.de/
 * https://iasc-commons.org/
 * https://igdore.org/
+* https://ilmtal-eg.de/
 * https://imaginata.de/
 * https://isi-ev.de/
 * https://jugendring-jena.de/
