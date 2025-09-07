@@ -152,9 +152,10 @@ These are communities I have come across before but with many of them, I have no
 * https://schulewirtschaft.de/
 * https://seekcommons.org/
 * https://senfcall.de/
+* https://societylibrary.org/
 * https://solbach-freise-stiftung.de/
-* https://www.societylibrary.org/
-* https://www.sortee.org/
+* https://sops.de/
+* https://sortee.org/
 * https://startsocial.de/
 * https://stellarium.org/
 * https://sucho.org/
