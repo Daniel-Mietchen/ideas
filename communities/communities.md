@@ -151,7 +151,7 @@ These are communities I have come across before but with many of them, I have no
 * https://s-nos.org/
 * https://schulewirtschaft.de/
 * https://seekcommons.org/
-* https://www.send-ev.de/
+* https://send-ev.de/
 * https://senfcall.de/
 * https://societylibrary.org/
 * https://solbach-freise-stiftung.de/
