@@ -160,6 +160,7 @@ These are communities I have come across before but with many of them, I have no
 * https://sortee.org/
 * https://startsocial.de/
 * https://stellarium.org/
+* https://stopai.info/
 * https://sucho.org/
 * https://taxonfoundation.com/
 * https://taxonworks.org/
