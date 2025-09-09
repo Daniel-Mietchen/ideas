@@ -71,6 +71,8 @@ With dates defined:
   - Nov 
   - Dec
 
+Dates not yet defined:
+- [Basel Computational Biology Conference 2027](https://www.bc2.ch/)
 
 # See also
 
