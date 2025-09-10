@@ -41,7 +41,7 @@ With dates defined:
   - Jun  ☁️[Ecsite 2026](https://ecsite.wildapricot.org/Conference) / ☁️[FORCE 2026](https://force11.org/force2026/) / ☁️[Barcamp Open Science](https://www.barcamp-open-science.eu/) / ☁️[World Biodiversity Forum 2026 (Jun 14-19)](https://worldbiodiversityforum.org/)
   - Jul ☁️[Federated Logic Conference](https://www.floc26.org/) (with ☁️[International Conference on Principles of Knowledge Representation and Reasoning](https://kr.org/KR2026/))
   - Aug ☁️[Jahrestagung der Deutschen Gesellschaft für Kognitive Linguistik](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/arbeitsgruppen/germanistische-grammatikf/dgkl2026/)
-  - Sep ☁️[SEMANTiCS 2026](https://2026-eu.semantics.cc/) / ☁️SOLO 2026 (Sep 2-7, Coimbra)
+  - Sep ☁️SOLO 2026 (Sep 2-7, Coimbra) / ☁️[SEMANTiCS 2026](https://2026-eu.semantics.cc/)
   - Oct
   - Nov ☁️[Lange Nacht der Wissenschaften Weimar/ Weimarer Land 2026 (13 Nov)](https://www.weimar.de/kultur/veranstaltungen/hoehepunkte/lange-nacht-der-wissenschaften/) / ☁️[7th World Conference on Marine Biodiversity (Nov 17-20)](https://www.wcmb2026.org/)
   - Dec
