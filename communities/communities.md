@@ -120,6 +120,7 @@ These are communities I have come across before but with many of them, I have no
 * https://kulturgutverluste.de/
 * https://letztegeneration.org/
 * https://liberapay.com/
+* https://lifes.institute/
 * https://lobbycontrol.de/
 * https://maritimebatteryforum.com
 * https://mein-grundeinkommen.de/
