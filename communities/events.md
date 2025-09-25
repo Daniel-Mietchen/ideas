@@ -55,6 +55,11 @@ Dates not yet defined:
 - Velo-City 2026
 - Scientists for Future Bundeskongress 2026
 - [2and3D photography](https://2and3dmagazine.rijksmuseum.nl/)
+- Wikimania
+- Wikimedia Hackathon
+- WikiCon
+- WikiCon NA
+- GLAMWiki
 
 ## 2027
 
@@ -74,6 +79,11 @@ With dates defined:
 
 Dates not yet defined:
 - [Basel Computational Biology Conference 2027](https://www.bc2.ch/)
+- Wikimania
+- Wikimedia Hackathon
+- WikiCon
+- WikiCon NA
+- GLAMWiki
 
 # See also
 
