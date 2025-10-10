@@ -60,6 +60,7 @@ Dates not yet defined:
 - WikiCon
 - WikiCon NA
 - GLAMWiki
+- Good Energy Festival ([2025](https://www.good-energy-festival.de/))
 
 ## 2027
 
