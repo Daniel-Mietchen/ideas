@@ -34,7 +34,7 @@ Dates not yet defined:
 ## 2026
 
 With dates defined:
-  - Jan ☁️Stunde der Wintervögel (Jan 9-11)
+  - Jan ☁️Stunde der Wintervögel (Jan 9-11) / ☁️[AdminCon 2026](https://de.wikipedia.org/wiki/Wikipedia:AdminConvention_2026)
   - Feb ☁️[Perspectives On Scientific Error 2026](https://perspectivesonscientificerror2026.wordpress.com/) / ☁️[RDA Deutschland Tagung 2026](https://rda-de.de)
   - Mar ☁️[ECSA 2026](https://www.ecsa.ngo/conferences/) / ☁️[deRSE](https://events.hifis.net/event/2945/) / ☁️[FAIRagro](https://fairagro.net/) Community Summit (5-6 March 2026, Frankfurt/Main) / ☁️[Didacta 2026](https://www.didacta-koeln.de/) / ☁️[Vom Bibliotheksregal zum Beweis](https://www.mis.mpg.de/de/events/series/vom-beweis-zum-bibliotheksregal-2026) / ☁️[Leipziger Buchmesse 2026 (19-22 March 2026, Leipzig)](https://www.leipziger-buchmesse.de/de/) / ☁️[FAIR Digital Objects Conference](https://fairdo.org/fdo-conference-2026/)
   - Apr ☁️[Evolang 2026](https://evolang2026.org/) / ☁️[HMC Conference 2026](https://helmholtz-metadaten.de/hmc-conference)
