@@ -66,6 +66,7 @@ These are communities I have come across before but with many of them, I have no
 * https://azubi-projekte.de/
 * https://b4ukraine.org/
 * https://banktrack.org/
+* https://betterplace.org
 * https://boeb.net/
 * https://buergerenergie-saale-holzland.de/
 * https://buergerenergie-thueringen.de/
