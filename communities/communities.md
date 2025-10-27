@@ -86,6 +86,7 @@ These are communities I have come across before but with many of them, I have no
 * https://digicult-verbund.de/
 * https://dkms.de/
 * https://dnr.de
+* https://doi.org
 * https://duh.de/
 * https://dssg-berlin.org/
 * https://earthspecies.org/
