@@ -82,6 +82,7 @@ These are communities I have come across before but with many of them, I have no
 * https://creativecommons.org/
 * https://darksky.org/
 * https://dghk.de/
+* https://dgi-info.de/
 * https://digicult-verbund.de/
 * https://dkms.de/
 * https://dnr.de
@@ -111,6 +112,7 @@ These are communities I have come across before but with many of them, I have no
 * https://igdore.org/
 * https://ilmtal-eg.de/
 * https://imaginata.de/
+* https://www.informationswissenschaft.org/
 * https://isi-ev.de/
 * https://jugendring-jena.de/
 * https://kagi.com/
@@ -180,6 +182,7 @@ These are communities I have come across before but with many of them, I have no
 * https://ucs.org/
 * https://watertoorn-borkum.de/
 * https://whales.org/
+* http://wissenschaftsforschung.de/
 * https://www.diezukunftsgesellschaft.de/
 * https://www.dilemme.org/
 * https://www.wahlrecht.de/
