@@ -180,6 +180,7 @@ These are communities I have come across before but with many of them, I have no
 * https://ubuntufoundations.org/
 * https://uea.org/
 * https://ucs.org/
+* http://unauf-freundeskreis.de/
 * https://watertoorn-borkum.de/
 * https://whales.org/
 * http://wissenschaftsforschung.de/
