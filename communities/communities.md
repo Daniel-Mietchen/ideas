@@ -85,6 +85,7 @@ These are communities I have come across before but with many of them, I have no
 * https://dgi-info.de/
 * https://digicult-verbund.de/
 * https://digitalpublicgoods.net/
+* https://digitalrechte.de/
 * https://dkms.de/
 * https://dnr.de
 * https://doi.org
