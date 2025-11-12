@@ -81,6 +81,7 @@ These are communities I have come across before but with many of them, I have no
 * https://coolearth.org/
 * https://creativecommons.org/
 * https://darksky.org/
+* https://data-workers.org/
 * https://dghk.de/
 * https://dgi-info.de/
 * https://digicult-verbund.de/
