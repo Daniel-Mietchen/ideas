@@ -170,6 +170,7 @@ These are communities I have come across before but with many of them, I have no
 * https://seekcommons.org/
 * https://send-ev.de/
 * https://senfcall.de/
+* https://smarterstartab14.de/
 * https://societylibrary.org/
 * https://solbach-freise-stiftung.de/
 * https://sops.de/
