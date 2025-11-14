@@ -134,6 +134,7 @@ These are communities I have come across before but with many of them, I have no
 * https://liberapay.com/
 * https://lifes.institute/
 * https://lobbycontrol.de/
+* https://localzero.net/
 * https://maritimebatteryforum.com/
 * https://www.masakhane.io/
 * https://mein-grundeinkommen.de/
