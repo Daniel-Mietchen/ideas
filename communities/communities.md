@@ -162,6 +162,7 @@ These are communities I have come across before but with many of them, I have no
 * https://polyglotgathering.com/
 * https://projecteuler.net/
 * https://prokon.energy/
+* https://ratfuerdigitaleoekologie.org/
 * https://rechte-der-natur.org/
 * https://rescognito.com/
 * https://rda-deutschland.de/
