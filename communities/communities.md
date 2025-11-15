@@ -176,6 +176,7 @@ These are communities I have come across before but with many of them, I have no
 * https://societylibrary.org/
 * https://solbach-freise-stiftung.de/
 * https://sops.de/
+* https://sos-recht.de/
 * https://sortee.org/
 * https://startsocial.de/
 * https://stellarium.org/
