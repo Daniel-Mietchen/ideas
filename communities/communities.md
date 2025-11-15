@@ -75,7 +75,8 @@ These are communities I have come across before but with many of them, I have no
   * https://heg.buergerwerke.de
 * https://bund.net/
 * https://bund-naturschutz.de/
-* https://www.ccl-d.org/
+* https://ccl-d.org/
+* https://co2online.de/
 * https://col.org/
 * https://commonsensemedia.org/
 * https://coolearth.org/
