@@ -6,24 +6,24 @@ This file hosts information regarding communities, organizations or other initia
 
 Some relevant icons:
 
-  * for the rough topics that the community engages in
-      \* 🎶 culture
-      \* 💻 digital matters
-      \* ✏️ education
-      \* 🌱 environment
-      \* 🚴‍♀️ health
-      \* 📡 infrastructure
-      \* ⚖️ justice
-      \* 🔬 research
-  * for my ways of engaging with the community
-      \* 👀 lurking
-      \* 👍 generic support
-      \* 🎨 providing content
-      \* 🧠 providing expertise
-      \* 🔄 providing feedback
-      \* 💶 providing money
-      \* 🛠️ providing resources 
-      \* ⌛ providing time
+* for the rough topics that the community engages in
+  * 🎶 culture
+  * 💻 digital matters
+  * ✏️ education
+  * 🌱 environment
+  * 🚴‍♀️ health
+  * 📡 infrastructure
+  * ⚖️ justice
+  * 🔬 research
+* for my ways of engaging with the community
+  * 👀 lurking
+  * 👍 generic support
+  * 🎨 providing content
+  * 🧠 providing expertise
+  * 🔄 providing feedback
+  * 💶 providing money
+  * 🛠️ providing resources
+  * ⌛ providing time
 
 # Communities
 
