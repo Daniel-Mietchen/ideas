@@ -115,10 +115,11 @@ These are communities I have come across before but with many of them, I have no
 * https://gruenerstromlabel.de/
 * https://heg.solar/
 * https://iasc-commons.org/
+* https://ichatbio.org/
 * https://igdore.org/
 * https://ilmtal-eg.de/
 * https://imaginata.de/
-* https://www.informationswissenschaft.org/
+* https://informationswissenschaft.org/
 * https://isi-ev.de/
 * https://jugendring-jena.de/
 * https://kagi.com/
