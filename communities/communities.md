@@ -41,6 +41,7 @@ Some relevant icons:
 | [https://azubi-projekte.de/](https://azubi-projekte.de/) | Azubi-Projekte | An initiative allowing apprentices/students to gain practical experience by creating barrier-free websites for public institutions and associations. | 💻✏️ | |  |
 | [https://b4ukraine.org/](https://b4ukraine.org/) | B4Ukraine | An international coalition of civil society organizations aiming to block access to economic and financial resources permitting Russian aggression. | ⚖️ | |  |
 | [https://banktrack.org/](https://banktrack.org/) | BankTrack | An international organization challenging commercial banks globally to act decisively on climate crisis, nature destruction, and human rights violations. | 🌱⚖️ | |  |
+| [https://betterfinance.eu/](https://betterfinance.eu/) | Better Finance | The European Federation of Investors and Financial Services Users | ⚖️✏️ | |  |
 | [https://betterplace.org](https://betterplace.org) | betterplace.org | Germany's largest charitable online donation platform for social projects worldwide. | ⚖️ | |  |
 | [https://boeb.net/](https://boeb.net/) | Bündnis Ökonomische Bildung Deutschland (BÖB) | A non-profit association promoting economic education in Germany. | ✏️ | |  |
 | [https://buergerenergie-jena.de/](https://buergerenergie-jena.de/) | Bürgerenergie Jena | A German energy cooperative | 📡🌱 | 👍 | |
@@ -72,6 +73,7 @@ Some relevant icons:
 | [https://dnr.de](https://dnr.de) | Deutscher Naturschutzring (DNR) | The umbrella organization of associations active in the protection of nature and environment in Germany (94 member associations). | 🌱⚖️ | |  |
 | [https://doi.org](https://doi.org) | DOI Foundation | A non-profit organization that governs the Digital Object Identifier (DOI) system, providing a persistent infrastructure for identifying and accessing objects. | 🔬📡💻 | |  |
 | [https://dssg-berlin.org/](https://dssg-berlin.org/) | Data Science for Social Good Berlin (DSSG Berlin) | A community that helps non-profits use their data effectively by pairing them with volunteer data scientists and analysts. | 💻🔬⚖️ | |  |
+| [https://www.dsw-info.de/](https://www.dsw-info.de/) | Deutsche Schutzvereinigung für Wertpapierbesitz | A non-profit association for private investors | ⚖️ | |  |
 | [https://duh.de/](https://duh.de/) | Deutsche Umwelthilfe e.V. (DUH) | Environmental Action Germany, an NGO campaigning for nature, environment, and consumer protection, often utilizing its legal right to bring action. | 🌱⚖️ | |  |
 | [https://earthspecies.org/](https://earthspecies.org/) | Earth Species Project (ESP) | A non-profit dedicated to using artificial intelligence (AI) to decode non-human communication to transform the relationship between humans and nature. | 🔬💻🌱 | |  |
 | [https://ecologi.com](https://ecologi.com) | Ecologi | A platform helping businesses and individuals measure and reduce emissions, and restore the planet through climate projects (tree planting and carbon reduction). | 🌱 | |  |
