@@ -208,6 +208,7 @@ Some relevant icons:
 
 These are communities I have come across before but with many of them, I have not really engaged yet. This list is vastly incomplete but I will try to use it as a mechanism to help feed the table above.
 
+* https://bioklw.de/
 * https://explore.org/
 * https://opencollective.com/
 
