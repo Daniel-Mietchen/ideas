@@ -211,6 +211,7 @@ These are communities I have come across before but with many of them, I have no
 * https://bioklw.de/
 * https://explore.org/
 * https://opencollective.com/
+* https://zukunftsstiftung-landwirtschaft.de/
 
 # Criteria for further engagement
 
