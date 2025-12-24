@@ -212,6 +212,7 @@ These are communities I have come across before but with many of them, I have no
 * https://explore.org/
 * https://fingreen.de/
 * https://opencollective.com/
+* https://urgewald.org/
 * https://zukunftsstiftung-landwirtschaft.de/
 
 # Criteria for further engagement
