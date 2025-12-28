@@ -214,7 +214,8 @@ These are communities I have come across before but with many of them, I have no
 * https://explore.org/
 * https://fingreen.de/
 * https://opencollective.com/
-* https://www.skyseed.eco/
+* https://selbsthilfe-jena.de/
+* https://skyseed.eco/
 * https://urgewald.org/
 * https://weforest.org/
 * https://zukunftsstiftung-landwirtschaft.de/
