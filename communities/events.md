@@ -4,10 +4,10 @@ This file hosts information regarding events that I plan to engage with in some 
 
 # Mode of participation
 
-- 📢 I have publicly declared my [intention to participate](https://nanodash.petapico.org/list?8&type=https://w3id.org/kpxl/gen/terms/plansToAttend)
 - 🙋 in person
 - 💻 online
 - ☁️ uncertain
+- 📢 I have publicly declared my [intention to participate](https://nanodash.petapico.org/list?8&type=https://w3id.org/kpxl/gen/terms/plansToAttend)
 - 🚫 I will (or did) not participate, or event does (or did) not take place
 
 # Events
