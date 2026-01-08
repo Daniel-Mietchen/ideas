@@ -217,6 +217,7 @@ These are communities I have come across before but with many of them, I have no
 * https://fairwertbar-jena.de/
 * https://fingreen.de/
 * https://kniestchen-jena.de/
+* https://nichtmituns.org/
 * https://opencollective.com/
 * https://selbsthilfe-jena.de/
 * https://skyseed.eco/
