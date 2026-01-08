@@ -210,11 +210,13 @@ These are communities I have come across before but with many of them, I have no
 
 * https://aktion-baum.org/
 * https://bioklw.de/
-* https://www.dg-hochn.de
+* https://dg-hochn.de
 * https://drawdown.org/
 * https://eden-plus.org/
 * https://explore.org/
+* https://fairwertbar-jena.de/
 * https://fingreen.de/
+* https://kniestchen-jena.de/
 * https://opencollective.com/
 * https://selbsthilfe-jena.de/
 * https://skyseed.eco/
