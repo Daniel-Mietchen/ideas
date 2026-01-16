@@ -216,6 +216,7 @@ These are communities I have come across before but with many of them, I have no
 * https://explore.org/
 * https://fairwertbar-jena.de/
 * https://fingreen.de/
+* https://klima-und-demokratie.de/
 * https://kniestchen-jena.de/
 * https://nichtmituns.org/
 * https://opencollective.com/
