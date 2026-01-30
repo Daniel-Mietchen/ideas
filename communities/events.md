@@ -35,7 +35,8 @@ Dates not yet defined:
 - JATS-Con 2026
 - Velo-City 2026
 - Scientists for Future Bundeskongress 2026
-- [2and3D photography](https://2and3dmagazine.rijksmuseum.nl/)- WikiCon
+- [2and3D photography](https://2and3dmagazine.rijksmuseum.nl/)
+- WikiCon
 - WikiCon NA
 - GLAMWiki
 - Good Energy Festival ([2025](https://www.good-energy-festival.de/))
