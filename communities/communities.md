@@ -209,6 +209,7 @@ Some relevant icons:
 These are communities I have come across before but with many of them, I have not really engaged yet. This list is vastly incomplete but I will try to use it as a mechanism to help feed the table above.
 
 * https://aktion-baum.org/
+* https://balkon.solar/
 * https://bioklw.de/
 * https://dg-hochn.de
 * https://drawdown.org/
@@ -221,6 +222,7 @@ These are communities I have come across before but with many of them, I have no
 * https://kniestchen-jena.de/
 * https://nichtmituns.org/
 * https://opencollective.com/
+* https://www.pvplug.de/
 * https://selbsthilfe-jena.de/
 * https://skyseed.eco/
 * https://urgewald.org/
