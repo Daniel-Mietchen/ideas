@@ -27,7 +27,7 @@ With dates defined:
   - Sep ☁️[Soils for Europe 2026](https://soils4europe2026.eu/) / 🙋[SEMANTiCS 2026](https://2026-eu.semantics.cc/) / ☁️NFDI4Microbiota Conference (15–17 September 2026) / ☁️[CLEF 2026](https://clef2026.clef-initiative.eu/) / ☁️[Herbsttagung Fachgruppe Naturwissenschaftliche Museen](https://www.museumsbund.de/termine/__trashed-3/) / ☁️[Open Access Tage 2026](https://mastodon.social/@v_i_o_l_a@openbiblio.social/115230452409617379)
   - Oct ☁️[Open Knowledge:Wikimedia & Research in the CEE Region](https://meta.wikimedia.org/wiki/Grants:Programs/Wikimedia_Community_Fund/Conference_Fund/Open_Knowledge:Wikimedia_%26_Research_in_the_CEE_Region)
   - Nov ☁️MaRDI Annual Meeting (November 11th-13th, Münster) / ☁️[Lange Nacht der Wissenschaften Weimar/ Weimarer Land 2026 (13 Nov)](https://www.weimar.de/kultur/veranstaltungen/hoehepunkte/lange-nacht-der-wissenschaften/) / ☁️[7th World Conference on Marine Biodiversity (Nov 17-20)](https://www.wcmb2026.org/) / ☁️[Lange Nacht der Wissenschaften Jena 2026](https://www.lndw-jena.de/) / ☁️[Base4NFDI User Conference (UC4B 2026)](https://base4nfdi.de/?view=article&id=152:save-the-date-uc4b-2026-in-berlin&catid=8)
-  - Dec
+  - Dec ☁️[Forum Wissenschaftskommunikation](https://wissenschaft-im-dialog.de/forum-wissenschaftskommunikation/)
 
 Dates not yet defined:
 - Planetary Science Wiki Edit-a-thon ([2025 edition](https://meta.wikimedia.org/wiki/Planetary_Science_Wiki_Edit-a-thon))
