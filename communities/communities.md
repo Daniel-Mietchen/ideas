@@ -221,6 +221,7 @@ These are communities I have come across before but with many of them, I have no
 * https://forschungsdaten-bildung.de/
 * https://klima-und-demokratie.de/
 * https://kniestchen-jena.de/
+* https://near.org/
 * https://nichtmituns.org/
 * https://opencollective.com/
 * https://www.pvplug.de/
