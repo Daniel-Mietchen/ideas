@@ -46,7 +46,7 @@ Dates not yet defined:
 With dates defined:
   - Jan
   - Feb
-  - Mar ☁️[70. Deutscher Kongress für Endokrinologie](https://www.endokrinologie.net/veranstaltung/70-deutscher-kongress-fuer-endokrinologie.php)
+  - Mar ☁️[70. Deutscher Kongress für Endokrinologie](https://www.endokrinologie.net/veranstaltung/70-deutscher-kongress-fuer-endokrinologie.php) (10-12 March, Bielefeld) / ☁️[MMS Days](https://www.wias-berlin.de/workshops/MMSDays27/) (15-17 March, Greifswald)
   - Apr 
   - May 
   - Jun
