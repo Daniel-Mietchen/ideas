@@ -230,7 +230,7 @@ These are communities I have come across before but with many of them, I have no
 * https://near.org/
 * https://nichtmituns.org/
 * https://opencollective.com/
-* https://www.pvplug.de/
+* https://pvplug.de/
 * https://selbsthilfe-jena.de/
 * https://skyseed.eco/
 * https://urgewald.org/
