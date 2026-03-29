@@ -212,6 +212,7 @@ These are communities I have come across before but with many of them, I have no
 * https://balkon.solar/
 * https://bioklw.de/
 * https://cardanofoundation.org/
+* https://changeclubs.global/
 * https://coincenter.org/
 * https://dbu.de/
 * https://dg-hochn.de
