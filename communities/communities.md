@@ -223,6 +223,7 @@ These are communities I have come across before but with many of them, I have no
 * https://fairwertbar-jena.de/
 * https://fingreen.de/
 * https://forschungsdaten-bildung.de/
+* https://future-of-meetings.org/
 * https://klima-und-demokratie.de/
 * https://kniestchen-jena.de/
 * https://kritischeaktionaere.de/
