@@ -233,6 +233,7 @@ These are communities I have come across before but with many of them, I have no
 * https://opencollective.com/
 * https://pvplug.de/
 * https://selbsthilfe-jena.de/
+* https://signal.org/de/
 * https://skyseed.eco/
 * https://urgewald.org/
 * https://weforest.org/
