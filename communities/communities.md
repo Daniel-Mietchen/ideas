@@ -210,6 +210,7 @@ These are communities I have come across before but with many of them, I have no
 
 * https://aktion-baum.org/
 * https://balkon.solar/
+* https://bioboden.de/
 * https://bioklw.de/
 * https://cardanofoundation.org/
 * https://changeclubs.global/
@@ -227,6 +228,7 @@ These are communities I have come across before but with many of them, I have no
 * https://klima-und-demokratie.de/
 * https://kniestchen-jena.de/
 * https://kritischeaktionaere.de/
+* https://kulturland.de/
 * https://naturstrom-stiftung.de/
 * https://near.org/
 * https://nichtmituns.org/
