@@ -226,6 +226,7 @@ These are communities I have come across before but with many of them, I have no
 * https://forschungsdaten-bildung.de/
 * https://future-of-meetings.org/
 * https://klima-und-demokratie.de/
+* https://klimabuero.org/
 * https://kniestchen-jena.de/
 * https://kritischeaktionaere.de/
 * https://kulturland.de/
