@@ -216,6 +216,7 @@ These are communities I have come across before but with many of them, I have no
 * https://changeclubs.global/
 * https://citizens-forests.org/
 * https://coincenter.org/
+* https://dgs.de/
 * https://dbu.de/
 * https://dg-hochn.de
 * https://drawdown.org/
