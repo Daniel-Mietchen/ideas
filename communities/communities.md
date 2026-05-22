@@ -242,6 +242,7 @@ These are communities I have come across before but with many of them, I have no
 * https://signal.org/de/
 * https://skyseed.eco/
 * https://solana.com/
+* https://transparente-zivilgesellschaft.de/
 * https://urgewald.org/
 * https://weforest.org/
 * https://zukunftsstiftung-landwirtschaft.de/
