@@ -237,6 +237,7 @@ These are communities I have come across before but with many of them, I have no
 * https://nichtmituns.org/
 * https://opencollective.com/
 * https://pvplug.de/
+* https://sea-watch.org/
 * https://selbsthilfe-jena.de/
 * https://signal.org/de/
 * https://skyseed.eco/
