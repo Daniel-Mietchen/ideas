@@ -223,6 +223,7 @@ These are communities I have come across before but with many of them, I have no
 * https://eden-plus.org/
 * https://explore.org/
 * https://fairwertbar-jena.de/
+* https://finanzwende.de/
 * https://fingreen.de/
 * https://forschungsdaten-bildung.de/
 * https://future-of-meetings.org/
