@@ -43,8 +43,8 @@ Dates not yet defined:
 ## 2027
 
 With dates defined:
-  - Jan
-  - Feb
+  - Jan ☁️[FOSDEM](https://workwander.tech/conference/fosdem/)
+  - Feb 
   - Mar ☁️[dHD2027](https://de.wikipedia.org/w/index.php?title=Digital_Humanities_im_deutschsprachigen_Raum&diff=next&oldid=252873497) / 🚫[70. Deutscher Kongress für Endokrinologie](https://www.endokrinologie.net/veranstaltung/70-deutscher-kongress-fuer-endokrinologie.php) (10-12 March, Bielefeld) / ☁️[MMS Days](https://www.wias-berlin.de/workshops/MMSDays27/) (15-17 March, Greifswald)
   - Apr ☁️[Tag der Provenienzforschung 2027 (April 14)](https://www.arbeitskreis-provenienzforschung.org/tag-der-provenienzforschung/)
   - May 
