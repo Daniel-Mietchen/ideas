@@ -242,6 +242,7 @@ These are communities I have come across before but with many of them, I have no
 * https://selbsthilfe-jena.de/
 * https://signal.org/de/
 * https://skyseed.eco/
+* https://smarterstart.org/
 * https://solana.com/
 * https://sunfried.de/
 * https://tdwg.org/
