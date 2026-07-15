@@ -238,6 +238,7 @@ These are communities I have come across before but with many of them, I have no
 * https://opencollective.com/
 * https://paten-der-nacht.de/
 * https://pvplug.de/
+* https://radicle.dev/
 * https://sea-watch.org/
 * https://selbsthilfe-jena.de/
 * https://signal.org/de/
