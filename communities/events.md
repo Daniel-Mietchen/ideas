@@ -73,7 +73,7 @@ With dates defined:
   - Apr 
   - May 
   - Jun ☁️[World Biodiversity Forum](https://worldbiodiversityforum.org/)
-  - Jul
+  - Jul ☁️[European Congress of Mathematics](https://sites.google.com/view/bo-ecm2028)
   - Aug 
   - Sep
   - Oct
@@ -81,7 +81,7 @@ With dates defined:
   - Dec
 
 Dates not yet defined:
-* ☁️[European Congress of Mathematics](https://sites.google.com/view/bo-ecm2028)
+* 
 
 ## 2029
 
