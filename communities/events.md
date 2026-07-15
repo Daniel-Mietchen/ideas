@@ -66,10 +66,40 @@ Dates not yet defined:
 
 ## 2028
 
+With dates defined:
+  - Jan 
+  - Feb 
+  - Mar 
+  - Apr 
+  - May 
+  - Jun ☁️[World Biodiversity Forum](https://worldbiodiversityforum.org/)
+  - Jul
+  - Aug 
+  - Sep
+  - Oct
+  - Nov 
+  - Dec
+
+Dates not yet defined:
 * ☁️[European Congress of Mathematics](https://sites.google.com/view/bo-ecm2028)
 
 ## 2029
 
+With dates defined:
+  - Jan 
+  - Feb 
+  - Mar 
+  - Apr 
+  - May 
+  - Jun 
+  - Jul
+  - Aug 
+  - Sep
+  - Oct
+  - Nov 
+  - Dec
+
+Dates not yet defined:
 * ☁️[IUCN World Conservation Congress](https://iucn.org/our-union/iucn-world-conservation-congress) 
 
 # Past years
