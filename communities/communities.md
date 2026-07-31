@@ -226,6 +226,7 @@ These are communities I have come across before but with many of them, I have no
 * https://finanzwende.de/
 * https://fingreen.de/
 * https://forschungsdaten-bildung.de/
+* https://fragdenstaat.de/
 * https://future-of-meetings.org/
 * https://klima-und-demokratie.de/
 * https://klimabuero.org/
