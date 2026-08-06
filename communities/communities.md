@@ -237,6 +237,7 @@ These are communities I have come across before but with many of them, I have no
 * https://naturstrom-stiftung.de/
 * https://near.org/
 * https://nichtmituns.org/
+* https://openacousticdevices.info/
 * https://opencollective.com/
 * https://paten-der-nacht.de/
 * https://pvplug.de/
