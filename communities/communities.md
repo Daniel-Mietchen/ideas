@@ -234,6 +234,7 @@ These are communities I have come across before but with many of them, I have no
 * https://kniestchen-jena.de/
 * https://kritischeaktionaere.de/
 * https://kulturland.de/
+* https://labmaker.org/
 * https://naturstrom-stiftung.de/
 * https://near.org/
 * https://nichtmituns.org/
