@@ -45,7 +45,7 @@ Dates not yet defined:
 With dates defined:
   - Jan ☁️[FOSDEM](https://workwander.tech/conference/fosdem/)
   - Feb ☁️deRSE (23.2.-25.2., satellite to SE27 on 22.2.-26.2., both in Dortmund)
-  - Mar ☁️[dHD2027](https://de.wikipedia.org/w/index.php?title=Digital_Humanities_im_deutschsprachigen_Raum&diff=next&oldid=252873497) / 🚫[70. Deutscher Kongress für Endokrinologie](https://www.endokrinologie.net/veranstaltung/70-deutscher-kongress-fuer-endokrinologie.php) (10-12 March, Bielefeld) / ☁️[MMS Days](https://www.wias-berlin.de/workshops/MMSDays27/) (15-17 March, Greifswald) / ☁️[Open Science Festival 2027](https://www.uni-bamberg.de/osfestival2027/)
+  - Mar ☁️[dHD2027](https://de.wikipedia.org/w/index.php?title=Digital_Humanities_im_deutschsprachigen_Raum&diff=next&oldid=252873497) / ☁️[E-Science-Tage 2027](https://e-science-tage.de) / 🚫[70. Deutscher Kongress für Endokrinologie](https://www.endokrinologie.net/veranstaltung/70-deutscher-kongress-fuer-endokrinologie.php) (10-12 March, Bielefeld) / ☁️[MMS Days](https://www.wias-berlin.de/workshops/MMSDays27/) (15-17 March, Greifswald) / ☁️[Open Science Festival 2027](https://www.uni-bamberg.de/osfestival2027/)
   - Apr ☁️[Tag der Provenienzforschung 2027 (April 14)](https://www.arbeitskreis-provenienzforschung.org/tag-der-provenienzforschung/)
   - May 
   - Jun ☁️[BiblioCon 2027](https://2027.bibliocon.de/)
