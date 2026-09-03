@@ -254,6 +254,7 @@ These are communities I have come across before but with many of them, I have no
 * https://transparente-zivilgesellschaft.de/
 * https://urgewald.org/
 * https://weforest.org/
+* https://zki.de/
 * https://zukunftsstiftung-landwirtschaft.de/
 
 # Criteria for further engagement
