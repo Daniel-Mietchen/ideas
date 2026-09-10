@@ -50,7 +50,7 @@ With dates defined:
   - May ☁️[Jahrestagung 2027 des Deutschen Museumsbundes (May 9-12, Leipzig)](https://www.museumsbund.de/startschuss-fuer-die-jahrestagung-2027-in-leipzig/)
   - Jun ☁️[BiblioCon 2027](https://2027.bibliocon.de/)
   - Jul
-  - Aug 
+  - Aug ☁️[Wikimania 2027](https://wikimania.wikimedia.org/wiki/2027:Wikimania)
   - Sep
   - Oct
   - Nov 
