@@ -51,7 +51,7 @@ With dates defined:
   - Jun ☁️[BiblioCon 2027](https://2027.bibliocon.de/) / TDWG
   - Jul
   - Aug ☁️[Wikimania 2027](https://wikimania.wikimedia.org/wiki/2027:Wikimania)
-  - Sep
+  - Sep ☁️SEMANTiCS 2027 (Bologna)
   - Oct
   - Nov 
   - Dec
