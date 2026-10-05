@@ -51,7 +51,7 @@ With dates defined:
   - Jun ☁️[BiblioCon 2027](https://2027.bibliocon.de/) / TDWG
   - Jul
   - Aug ☁️[Wikimania 2027](https://wikimania.wikimedia.org/wiki/2027:Wikimania)
-  - Sep ☁️SEMANTiCS 2027 (Bologna)
+  - Sep ☁️SEMANTiCS 2027 (Bologna), Open Access Tage (22.09.-24.09.2027 in Braunschweig)
   - Oct
   - Nov 
   - Dec
