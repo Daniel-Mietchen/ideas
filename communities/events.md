@@ -52,7 +52,7 @@ With dates defined:
   - Jul
   - Aug ☁️[Wikimania 2027](https://wikimania.wikimedia.org/wiki/2027:Wikimania)
   - Sep ☁️SEMANTiCS 2027 (Bologna), Open Access Tage (22.09.-24.09.2027 in Braunschweig)
-  - Oct
+  - Oct ☁️[WikiCon 2027](https://de.wikipedia.org/wiki/Wikipedia:WikiCon_2027)
   - Nov 
   - Dec
 
