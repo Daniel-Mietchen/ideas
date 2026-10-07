@@ -51,7 +51,7 @@ With dates defined:
   - Jun ☁️Open Science Barcamp (3 June, Berlin)  / ☁️[BiblioCon 2027](https://2027.bibliocon.de/) / ☁️TDWG (9-12 June, Montreal) / ☁️[Metascience 2027](https://metascience.info/) / ☁️[Convergence Conference](https://incentivizing-collaborative-open-research.ghost.io/conference/)
   - Jul
   - Aug ☁️[Wikimania 2027](https://wikimania.wikimedia.org/wiki/2027:Wikimania)
-  - Sep ☁️SEMANTiCS 2027 (Bologna), Open Access Tage (22.09.-24.09.2027 in Braunschweig)
+  - Sep ☁️SEMANTiCS 2027 (Bologna) / ☁️Open Access Tage (22.09.-24.09.2027 in Braunschweig)
   - Oct ☁️[WikiCon 2027](https://de.wikipedia.org/wiki/Wikipedia:WikiCon_2027)
   - Nov 
   - Dec
