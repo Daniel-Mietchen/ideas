@@ -62,6 +62,9 @@ Dates not yet defined:
 - Wikimedia Hackathon
 - WikiCon
 - WikiCon NA
+- Wikiconvention francophone
+- itWikiCon
+- Wikimedia CEE meeting
 - GLAMWiki
 
 ## 2028
