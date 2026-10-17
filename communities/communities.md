@@ -233,6 +233,7 @@ These are communities I have come across before but with many of them, I have no
 * https://globalclimateforum.org/
 * https://klima-und-demokratie.de/
 * https://klimabuero.org/
+* https://klimadialoge.de/
 * https://kniestchen-jena.de/
 * https://kritischeaktionaere.de/
 * https://kulturland.de/
