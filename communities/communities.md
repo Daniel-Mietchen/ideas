@@ -238,6 +238,7 @@ These are communities I have come across before but with many of them, I have no
 * https://kritischeaktionaere.de/
 * https://kulturland.de/
 * https://labmaker.org/
+* https://mossy.earth/
 * https://naturstrom-stiftung.de/
 * https://near.org/
 * https://nichtmituns.org/
