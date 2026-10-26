@@ -242,6 +242,7 @@ These are communities I have come across before but with many of them, I have no
 * https://naturstrom-stiftung.de/
 * https://near.org/
 * https://nichtmituns.org/
+* https://offenerheizungskeller.de/
 * https://openacousticdevices.info/
 * https://opencollective.com/
 * https://paten-der-nacht.de/
@@ -250,6 +251,7 @@ These are communities I have come across before but with many of them, I have no
 * https://radicle.dev/
 * https://sea-watch.org/
 * https://selbsthilfe-jena.de/
+* https://sfv.de/
 * https://signal.org/de/
 * https://skyseed.eco/
 * https://smarterstart.org/
