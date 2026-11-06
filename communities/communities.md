@@ -247,6 +247,7 @@ These are communities I have come across before but with many of them, I have no
 * https://openacousticdevices.info/
 * https://opencollective.com/
 * https://paten-der-nacht.de/
+* https://proveg.org/
 * https://pvplug.de/
 * https://querwege.de/
 * https://radicle.dev/
